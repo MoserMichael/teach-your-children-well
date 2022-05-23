@@ -18,3 +18,9 @@ So here I am writing down my messages to my kids (these are being sent as short 
 Let's see if this medium works...
 
 I am trying to tell interesting stories in simple English, on various topics of interest (see the other markdown files in this repository)
+
+--
+
+A song by Crosby, Stills & Nash - Teach Your Children
+
+https://www.youtube.com/watch?v=2vnYKRacKQc
