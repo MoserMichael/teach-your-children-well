@@ -1,5 +1,6 @@
 
 ---11/05/22 10:06:48----------------------
+
 (about savannah cats)
 
 Here is a video of a very big cat.
@@ -30,11 +31,11 @@ This means that the sun is a bit like an objective in a camera, like a lense tha
 
 This is a normal lense
 
-![][media/optic-lense.png]
+![](media/optic-lense.png)
 
 Now the same thing is done by the Sun, that is called gravitational lensing.
 
-![][media/gravitational-lensing.jpeg]
+![](media/gravitational-lensing.jpeg)
 
 The question is now: where is the place where the lines are coming into one point? This point is called the focus point, if you move there, then you can see the picture on the other side, and it looks larger!
 That's how a telescope works.
@@ -53,7 +54,7 @@ It is now possible to build a spaseship that could do it!
 
 The spaceship would need to travel around the sun, with a sail that gathers the energy from the sun. The sun would make the spaceship faster, so that it could travel the distance in 25 years.
 
----
+--
 
 How fast would that spaceship be?
 
@@ -72,7 +73,7 @@ How many kilometers per second would the spaceship travel per year?
 
 A spaceship that starts from earth needs to travel some eight kilometers per second.
 
----
+--
 
 A big problem is that the spaceship needs to travel some twenty five years. We don't know if the electronics on that spaceship would not break. A spaceship gets a lot of radiation that could damage the electronics.
 
@@ -83,8 +84,6 @@ Please tell me, if that was an interesting story.
 
 ---11/05/22 20:57:09----------------------
 
-
-----------------------------------
 One question that they sometimes ask at job interviews: How many filling stations are there in the usa? (A filling station is a place where a car can get fuel)
 
 Of course there is no one right way to answer such a question; the place where they ask this question wants to see, how you solve a problem like this.  It is important to show, that you do something to solve the problem, and that you don't give up.
@@ -108,7 +107,7 @@ A gas station has six lines, two pumps each, makes 12 pumps * 18 = 216 cars per 
 
 times-to-fuel-up-all-cars-per-day / times-a-station-is-used-a-day = 10.000.000 / 216 =  46296 fuel stations would be needed.
 
-----
+--
 
 A different way of solving this puzzle:
 
@@ -120,11 +119,11 @@ So that 300.000.000 / x = 100 000 / 4
 That's quite close - the real number of fuel stations in the USA is 115000 (says the internet)
 https://www.marketwatch.com/story/how-many-gas-stations-are-in-us-how-many-will-there-be-in-10-years-2020-02-16a
 
------
+--
 
 What do we learn from this? The most simple way of thinking sometimes gives you very good numbers, that's because you have to guess fewer details!
 
------
+--
 
 Tricks like this are sometimes very important: one trick like this is the "German tank problem".
 During world war 2 there was a German tank, the Panther tank https://en.wikipedia.org/wiki/Panther_tank
@@ -148,41 +147,40 @@ https://www.theguardian.com/world/2006/jul/20/secondworldwar.tvandradio
 In our time you can't use this trick: everyone uses random numbers for serial numbers in tanks, so that the number of tanks can't be guessed....
 If you know about a trick, then there is a way to make the trick useless...
 
-----
+--
 
 Now in ten years you will probably have other interview questions. All the cars will be electric cars, like the Tesla, and no one will know what a filling station was good for.
 
----
 
 ---13/05/22 01:22:20----------------------
 
+--
 
-----------------------------------
 Something about horses:
 
 A hundred and thirty years ago they had busses like this, in the 1890ies 
 
-![][media/omnibus.jpg]
+![](media/omnibus.jpg)
 
 This is an Omnibus, a horse is pulling it.
 
 And London would look like this:
 
-![][media/london-1890.jpg]
+![](media/london-1890.jpg)
 
 Now ten years later, in 1900, and you don't see a lot of horses in London:
 Interesting that many of these cars were electric, they had batteries, just like the Tesla now!
 But then they stopped making electric cars, as cars on petrol became better and better.
 
-![][media/london-1900.jpg]
+![](media/london-1900.jpg)
 
 Another thing with airplanes: This is the first airplaine, the Wright brothers built it in 1903, the first flight took 12 seconds over 36 meters.
 
-![][media/1903-first-plane.jpeg]
+![](media/1903-first-plane.jpeg)
 
 And that is the rocket that tooks us to the moon, sixty six years later. 
 
-![][media/saturn-v.jpeg]
+![](media/saturn-v.jpeg)
 
 This rocket is producing as much energy, for a few minutes, as all of the electric power stations in Great Britain!
 
@@ -210,13 +208,13 @@ The whole war two was a lot about fuel, the big battle of Stalingrad was the big
 
 So the war today in Ukraine is the first big war in Europe without horses!
 
----
+--
 
 You can see tanks from world war two in the Latrun tank museum, right next to Modiin.
 
-Here is a Panzer-4 from the bad German army, some twenty years later it fought against us, for Syria against Israel!  ![][media/panzer-4-latrun.jpg]
+Here is a Panzer-4 from the bad German army, some twenty years later it fought against us, for Syria against Israel!  ![](media/panzer-4-latrun.jpg)
 
-And here is the Russian T34 in Latrun, that is the tank that won world war 2 and saved our grandfathers and grandmothers: ![][media/T-34-85-latrun-1.jpg]
+And here is the Russian T34 in Latrun, that is the tank that won world war 2 and saved our grandfathers and grandmothers: ![](media/T-34-85-latrun-1.jpg)
 
 
 Here in Latrun one can climb and stand on top of the tank, that's because no one wants to serve in a Tank, these are not popular army units.
