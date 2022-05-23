@@ -260,7 +260,7 @@ The old ornaments:
 
 Here is a room from the late 19th century designed like this:
 
-![](media/media/neo-design.jpeg)
+![](media/neo-design.jpeg)
 
 Showing off how strong your are was very important in the late nineteenth century.
 Most of Europe had kings and queens and they didn't like changes, because any change of government would have thrown out the kings and the queens.
