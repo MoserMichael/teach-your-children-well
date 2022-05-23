@@ -7,7 +7,8 @@ Here is a video of a very big cat.
 
 This is a very big cat
 
-<video src='media/kot.mp4'/>
+<video src='media/kot.mov' width='478'/>
+
 
 
 This kind of cat is called the Savannah cat. This kind of cat is very big and expensive, because her dad or granddad was a Serval or Lynx (that's a very big wild cat) and her mother was a regular cat.
