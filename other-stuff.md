@@ -73,11 +73,13 @@ How many kilometers per second would the spaceship travel per year?
 
 3288 million kilometers per year = 3288000000 kilometers per year /  31536000 seconds per year =  104.2 kilometers per second.
 
-A spaceship that starts from earth needs to travel some eight kilometers per second.
+A normal spaceship that starts from earth and goes to the international space station is going is much slower, it has a speed of some eight kilometers per second.
+
+So this one must be 104.2 / 8 = 13.025 times faster!
 
 --
 
-A big problem is that the spaceship needs to travel some twenty five years. We don't know if the electronics on that spaceship would not break. A spaceship gets a lot of radiation that could damage the electronics.
+A big problem is that the spaceship needs to travel some twenty five years. We don't know if the electronics on that spaceship would not break with this amount of radiation. A spaceship gets a lot of radiation that could damage the electronics.
 
 Right now NASA has to decide, if they want to do such a project.
 
@@ -193,7 +195,9 @@ That means that the number of horses was equal to the number of soldiers divided
 
 At some very bad battle they said that a horse is more important than a soldier, a soldier can be replaced, but a horse can't be replaced. (the battle of Passchendaele)
 
-There are monuments to the horses in world war one ![][media/horse-monument-ww1.jpeg]
+There are monuments to the horses in world war one 
+
+![](media/horse-monument-ww1.jpeg)
 
 And they had still a lot of horses in world war two, some twenty one years later, in 1939.
 
@@ -201,7 +205,9 @@ The Soviet army didn't have a lot of horses in 1941, when the Nazis came. But th
 What saved the Red army: some five hundred thousand horses that came from Mongolia, the land of the horses!
 Even today they have more horses than people in Mongolia, and once upon a time Mongolia was a very big country that ruled over half the world!
 
-In Moscow they have a monument to the horses in world war two ![][media/horse-monument-moscow.jpg]
+In Moscow they have a monument to the horses in world war two 
+
+![](media/horse-monument-moscow.jpg)
 
 And the bad Nazis also had a lot of horses, they had a problem with fuel, they did not have a lot of fuel and hat to save it.
 The German army had a million horses, all the time. Each infantry division had thousands of horses.
