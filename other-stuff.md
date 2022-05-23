@@ -228,6 +228,80 @@ And here is the Russian T34 in Latrun, that is the tank that won world war 2 and
 Here in Latrun one can climb and stand on top of the tank, that's because no one wants to serve in a Tank, these are not popular army units.
 
 
+---23/05/22 13:47:38----------------------
+
+Today I want to talk about design of things, that is the way that things look like. This can be big things like houses and buildings like schools. This can also also about smaller things that we have in our house: chairs, tables, lamps, tea pots.
+
+One hundred and fifty years ago people wanted houses and buildings to look like they did in the Roman Empire and classical Greece, the Roman Empire existed some two thousand years ago, that was a long long time ago.
+
+An example of a building from the Roman Empire: the Pantheon in the city of Rome, this was a Roman temple when it was built, now it is a church.
+It is the only building from that time that is still standing - the same as it was built.
+
+![](media/pantheon_2.jpeg)
+
+![](media/pantheon-inside.jpeg)
+
+This building tells you something: we could build such a big thing, and we have a lot of power, so you better do what we say, else...
+
+--
+
+You can see the same style of building in the late nineteenth century, almost two thousand years later, like with the building of the British museum:
+
+![](media/british_museum.jpeg)
+
+The main court of the USA - the surpreme court, also built in the nineteenth century
+
+![](media/us-surpreme-court.webp)
+
+Also they liked to use the same ornaments in the nineteenth century, like in ancient Greece
+The old ornaments:
+
+![](media/greek-ornaments.webp)
+
+Here is a room from the late 19th century designed like this:
+
+![](media/media/neo-design.jpeg)
+
+Showing off how strong your are was very important in the late nineteenth century.
+Most of Europe had kings and queens and they didn't like changes, because any change of government would have thrown out the kings and the queens.
+
+Germany had the kaiser Wilhelm I and Wilhelm II - a kaiser is a kind of king.
+Austria had an Emperor was a very big country, it ruled over Hungary, Czechia, Slovakia, big parts of former Jugoslavia and Poland, an emperor is also a kind of king
+Russia had an Emperor and Britain had a queen (but she doesn't have to say anything)
+
+--
+
+Then came world war one, from 1914 to 1918, that was a terrible war, where some fourteen million people died, in all of Europe.
+
+That was one big and terrible war, after the war most of the kinds and queen were thrown out (except for the queen of England)
+
+Most countries got a parliament instead of them (except for Russia, which got a dictatorship instead)
+
+-- 
+
+Now people were asking how stuff like houses lamps and tea pots should look like...
+
+What we got instead of neoclassical design is a modern design of things that you can still see today at Ikea!
+
+Someone had to invent this design, this was done in Germany at a school called the Bauhaus (that means a house for the art of building).
+
+What they did was very new: they said that we have to find new ways of thinking about design.
+
+To do this they had a lot of people in one school:
+ - they had artists who knew how to paint modern paintings
+ - they had craftsmen - to learn how to do things like lamps and tea pots
+ - they had architect - to learn how to do new kinds of houses
+
+We will learn more about the Bauhaus in the next lesson.
+
+
+
+
+
+
+
+
+
 
 
 
