@@ -249,11 +249,11 @@ You can see the same style of building in the late nineteenth century, almost tw
 
 ![](media/british_museum.jpeg)
 
-The main court of the USA - the surpreme court, also built in the nineteenth century
+The main court of the USA - the supreme court, also built in the nineteenth century
 
 ![](media/us-surpreme-court.webp)
 
-Also they liked to use the same ornaments in the nineteenth century, like in ancient Greece
+Also they liked to use the same ornaments in the nineteenth century, like in ancient Greece.
 The old ornaments:
 
 ![](media/greek-ornaments.webp)

@@ -4,7 +4,7 @@ New project: I should focus more on my kids, instead of posting stupid stuff int
 I guess that social networks are turning into some kind of tool for social control, it's a new trick of those who are in charge:
 
 Once upon a time they used to find a single narrative, one that would fit everyone.
-They would then use that narrative and  push it through the tube, down the throat of everyone else.
+They would then use that narrative and  push it through via the TV screen and the newspapers, so as to push it down the throat of everyone...
 
 Nowadays things changed: they are now assuming, that society is inherently divided into multiple tribes. Now the social networking thing is trying to build allegiances among the member of each particular tribe, instead of trying to find a common narrative.
 
