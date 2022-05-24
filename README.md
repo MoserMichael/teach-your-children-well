@@ -1,6 +1,12 @@
 
 New project: I should focus more on my kids, instead of posting stupid stuff into social networks (or instead of coding up other useless stuff) "teach your children well" Let's try... 
 
+It is relatively easy for me to dig up something of interest on "the internet", maybe i will succeed at teaching my kids on how to do that.
+The trick is basically to keep digging.
+
+--
+One rational: me getting bored on "the internet"
+
 I guess that social networks are turning into some kind of tool for social control, it's a new trick of those who are in charge:
 
 Once upon a time they used to find a single narrative, one that would fit everyone.
@@ -13,6 +19,8 @@ Of course guess who is the gatekeeper that is to decides on what counts as "fake
 It's a change of focus in the tools used for brainwashing. I think that I should drop out of all this madness...
 
 --
+
+Methodology:
 
 So here I am writing down my messages to my kids (these are being sent as short stories via WhatsApp).
 Let's see if this medium works...
