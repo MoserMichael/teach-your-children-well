@@ -5,7 +5,8 @@ It is relatively easy for me to dig up something of interest on "the internet", 
 The trick is basically to keep digging.
 
 --
-One rational: me getting bored on "the internet"
+
+One rational: me getting bored on "the internet" and being a bit disillusioned about all of it... (need a new motivation, sort of)
 
 I guess that social networks are turning into some kind of tool for social control, it's a new trick of those who are in charge:
 
@@ -17,6 +18,8 @@ Nowadays things changed: they are now assuming, that society is inherently divid
 Of course guess who is the gatekeeper that is to decides on what counts as "fake news" and "fake information", gotcha!
 
 It's a change of focus in the tools used for brainwashing. I think that I should drop out of all this madness...
+
+One solution for this is ... to keep digging.
 
 --
 
