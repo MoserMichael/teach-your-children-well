@@ -296,6 +296,22 @@ We will learn more about the Bauhaus in the next lesson.
 
 
 
+---25/05/22 16:46:38----------------------
+
+And now for something completely different:
+
+![](media/rainbow-cloud.jpg)
+
+This is a special rainbow, it is very rare.
+
+You need a cloud that is very high, the cloud is made of ice crystal, all in the following shape
+
+![](media/hexagon.jpeg)
+
+Now the sun needs to shine, so that the light comes from a special angle, that's when you get this rainbow.
+
+I saw this wonder here:  [here](https://twitter.com/FabulousWeird/status/1529225729216393216)
+
 
 
 
