@@ -21,6 +21,8 @@ It's a change of focus in the tools used for brainwashing. I think that I should
 
 One solution for this is ... to keep digging.
 
+(that's one of my objectives: to teach my growing kids, that it is easy to write up something of interest, after you search a little bit on the internet, which is of course a fricking big internet...)
+
 --
 
 Methodology:
