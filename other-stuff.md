@@ -294,8 +294,6 @@ To do this they had a lot of people in one school:
 
 We will learn more about the Bauhaus in the next lesson.
 
-
-
 ---25/05/22 16:46:38----------------------
 
 And now for something completely different:
@@ -313,12 +311,22 @@ Now the sun needs to shine, so that the light comes from a special angle, that's
 I saw this wonder here:  [here](https://twitter.com/FabulousWeird/status/1529225729216393216)
 
 
+---11/06/22 05:40:56----------------------
 
+This animal is called a "sea angel"
 
+https://github.com/MoserMichael/teach-your-children-well/releases/download/0.0.1/sea-angle.mp4
 
+It is a very small animal, living in a very cold place, the arctic ocean.
 
+It has also another name, says the English Wikipedia - it is called "whale food", because whales do it it a lot. The sea angel is not very big, it is several centimeters long https://en.wikipedia.org/wiki/Clione_limacina
 
+Wikipedia in Russian says that scientist have studied the brain of the sea angel, because it has a very simple brain, and it is easy to study. This way they can study, how the neurons talk to each other. Neurons are very small cells in the brain. https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB_(%D0%BC%D0%BE%D0%BB%D0%BB%D1%8E%D1%81%D0%BA)
 
+You can see - it is easy to learn different things, if you look at the same wikipedia article that is written in different languages...
 
+And pokemon manaphy has been inspired by the sea angel!
+
+And a sea angel is eating sea butterflies, but it can stay a year without food!!!
 
 
