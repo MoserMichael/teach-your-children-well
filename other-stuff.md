@@ -88,7 +88,7 @@ Please tell me, if that was an interesting story.
 
 ---11/05/22 20:57:09----------------------
 
-One question that they sometimes ask at job interviews: How many filling stations are there in the usa? (A filling station is a place where a car can get fuel)
+One question that they sometimes ask at job interviews: How many filling stations are there in the usa? (A filling station is a place where a car can get fuel for your car)
 
 Of course there is no one right way to answer such a question; the place where they ask this question wants to see, how you solve a problem like this.  It is important to show, that you do something to solve the problem, and that you don't give up.
 
@@ -118,7 +118,7 @@ A different way of solving this puzzle:
 We live in a town of 100.000 people, we have four fuel stations in our town.
 So that 300.000.000 / x = 100 000 / 4
 
-4 * 300.000.000 / 100.000  == 4 * 30000 = 120000 
+x = 4 * 300.000.000 / 100.000  == 4 * 30000 = 120000 
 
 That's quite close - the real number of fuel stations in the USA is 115000 (says the internet)
 https://www.marketwatch.com/story/how-many-gas-stations-are-in-us-how-many-will-there-be-in-10-years-2020-02-16a
@@ -328,5 +328,120 @@ You can see - it is easy to learn different things, if you look at the same wiki
 And pokemon manaphy has been inspired by the sea angel!
 
 And a sea angel is eating sea butterflies, but it can stay a year without food!!!
+
+
+---11/06/22 05:50:40----------------------
+
+Back to the Bauhaus, and to how things are designed
+
+Now we talked about world war one, and that it came as a big shock to many people.
+Most people thought that things can only get better, they were very optimistic, here is why:
+
+This is a graph, it tells you the cost of all things that were made in England for any year from 1200 to 1917.
+
+![idea of progress in terms of money](gdp-england-to-1917.png)
+
+You see that things were really getting better, the world was getting richer - ever since 1764, when James Watt invented the steam engine.
+
+Here is a steam engine can create a lot of new energy. 
+
+![](steam-engine.jpeg)
+
+you burn coal, it warms water that turns into steam, this steam moves the machine forward!
+
+Without the steam engine we had the energy of horses and donkeys. Well, we had the power of a flowing river, you can make the flowing water move a big wheel.
+There is a problem with that - you can only have that next to a river, but you can put a steam engine almost everywhere.
+
+And a hundred years after the steam engine people also started to use electricity, that's even more energy.
+Some people were getting richer and richer!
+
+
+Now with all this power you can make much better weapons too, these weapons can destroy a lot of things. Progress is not always good, it has a dark side as well...
+
+You had a lot of destruction in world war one, that was the first modern war. Everything new was used to kill even more soldiers, you got very new stuff like air planes, u-boats that swim under the sea and poison gas and lots and lots of very big guns that can blow up a big area with dynamite - that was a new explosive much stronger than gun powder.
+
+![Battle of Verdun](media/verdun-1918.jpg)
+
+So after world war one, a lot of people thought: what shall we do now?
+
+One thing that helps people in difficult times is art, so you had a lot of changes in art.
+Some people became interested in the Chinese and Japanese philosophy and art - they thought that Europe did not have all the answers, and that they had to look for new places for answers.
+
+![](media/wabi-sabi-painting.jpeg)
+
+Tao or Dao is a way of thinking from China, they want to find harmony with nature, they also say that one should do as little as possible - because you would mess up nature if you do too much.  
+In Japanese art you have Wabi-Sabi, here artists try to have a beautiful painting with as little as possible, this is called minimalism.
+
+Interesting that Martin Buber was saying that Tao/Daoism has many similarities with Hassidism.
+
+You have a similar style of thinking in tech, Antoine de Saint-Exupéry is a french writer, he wrote the following (I used to read his book a lot, when I was your age :-)
+He says that an airplane is nearest to perfection, when ... there is no detail that can be removed from it.
+
+“And now, having spoken of the men born of the pilot's craft, I shall say something about the tool with which they work - the airplane. Have you looked at a modern airplane? Have you followed from year to year the evolution of its lines? Have you ever thought, not only about the airplane but about whatever man builds, that all of man's industrial efforts, all his computations and calculations, all the nights spent over working draughts and blueprints, invariably culminate in the production of a thing whose sole and guiding principle is the ultimate principle of simplicity? ...
+In anything at all, perfection is finally attained not when there is no longer anything to add, but when there is no longer anything to take away, when a body has been stripped down to its nakedness."
+
+From "Wind, Sand and Stars" Antoine de Saint-Exupere
+
+In a way this minimalism is similar to the sense of beauty in a mathematical proof, this one is also beautiful, if you can't take anything away from it.
+
+That's what you later got in the esthetics of Bauhaus.
+
+Ludwig Mies van der Rohe was the chief architect of Bauhaus and he said "Less is more" !
+
+Much later you can see the same thing with ... telephones!
+
+We had this telephone at our home, when I was a little kid. How do you dial a number? Stick your finger in a number and move the hole as far as possible!
+
+![](media/rotary_phone.jpeg)
+
+Later you had these - easier to use, but it still needs to be connected to a plug in the wall
+
+![](media/key-pad-phone.jpeg)
+
+Later you could put them in your pocket, the first cell phone that I got looked like this (you could play snake on it ;-)
+
+![](media/nokia-brick-phone.webp)
+
+Then these phones got a stronger computer, and you would have something like this! It even has a keyboard!
+
+![](media/blackberry6210.webp)
+
+(some people actually say that it is much easier to type with the keyboard on a blackberry - easier than what you have now)
+
+But then cam Steve Jobs and asked: what can you remove from the phone? Is there something that you could do without?
+
+![](media/iphone.webp)
+
+(Actually you had to add a touchpad for that, so it's not only removing stuff)
+
+---
+
+... and here is the full graph for the GDP growth in Britain, for almost a thousand years. You see that science and technology really changed things...
+
+![](media/GDP-per-capita-in-the-uk-since-1270.png)
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
