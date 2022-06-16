@@ -339,13 +339,13 @@ Most people thought that things can only get better, they were very optimistic, 
 
 This is a graph, it tells you the cost of all things that were made in England for any year from 1200 to 1917.
 
-![idea of progress in terms of money](gdp-england-to-1917.png)
+![idea of progress in terms of money](media/gdp-england-to-1917.png)
 
 You see that things were really getting better, the world was getting richer - ever since 1764, when James Watt invented the steam engine.
 
 Here is a steam engine can create a lot of new energy. 
 
-![](steam-engine.jpeg)
+![](media/steam-engine.jpeg)
 
 you burn coal, it warms water that turns into steam, this steam moves the machine forward!
 
@@ -361,6 +361,7 @@ Now with all this power you can make much better weapons too, these weapons can 
 You had a lot of destruction in world war one, that was the first modern war. Everything new was used to kill even more soldiers, you got very new stuff like air planes, u-boats that swim under the sea and poison gas and lots and lots of very big guns that can blow up a big area with dynamite - that was a new explosive much stronger than gun powder.
 
 ![Battle of Verdun](media/verdun-1918.jpg)
+That was a very big battle - a battle of Verdun, about a million soldiers died there!
 
 So after world war one, a lot of people thought: what shall we do now?
 
@@ -420,6 +421,7 @@ But then cam Steve Jobs and asked: what can you remove from the phone? Is there 
 
 ![](media/GDP-per-capita-in-the-uk-since-1270.png)
 
+... But some people say that there is a big error here: the same amount of money today is worth less than a hundred years ago. That's called inflation - one pound from a thousand years ago could bye many more things than today.
 
 
 
