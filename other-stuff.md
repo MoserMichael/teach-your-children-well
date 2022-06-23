@@ -424,6 +424,50 @@ But then cam Steve Jobs and asked: what can you remove from the phone? Is there 
 ... But some people say that there is a big error here: the same amount of money today is worth less than a hundred years ago. That's called inflation - one pound from a thousand years ago could bye many more things than today.
 
 
+---23/06/22 10:49:18----------------------
+
+Bauhaus wrapup:
+
+So the Bauhaus was about minimalism - that is about finding a simple way to express your art, and about bringing this art to everybody - in the form of designing things like chairs, lamps, houses, fonts for writing, clothes and paintings.
+
+Like with the Bauhaus chair by Marcel Breuer - so you see where Ikea is getting their ideas...
+
+[](media/Marcel-Breuer-chair-b33.jpg)
+
+[](media/Marcel-Breuer-chair-b3.jpg)
+
+This lamp by Wilhelm Wagenfeld
+
+[](media/media/Wagenfeld-lamp-WA24.jpg)
+
+And this teapot by the same artist
+
+[](media/Wilhelm_Wagenfeld_Teapot.jpg)
+
+
+Minimalism means that you use only a few features, just the most important ones. So you need to know your stuff well: know a lot about shapes, materials, movement.
+
+Students at the Bauhaus had a foundation course - here they learned about things likes basic shapes - these are square, triangle and circle - everything is reduced to these shapes
+
+They learned about movement and had theater classes
+
+The teacher of this course said: "before you draw a tiger, you have to roar like a tiger" - you need to experience 
+
+After this first course they were learning about materials and how to use them in different workshops - metal workshop, weaving workshops, architecture workshops, etc.
+
+In later years the school focused on architecture - we see a lot of that in Tel-Aviv, which is called the "white city", there are a lot of building that were built like this:
+
+[](media/tel-aviv-bauhaus1.jpg)
+
+[](media/tel-aviv-bauhaus2.jpg) 
+
+[](media/tel-aviv-bauhaus3.jpg)
+
+Most of the artists had to go to other countries, when the Nazis took power in Germany.
+This style then became very common in a lot of places, all around the world.
+Tel-Aviv was a city that was under constructions, a city was growing fast in that time, and a lot of buildings were built in that style.
+
+Here is an interesting documentary on the subject: https://www.youtube.com/watch?v=2a45UBCIbJc
 
 
 
