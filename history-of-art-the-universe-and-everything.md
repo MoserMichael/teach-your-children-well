@@ -70,7 +70,7 @@ This is Homo Erectus scientists found much more than the bones of a head here, w
 
 We think they looked like this
 
-![](media/homo-erectus.jpeg)
+![](media/homo-erectus.png)
 
 People know that they got out of Africa, they got to Europe and Asia, and even crossed the sea to the island of Java
 You need boats to cross the sea to Indonesia, it is too hard to swim that distance!
