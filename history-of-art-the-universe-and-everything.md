@@ -57,7 +57,10 @@ Is that art? The stone could mean a lot to the people who brought it to the cave
 These people were before Humans, they are called Australopithecus - we know very little about this kind, we have only the bones of the head, and some tools that they made.
 https://simple.wikipedia.org/wiki/Australopithecus
 
-Venus of Berekhat Ram : a stone figure of a women that was found in Israel, you can see it in the Israel museum, it is from 280000 years ago!
+---
+Here is some more art from a very long time ago:
+
+This is the "Venus of Berekhat Ram" : a stone figure of a women that was found in Israel, you can see it in the Israel museum in Jerusalem, it is from 280000 years ago!
 It had some paint on it, so many scientist think that this was art.
 
 ![](media/venus-berekhat-ram-2.jpg)
