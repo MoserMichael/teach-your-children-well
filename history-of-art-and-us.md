@@ -65,6 +65,8 @@ Here is some more art from a very long time ago:
 This is the "Venus of Berekhat Ram" : a stone figure of a women that was found in Israel, you can see it in the Israel museum in Jerusalem, it is from 280000 years ago!
 It had some paint on it, so many scientist think that this was art.
 
+There are many museums in the world, but you need to go to Jerusalem, if you want to see the first art ever!
+
 ![](media/venus-berekhat-ram-2.jpg)
 
 ![](media/venus-berekhat-ram-23.jpg)
