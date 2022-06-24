@@ -97,8 +97,31 @@ Maybe they were talking by making signs with their hands, but we don't know exac
 
 But we don't know for sure, they all died, and now we have no Homo Erectus to ask...
 
+---
 
+We don't know how Homo Erectus talked to each other.
+Some scientist say that they must have had some language - to teach their kids how to make complicated tools.
 
+They didn't have a larynx and a complicated tongue.
+A larynx is what you have in your throat, you need that to make sounds for speaking
+
+![](media/human-larynx.jpeg)
+
+But you can teach a Gorilla or a Bonobo some sign language. Sign language is what Humans who can't speak use.
+
+Here is an example of American Sign language - that's how you talk with a person who can't speak.
+
+https://www.youtube.com/watch?v=p0ufyoe0URA
+
+Here is Koko - she was a Gorilla who learned human sign language! She could tell us simple stuff.
+
+https://www.youtube.com/watch?v=FqJf1mB5PjQ
+
+Maybe Homo Erectus could talk about more complicated things with his hands! He had a bigger brain and could stand on his feet - that means that his hands were not busy with moving him from one point to the other.
+
+Also Homo Erectus knew how to make fire, that means he could cook his food. Cooked food has more energy in it, so he didn't have to eat plants all day.
+
+---
 
 
 
