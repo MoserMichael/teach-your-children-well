@@ -90,7 +90,8 @@ Here is how a steam engine works:
 
 Hot steam comes in through the red arrow on the top, it flows through the pipe
 
-First, the wheel keeps turning and it pulls the upper piston from the left to the right, now another valve opens up that allows the stream to go into the lower room.
+First, the wheel keeps turning and it pulls the upper piston from the left to the right, now another valve opens up that allows the stream to go into the big lower room.
+
 In the lower part of the picture: the stream is now pushing the big piston and shaft from the left to the right, this shaft is then pushing the wheel.
 
 This is a piston
@@ -107,7 +108,11 @@ Instead another tube opens, and the hot stream is going back through the upper a
 
 The condenser is cooling the water, then the water again enters the big kettle. 
 
-In the big kettle the water is again warmed and turned into stream, so that it can go back through the upper red arrow into the machine
+The stream is much colder in the condenser and is of a much lower pressure, that's why it is pulling the hot stream out of the engine.
+
+The cold water then goes into the big kettle, where the water is again warmed and turned into steam.
+The steam now goes back through the upper red arrow into the machine...
+
 
 ---
 
@@ -230,3 +235,7 @@ This style then became very common in a lot of places, all around the world.
 Tel-Aviv was a city that was under constructions, a city was growing fast in that time, and a lot of buildings were built in that style.
 
 Here is an interesting documentary on the subject: https://www.youtube.com/watch?v=2a45UBCIbJc
+
+-----
+
+You see, we learned a bit about history, a bit about art and a bit about tech...
