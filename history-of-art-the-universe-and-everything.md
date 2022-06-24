@@ -51,7 +51,7 @@ The very first art that we know about is here, it comes from three million years
 ![](media/Makapansgat_pebble.png)    
 
 This small stone is a crystal, it looks a bit like a face, and the people of three million years ago added some scratches, to make it look more like a face.
-This crystal does not from the cave, you can find it 30 kilometer away from that cave.
+This crystal does not come from the cave, you can find it 30 kilometer away from that cave.
 This means they had to take and move the stone all by themselves!
 
 Is that art? The stone could mean a lot to the people who brought it to the cave - they found it far away and had to keep it!
