@@ -36,7 +36,9 @@ at 1:40 they are in a painting by Monet, many many small dots, like pixels.
 
 at 1:47 they are in a field with sun flowers, just like Van Gogh
 
-at 2:08 in a surrealist painting, where the roots of the tree come all into the boot where Wall-E found the plant/flower - here people started to draw ideas,
+at 2:08 in a surrealist painting, where the roots of the tree come all into the boot where Wall-E found the plant/flower.
+Surrealist means that this is not real, trees don't have roots like this.
+You draw like this if you want to show ideas, not things that exist in the real world.
 
 You see that two robots are going through a journey, as if they learn again what humans learned through their own journey, and all that through the eyes of art.
 Art is like a kind of time machine, if you look at both the art and its time.
