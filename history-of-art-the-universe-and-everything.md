@@ -46,11 +46,13 @@ And that's what we will talk about now...
 
 The very first art that we know about is here, it comes from three million years ago!
 
-[](media/Makapansgat_pebble.png)    
+![](media/Makapansgat_pebble.png)    
 
-The stone is a crystal, it looks a bit like a face, and the people of three million years ago added some scratches, to make it look more like a face.
-This crystal is not in the cave, you can find it 30 kilometer away from the cave, where our early ancestors lived.
-Is that art? The stone would mean a lot to the people who brought it to the cave - it was important to them...
+This small stone is a crystal, it looks a bit like a face, and the people of three million years ago added some scratches, to make it look more like a face.
+This crystal comes not from the cave, you can find it 30 kilometer away from the cave, where our early ancestors lived.
+This means they had to take and move the stone all by themselves!
+
+Is that art? The stone could mean a lot to the people who brought it to the cave - they found it far away and had to keep it!
 
 These people were before Humans, they are called Australopithecus - we know very little about this kind, we have only the bones of the head, and some tools that they made.
 https://simple.wikipedia.org/wiki/Australopithecus
@@ -58,9 +60,9 @@ https://simple.wikipedia.org/wiki/Australopithecus
 Venus of Berekhat Ram : a stone figure of a women that was found in Israel, you can see it in the Israel museum, it is from 280000 years ago!
 It had some paint on it, so many scientist think that this was art.
 
-[](media/venus-berekhat-ram-2.jpg)
+![](media/venus-berekhat-ram-2.jpg)
 
-[](media/venus-berekhat-ram-23.jpg)
+![](media/venus-berekhat-ram-23.jpg)
 
 This was before Humans- but we know much more about the artist! 
 
@@ -68,18 +70,18 @@ This is Homo Erectus scientists found much more than the bones of a head here, w
 
 We think they looked like this
 
-[](media/homo-erectus.jpeg)
+![](media/homo-erectus.jpeg)
 
 People know that they got out of Africa, they got to Europe and Asia, and even crossed the sea to the island of Java
 You need boats to cross the sea to Indonesia, it is too hard to swim that distance!
 
 They made very complicated tools like this one:
 
-[](media/Acheulean_axe.jpg)
+![](media/Acheulean_axe.jpg)
 
 And this:
 
-[](media/homo_erectus-tools.jpeg)
+![](media/homo_erectus-tools.jpeg)
 
 It takes hundred of hours to make one like this, you need to plan what to do.
 You also need to teach your children how to make these, so they must have known how to talk, somehow.
