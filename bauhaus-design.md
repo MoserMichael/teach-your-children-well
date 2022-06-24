@@ -80,9 +80,34 @@ You see that things were really getting better, the world was getting richer - e
 
 Here is a steam engine can create a lot of new energy. 
 
-![](media/steam-engine.jpeg)
+You burn coal, the fire then warms water that turns into steam, this steam has a lot of energy, and it moves the machine forward!
 
-you burn coal, it warms water that turns into steam, this steam moves the machine forward!
+Here is how a steam engine works:
+
+![](media/steam-engine.gif)
+
+Hot steam comes in through the red arrow on the top, it flows through the pipe
+
+First, the wheel keeps turning and it pulls the upper piston from the left to the right, now another valve opens up that allows the stream to go into the lower room.
+In the lower part of the picture: the stream is now pushing the big piston and shaft from the left to the right, this shaft is then pushing the wheel.
+
+This is a piston
+
+![](media/piston.jpg)
+
+The piston is moving through the cylinder, this is a cylinder
+
+![](media/cylinder.png)
+
+Then the wheel keeps turning, the wheel pushes back the piston int the upper room. Now the tube that is pushing in the steam is being closed, so that no hot stream can go through that valve.
+
+Instead another tube opens, and the hot stream is going back through the upper arrow, right back into a part that is called condenser.
+
+The condenser is cooling the water, then the water again enters the big kettle. 
+
+In the big kettle the water is again warmed and turned into stream, so that it can go back through the upper red arrow into the machine
+
+---
 
 Without the steam engine we had the energy of horses and donkeys. Well, we had the power of a flowing river, you can make the flowing water move a big wheel.
 There is a problem with that - you can only have that next to a river, but you can put a steam engine almost everywhere.
