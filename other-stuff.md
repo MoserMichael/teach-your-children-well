@@ -432,17 +432,17 @@ So the Bauhaus was about minimalism - that is about finding a simple way to expr
 
 Like with the Bauhaus chair by Marcel Breuer - so you see where Ikea is getting their ideas...
 
-[](media/Marcel-Breuer-chair-b33.jpg)
+![](media/Marcel-Breuer-chair-b33.jpg)
 
-[](media/Marcel-Breuer-chair-b3.jpg)
+![](media/Marcel-Breuer-chair-b3.jpg)
 
 This lamp by Wilhelm Wagenfeld
 
-[](media/media/Wagenfeld-lamp-WA24.jpg)
+![](media/media/Wagenfeld-lamp-WA24.jpg)
 
 And this teapot by the same artist
 
-[](media/Wilhelm_Wagenfeld_Teapot.jpg)
+![](media/Wilhelm_Wagenfeld_Teapot.jpg)
 
 
 Minimalism means that you use only a few features, just the most important ones. So you need to know your stuff well: know a lot about shapes, materials, movement.
@@ -457,11 +457,11 @@ After this first course they were learning about materials and how to use them i
 
 In later years the school focused on architecture - we see a lot of that in Tel-Aviv, which is called the "white city", there are a lot of building that were built like this:
 
-[](media/tel-aviv-bauhaus1.jpg)
+![](media/tel-aviv-bauhaus1.jpg)
 
-[](media/tel-aviv-bauhaus2.jpg) 
+![](media/tel-aviv-bauhaus2.jpg) 
 
-[](media/tel-aviv-bauhaus3.jpg)
+![](media/tel-aviv-bauhaus3.jpg)
 
 Most of the artists had to go to other countries, when the Nazis took power in Germany.
 This style then became very common in a lot of places, all around the world.
