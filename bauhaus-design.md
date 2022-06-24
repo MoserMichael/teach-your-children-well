@@ -80,6 +80,8 @@ You see that things were really getting better, the world was getting richer - e
 
 Here is a steam engine can create a lot of new energy. 
 
+![](media/steam-engine.jpeg)
+
 You burn coal, the fire then warms water that turns into steam, this steam has a lot of energy, and it moves the machine forward!
 
 Here is how a steam engine works:
