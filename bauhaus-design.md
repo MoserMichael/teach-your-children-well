@@ -78,11 +78,11 @@ This is a graph, it tells you the cost of all things that were made in England f
 
 You see that things were really getting better, the world was getting richer - ever since 1764, when James Watt invented the steam engine.
 
-Here is a steam engine can create a lot of new energy. 
+Here is a steam engine, it can create a lot of energy!
 
 ![](media/steam-engine.jpeg)
 
-You burn coal, the fire then warms water that turns into steam, this steam has a lot of energy, and it moves the machine forward!
+You burn coal, the fire then warms water that turns into steam, this steam has a lot of energy and pressure, and it move the machine forward!
 
 Here is how a steam engine works:
 
@@ -112,7 +112,6 @@ The stream is much colder in the condenser and is of a much lower pressure, that
 
 The cold water then goes into the big kettle, where the water is again warmed and turned into steam.
 The steam now goes back through the upper red arrow into the machine...
-
 
 ---
 
