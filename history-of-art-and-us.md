@@ -11,8 +11,8 @@ https://www.youtube.com/watch?v=hscu7cc1_2Y
 You have robot Eve and robot Wall-E, they both go through paintings.
 Each of these paintings is coming from a different time:
 
-First you have the paintings on the walls of caves (caves are like big holes in mountains) (that was 60000 years ago)
-These were painted during the ice age, when half of Europe was under a big block of ice. These are the first examples of big art, paintings that are much larger than life on the walls of caves - that's where we got culture from, and some people say that language came from this time.
+First you have the paintings on the walls of caves (caves are like big holes in mountains and people lived there) That was some 60000 years ago.
+These were painted during the ice age, when half of Europe was under a big block of ice. These are the first examples of big art, paintings that are very big, on the walls of caves - that's where we got culture from, and some people say that language came from this time.
 
 Then at 00:19 you are in painting that is just like the painting on the walls of a pyramid in ancient Egypt (from 5000-2300 years ago)
 Egypt was one of the first places with cities and one of the first languages that wrote things down. 
