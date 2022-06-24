@@ -438,7 +438,7 @@ Like with the Bauhaus chair by Marcel Breuer - so you see where Ikea is getting 
 
 This lamp by Wilhelm Wagenfeld
 
-![](media/media/Wagenfeld-lamp-WA24.jpg)
+![](media/Wagenfeld-lamp-WA24.jpg)
 
 And this teapot by the same artist
 
