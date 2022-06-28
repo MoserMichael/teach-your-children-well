@@ -126,7 +126,7 @@ Also Homo Erectus knew how to make fire, that means he could cook his food. Cook
 
 Now fast forward to the ice age - you already have Humans in Europe - Homo Sapiens, that's us.
 
-We got the ice age happening, A very large block of ice has covered half of Europe. The ice age was from 60.000 years ago until 10.000 years ago.
+At the time of the ice age you had a very large block of ice. This block of ice was covering half of Europe. The weather was much colder than now. The ice age was from 60.000 years ago until 10.000 years ago.
 
 In Germany you can sometimes see some very big stones near Berlin, where you don't have any mountains. These stones got there because this big block of ice moved them from far away!
 
@@ -140,7 +140,7 @@ You can use these to catch fish. They also had bows and arrows!
 
 ![](media/stone-age-spearheads.jpg)
 
-You had to take these and glue them onto a stick, then some of these spears could be used for throwing, with some of them you can't do that - you take that spear and run up to the animal and stick it into it.
+People were hunting big animals, like Bisons. You had to take these stones and glue them onto a stick, then some of these spears could be used for throwing, with some of them you can't do that - you take that spear and run up to the animal and stick it into it.
 
 Some 30.000 year ago they also made music! This is a flute made out of some piece of bone  
 ![](media/ice-age-flute.jpg)
