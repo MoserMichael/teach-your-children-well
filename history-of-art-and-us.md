@@ -150,7 +150,7 @@ Now some scientists say that that that's the time when people learned how to spe
 
 But the biggest thing that archaeologists found are drawings in caves - a cave is a hole in a mountain. Some of the drawings are from 40.000 years ago! You can find the paintings in some caves in Spain and France. You can also see paintings in the Sahara dessert - that was not a desert at the time, it had grass and lots of animals were living there.
 
-Look at this painting of a bison from the Altamira cave in Spain  (from some 12000 years ago)
+Look at this painting of a bison from the Altamira cave in Spain  (from 14000 years ago)
 
 ![](media/altamira-bison.png)
 
