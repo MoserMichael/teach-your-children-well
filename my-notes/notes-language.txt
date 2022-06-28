@@ -1,0 +1,193 @@
+https://www.youtube.com/watch?v=JJP-rkilz40
+
+The Neuroscience of Language and Thought, Dr. George Lakoff Professor of Linguistics
+
+    pictures of the brain show the ratio of oxygenated/de-oxygenated blood. 
+    Neuron fires - they use some of the oxygen in the blood
+    Each pixel stands for 3mm x 3mm cube, that's lots of neurons - about 120.000.000 - each with lots of connections!
+    we don't know what happens with the connections, that's where neural computation comes in (?)
+
+    How do we get ideas? Says we are figuring!
+
+    Englightenment reason - derived from Descartes; says Neuroscience does not agree with assumptions (shocking)
+        Myth: "reason is conscious" and "reason is linear" (one step after another) - not true for most thought!  
+            Experiments show that reason is a parallel process!
+                - take a sentence, guess what the next sentence should be in a paragraph. You answer much faster than it would, if you were doing the stuff linearly.
+                - if everything was linear, then you would not be able to do that!
+
+         Myth: emotion gets in the way of reason (in enlightenment reason)
+             - says not true. If you have a stroke that damages emotion then you can't reason.
+               Emotion is requirement for reason! Without emotion you don't know what to want (as you don't know what to prefer - that's based on emotion) - you don't know your objectives, that makes it hard to reason!
+               People with this type of brain damage act randomly, don't know how to plan, don't know how to set goals!
+
+         Myth: reasoning is abstract?
+            Says it is embodied - that makes it meaningful.
+
+         You can reason about anything in the world. Not true: embodied reasoning means it is connected to the world, and you can only reason what is connected to you!
+                - politics: may not understand everything, just what fits your picture of the world!
+            - ideas made meaningful through our experiences and our connection to the world ... via our brains connection to our body!
+
+         Myth: reason is based on mathematical logic
+            - math. logic did not work to explain reasoning in natural language
+
+         Myth: reason serves your self interest
+            - says reason mainly serves empathy and social connection, self interest is secondary here...
+            - empathy is physical: Vittorio Gallese trains monkeys to push buttons, etc. Probes in their brains in pre-motor cortex, see which neurons fire.
+                - same neurons fire if monkey peals banana, and if it watches you eat one.
+                - there is a connection between vision and action: mostly same neurons are active when you or someone else peels a banana!
+                    Mirror neurons: link vision and action. There are pathways between that link brain regions responsible for vision and action
+                    mirror neurons also link vision to emotion: bodily state changes with emotion (body temperature rises with anger, etc)
+                       empathy is based on this - your state changes with the perception of others! 
+                    some of the mirror neurons fire both when acting out X and during perceiving X
+              
+                Basic level categories:
+                     Elena Rush: categories higher level categories (furniture) have different properties vs more immediate categories (chair)
+                     - you can have a mental picture of middle level category (a chair), but less so with higher level ones like furniture
+                       here you have "gestalt perception", kids learn categories at that level!
+                     - that's because mirror neurons: they still work on intermediate categories! 
+                Verb roots: run (i am) and runs (he is), why are the same form for action and perception? same set of mirror neurons involved for action and perception!
+
+                Asked people to memorize a picture and imaging them: same part active when seeing and imagining a thing! also for the use of language!
+                    if you can't imagine a scene, then you don't understand a sentence. Understanding involves mental simulation - involving the same part of the brain that is involved in doing that action!
+
+                Neuronal Groups, Functional subgroups, Nodes, functional circutry
+                    - Jerry Feldman: cluster of neurons (dozens or hundreds) are involved in any action/perception
+                      says you can see how many of them are involved for any such action (like peeling a banana?)
+                    - there are intersections between the clusters: example: eating a peanut and put peanut in a cup!
+                        - suggests theory: 
+                            node := cluster of neurons required to do a particular action
+                            functional circuits := generalization in the circuitry of the nodes
+                         - topographic maps := structures that preserve closeness (in attributes like location, connection, timing, frequency, intensity, speed, directionality)
+                              - (didn't understand the explanation of how that works...)
+                              - says similar mechanism for auditory stimuli (not just visual ones)
+                              - says these mappings explain phantom limb syndrom (after amputation), the map that connects to the sensor input is still there!
+                              - connections across maps: (says that's all you need for conceptual thought, that's a hypothesis)
+                                     - Gestalt circuits
+                                        - responsible for frames. (like the Hospital image - that activates the whole set of experience)
+                                     - Binding circuits
+                                        example: word 'into' stands for container relationship, this activates map for interior, boundary, exterior, these are tied togather!
+                                        Also used to form compound frames that stand for complex objects; example: restaurant, has its own frame - but it has other related frames: this is a business (business frame), food service frame, host-guest frame
+ 
+                                     - gated activations
+                                        ??                
+                                     - gated inhibitions
+                                        ??
+                            
+                   - Learning: number of neural connection decreases a lot during first five years of life (those that are least used die off - if you don't learn something early then you won't get it...)
+                     says learning a concepts means to create some neural circuitry - by strengthening the synapses that connect some neurons (they must fire in order to get strengtened).
+                         Hebbian learning
+                             Learning means strengthening circuits between already existing circuits, (that means it is building upon prior knowledge)
+                         long term potentiation/long term depression
+                             Happens during trauma/or if you are very happy - neuro transmitters increase connection strength - or inhibit it from forming
+                             Some hormones that are released in times of stress (or happiness) help here!
+                         Time dependent placticity (weird stuff)
+                             When two neurons are connected to each other and both fire at the same time, then the first/stronger then the first/stronger one wins over the other (it sets the direction of the connection)
+                             Says this determines the structure of a metaphor.
+                                How so? Metaphor is a mapping across different regions in the brain, (like 'love is a journey'r simple 
+                                metaphors are learned early, before language. Now you see directionality - affection is warmth, not the other way round.
+                                Says a metaphor is created by experience - and the more dominant stimulus determines the direction of association! (or something like that)
+                                (i am not sure if these metaphora are universal, or dependent on culture and language... no-one asked... Also who decides what is primary and secondary? no idea...)
+
+                    - embodied cognition gives experimental evidence:
+                       says metaphorical structure determines behavior. 
+                       examples:
+                            - if you think about the future you lean forwards (the future is ahead), the past - you lean backwards (sounds very dependent on culture)
+                            - you get warm/cold coffee, and met someone. With warm coffee your experience is mostly positive/nice, with cold one it is negative (??? can you reproduce that??) affection is warmth.
+                            - remember a time when snubbed vs accepted. when asked to remember being accepted you judge the temperature in the room to be warmer.
+                            - etc. etc.
+                       says that is evidence that these metaphors are physically there, and they structure your thoughts and actions.
+
+                    - how do these primary metaphors work?
+                        tries to model the network, says its accurate (didn't understand the concept)
+
+                     - gated activation:                        
+                         (didn't understand it either...)   
+
+                     - Modularity vs Cascade: 
+                        - modularity: old view: you have centers in the brain that do something special
+                        - cascade: new view: lots of areas are activated to give meaning to a particular thing, through a process called cascades.
+                              Binding circuits link entities from two different maps into a third map (?)
+                              cascades := neuronal groups linked via bi-directional circuits. (says concepts/language use these)
+                                 says additional layers add detail in each layer; one for background), lines, orientation, etc.
+                                 so you have a cascade for example to recognize the letter E; (some layer recognizing spatioal combination of lines, each layer is simple, the complicated stuff comes out when they do a pipeline)
+        
+                                
+                                 example: any act of commerce is an exchange - mutual transfer between actors. There is a binding into a exchange layers from two transfer layers (each layer fits to a possession layer (someone is the owner of a, someone the owner of b, and a <-> b are exchanged, transferred)
+                                 all this is involved in any commercial transactions. 
+
+                                 in addition you can apply metaphors ("i don't buy that")
+                                 meaning to be embodied: all these cascades / concepts are rooted in the body
+
+                                 words are defined via a gestalt circuit linking it to a node in a frame.   
+                                    How does grammar work?
+                                        - a noun: 'a name of a person placer thing' - something in the phonology linked to a frame via a gestalt node that is linking between the phonology and its meaning. (???)
+                                        - these gestalt nodes place a hierarchical structure (of grammar) onto a linear structure (speech) - that's what grammar. (but that's ongoing research)
+
+                        - why bother? you see that you can meaning out of neurons!
+                            - says it's also matter in politics. 
+                            - conservatives and progressive have different metaphorical systems - each one uses it to understand the world.
+                                - governing institutions: family, religion, team, nation, etc. Now different types of morality govern different kinds of family.
+                                  now that has to do with different kinds of well being as a child -> these result to different models of morality. Says morality is determined by a dozen set of metaphors. (says he wrote a book about it 'philosophy in the flesh')
+
+
+
+         Myth: rational thought is value free (about what is true in the world)
+            - your in-built concern with empathy/emotions doesn't let that happen
+
+         Myth: rationality is universal, everyone reasons the same
+            - so that the same argument applies to everyone (doesn't happen)
+            - says many concepts are universal, some are not (those that very with language)
+         
+         Myth: there is an objective structure to the world and you can think about it in terms of logic, without frames of metaphor
+            - says everything comes of of these basic mechanisms in the brain, which are frames and metaphors, etc.
+
+         Myth: Chomsky says : language is purely formal and abstract (but he said that about grammar). Grammar is independent of meaning
+           - says language is the product of an embodied human brain
+             you can't negate deictic locative construction -> therefore the meaning of the sentence is dictating the grammar of he same sentence.
+
+    The following explains these assertion:::
+
+    Embodied reasoning (these aspects show in any language)  -- enlightenment reason, logic don't deal with such concepts!
+
+        -logic of image schemas
+            brain structures that structures imagery.
+            Example: containers - example: auditorium is a container (for people), glass of water is a container (for water)
+                - Image schema: a brain structure that can compute any kind of container  (Terry Regier) (can tell you what the bounds are, what is inside, what is outside)
+                - image schema structures both space and your mental imagery; (you say 'i am going into it' that means there is a path from the outside to the inside) 
+                - says there are special neurons that represent parts of your body, that allows to thing about 'in front of me, behind me'
+
+                - allows for transitivity: a inside container b, b inside container c -> a inside c
+        
+        -process schemas (aspectual schemas)    
+            - what is the pre/post conditions, what is the middle, is it iterated? is it a sub-process?
+
+                    
+        -frames - these are bigger schemas 
+            - imagine a hospital, there are roles (doctor, patient), rooms, etc.
+            - know things about hospitals: doctors deal with patients
+            - says if you say 'surgery' then the whole hospital frame comes up.
+            - charles fillmore: every word defined by a frame (exercise: think of an elephant without a mental picture of the elephant, doesn't work! there is no elephant without the elephant framea
+            - frames structure your world, these are circuits in your brain!
+
+        -conceptual metaphors
+            - mode of thought, 
+            - example: love as a journey 'love as a crossroad' ; relationship -> vehicle, lovers have common live goals, difficulties -> impediments to goals.
+            - says there are complex composed metaphors that consist of more basic metaphors
+            
+
+        -prototypes and narratives
+
+   How do we make sense of stuff and what is the state of the research?
+        - physics: color is wavelength, but you perceive them separately because of color cones in the eyes -> neurocircutes to perceive these colors.
+          so no color that is independent of your perception
+        - idea that meaning is a matter of truth in the world: 
+
+
+  Q&A: 
+    - says some stuff is dependent on culture; some psychological experiments sound dependent on cultural setting.
+    - a: agrees.
+
+    - what about hand writing? (relating to the cascades for recognizing letters)
+      a: says the same mechanism is in use, maybe some other instance of it?
+
+    - politics. bla bla.

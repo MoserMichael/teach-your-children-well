@@ -121,7 +121,54 @@ Maybe Homo Erectus could talk about more complicated things with his hands! He h
 
 Also Homo Erectus knew how to make fire, that means he could cook his food. Cooked food has more energy in it, so he didn't have to eat plants all day.
 
----
+
+---28/06/22 01:45:44----------------------
+
+Now fast forward to the ice age - you already have Humans in Europe - Homo Sapiens, that's us.
+
+We got the ice age happening, A very large block of ice has covered half of Europe. The ice age was from 60.000 years ago until 10.000 years ago.
+
+In Germany you can sometimes see some very big stones near Berlin, where you don't have any mountains. These stones got there because this big block of ice moved them from far away!
+
+![](media/markgrafensteine.jpg)
+
+Now a lot of things happened during the ice age, things were very cold and people had to fight hard to survive. At this time they make tools that get much more complicated. 
+
+![](media/ice-age-tools.jpg)
+
+![](media/stone-age-spearheads.jpg)
+
+You had to take these and glue them onto a stick, then some of these spears could be used for throwing, with some of them you can't do that - you take that spear and run up to the animal and stick it into it.
+
+some 30.000 year ago they also made music! This is a flute made out of some piece of bone  
+![](media/ice-age-flute.jpg)
+
+Now some scientists say that that this is the when we got language.
+
+But the biggest thing that archaeologists found are drawings in caves - a cave is a hole in a mountain. Some of the drawings are from 40.000 years ago! You can find the paintings in some caves in Spain and France. You can also see paintings in the Sahara dessert - that was not a desert at the time, it had grass and lots of animals were living there.
+
+Look at this painting of a bison from the Altamira cave in Spain  (from some 12000 years ago)
+
+![](media/altamira-bison.png)
+
+You see they knew about perspective - look at the legs, the leg that is near to us is drawn stronger.
+And it's a three dimensional painting - some parts are near to us, some are further away.
+
+How did they do it? They used occre color - you take some special stone/clay that has some iron in it - that's why it is red. You need to turn it into dust and add some fat to it - the fat makes the color stick to the wall.
+You can also make a paint that is made from charcoal - that is wood after you burn it, then it turns black and you can make a some black paint out of it.
+
+Then they blew the paint onto the wall, that's not just some wall, it's the ceiling - above their heads. So they had to use lamps to put some light into the cave.
+
+Why did they do these paintings? We don't know for sure, but we are guessing. There is a science called anthropology - scientists go to far away places like the amazon and Australia and Africa, some groups of people live there as if in the stone age - they did not have any contact with anyone else. The anthropologists live with them, learn their language and their culture, so we can guess what the people were thinking some 30000 years ago.
+
+Archaeologists dig up stuff, and they can also tell from what time it was. They use different tricks to do that.
+
+There is also another direction - we think about the art, how does art work? What does it mean? How does it move us?
+
+Linguists think about language, and where it came from.
+
+You see that this is a big puzzle, and you get ideas from many areas of study. More about this in the next lesson.
+
 
 
 
