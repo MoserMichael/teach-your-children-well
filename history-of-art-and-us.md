@@ -146,6 +146,8 @@ People were hunting big animals, like Bison, Reindeer and stone age Rhinos with 
 Some 30.000 year ago they also made music! This is a flute made out of some piece of bone  
 ![](media/ice-age-flute.jpg)
 
+And 20.000 years ago we got dogs! Once there were only wild wolfs, no dogs. Dogs were wolfs, who got used to living with people!
+
 Now some scientists say that that that's the time when people learned how to speak!
 
 But the biggest thing that archaeologists found are drawings in caves - a cave is a hole in a mountain. Some of the drawings are from 40.000 years ago! You can find the paintings in some caves in Spain and France. You can also see paintings in the Sahara dessert - that was not a desert at the time, it had grass and lots of animals were living there.
