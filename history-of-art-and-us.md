@@ -140,7 +140,8 @@ You can use these to catch fish. They also had bows and arrows!
 
 ![](media/stone-age-spearheads.jpg)
 
-People were hunting big animals, like Bisons. You had to take these stones and glue them onto a stick, then some of these spears could be used for throwing, with some of them you can't do that - you take that spear and run up to the animal and stick it into it.
+People were hunting big animals, like Bison, Reindeer and stone age Rhinos with a big horn. You had to take these stones and glue them onto a stick, then some of these spears could be used for throwing, with some of them you can't do that - you take that spear and run up to the animal and stick it into it.
+
 
 Some 30.000 year ago they also made music! This is a flute made out of some piece of bone  
 ![](media/ice-age-flute.jpg)
