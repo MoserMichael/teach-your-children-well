@@ -159,15 +159,15 @@ And it's a three dimensional painting - some parts are near to us, some are furt
 How did they do it? They used occre color - you take some special stone/clay that has some iron in it - that's why it is red. You need to turn it into dust and add some fat to it - the fat makes the color stick to the wall.
 You can also make a paint that is made from charcoal - that is wood after you burn it, then it turns black and you can make a some black paint out of it.
 
-Then they blew the paint onto the wall, that's not just some wall, it's the ceiling - above their heads. So they had to use lamps to put some light into the cave.
+Then they took some paint and blew the paint onto the wall by moving the air with their mouths. As if they breathe life into the painting! That's not just some wall, it's the ceiling - above their heads. So they had to use lamps to put some light into the cave.
 
-Why did they do these paintings? We don't know for sure, but we are guessing. There is a science called anthropology - scientists go to far away places like the amazon and Australia and Africa, some groups of people live there as if in the stone age - they did not have any contact with anyone else. The anthropologists live with them, learn their language and their culture, so we can guess what the people were thinking some 30000 years ago.
+Why did they do these paintings? We don't know for sure, but we are guessing. There is a science called anthropology - scientists go to far away places like the amazon and Australia and Africa, some groups of people live there as if in the stone age - they did not have any contact with anyone else. The anthropologists live with them, learn their language and their culture. This way we can guess what the people were thinking some 30000 years ago.
 
 Archaeologists dig up stuff, and they can also tell from what time it was. They use different tricks to do that.
 
 There is also another direction - we think about the art, how does art work? What does it mean? How does it move us?
 
-Linguists think about language, and where it came from.
+Linguists think about language, and where it came from and how language is working. That means they also think about the way we think.
 
 You see that this is a big puzzle, and you get ideas from many areas of study. More about this in the next lesson.
 
