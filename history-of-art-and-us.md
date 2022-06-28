@@ -136,14 +136,16 @@ Now a lot of things happened during the ice age, things were very cold and peopl
 
 ![](media/ice-age-tools.jpg)
 
+You can use these to catch fish. They also had bows and arrows!
+
 ![](media/stone-age-spearheads.jpg)
 
 You had to take these and glue them onto a stick, then some of these spears could be used for throwing, with some of them you can't do that - you take that spear and run up to the animal and stick it into it.
 
-some 30.000 year ago they also made music! This is a flute made out of some piece of bone  
+Some 30.000 year ago they also made music! This is a flute made out of some piece of bone  
 ![](media/ice-age-flute.jpg)
 
-Now some scientists say that that this is the when we got language.
+Now some scientists say that that this is the when we got spoken language! 
 
 But the biggest thing that archaeologists found are drawings in caves - a cave is a hole in a mountain. Some of the drawings are from 40.000 years ago! You can find the paintings in some caves in Spain and France. You can also see paintings in the Sahara dessert - that was not a desert at the time, it had grass and lots of animals were living there.
 
