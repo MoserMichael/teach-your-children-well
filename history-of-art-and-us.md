@@ -173,14 +173,15 @@ There is also another direction - we think about the art, how does art work? Wha
 Linguists think about language, and where it came from and how language is working. That means they also think about the way we think.
 
 You see that this is a big puzzle, and you get ideas from many areas of study. More about this in the next lesson.
------
+
+---29/06/22 05:01:30----------------------
 
 here someone made art with a cup of coffee and some milk foam.
 ![](media/kaffee.jpeg)
 
 What has that got to do with the history of art? The first cave paintings appear 40.000 years ago, but Homo Sapiens already exists for some two or three hundred thousand years, does it mean that art was a very late invention?
 
-We don't know, it can be that people had some art before, just that we don't know about it. The cats on top of the coffee will not survive for a hundred thousand years, maybe people did some other art earlier, like painting their own bodies or painting baskets.
+We don't know, it can be that people had some art before, just that we don't know about it. The cats on top of the coffee will not survive for a hundred thousand years, maybe people did some other art earlier, like painting on their own bodies or painting on baskets.
 
 We don't know for sure, but they found ochre paint that comes from earlier than 40.000 years ago! What do you do with paint? Something that has to do with art!
 
