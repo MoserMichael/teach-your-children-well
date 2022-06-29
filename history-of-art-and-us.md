@@ -198,7 +198,9 @@ You see that art is a bit different, or very different from a real thing. It is 
 Art is about the artist talking to the people who see the painting - the artist wants to tell us something.
 The artist can talk about something real, but also about his feelings - but he wants to make us feel something with his art!
 
-Pablo Picasso said that "art is a lie that helps the artist to tell the truth" - the picture is not the same thing, often the artist is using tricks that move the painting away from the truth.
+The cats in the coffee cup tell us: this is cute! Or the artists wants to say "i put in a lot of work in this cup, you want to drink the coffee, but how can you take it and destroy my art?" or maybe it means something else...
+
+Pablo Picasso said that "art is a lie that helps the artist to tell the truth" - the picture is not the same as the real thing, often the artist is using tricks that help him to tell us something, but these tricks move the painting away from the real thing.
 
 People get very exited about the old paintings on the caves - it tells us that people from 40.000 years ago thought abstract ideas - that is about things that you can't touch or use as tools. That means that they thought the same like us! 
 
