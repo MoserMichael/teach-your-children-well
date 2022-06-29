@@ -159,7 +159,7 @@ Look at this painting of a bison from the Altamira cave in Spain  (from 14000 ye
 You see they knew about perspective - look at the legs, the leg that is near to us is drawn stronger.
 And it's a three dimensional painting - some parts are near to us, some are further away.
 
-How did they do it? They used occre color - you take some special stone/clay that has some iron in it - that's why it is red. You need to turn it into dust and add some fat to it - the fat makes the color stick to the wall.
+How did they do it? They used ochre color - you take some special stone/clay that has some iron in it - that's why it is red. You need to turn it into dust and add some fat to it - the fat makes the color stick to the wall.
 You can also make a paint that is made from charcoal - that is wood after you burn it, then it turns black and you can make a some black paint out of it.
 
 Then they took some paint and blew the paint onto the wall by moving the air with their mouths. As if they breathe life into the painting! That's not just some wall, it's the ceiling - above their heads. So they had to use lamps to put some light into the cave.
@@ -173,6 +173,35 @@ There is also another direction - we think about the art, how does art work? Wha
 Linguists think about language, and where it came from and how language is working. That means they also think about the way we think.
 
 You see that this is a big puzzle, and you get ideas from many areas of study. More about this in the next lesson.
+-----
+
+here someone made art with a cup of coffee and some milk foam.
+![](media/kaffee.jpeg)
+
+What has that got to do with the history of art? The first cave paintings appear 40.000 years ago, but Homo Sapiens already exists for some two or three hundred thousand years, does it mean that art was a very late invention?
+
+We don't know, it can be that people had some art before, just that we don't know about it. The cats on top of the coffee will not survive for a hundred thousand years, maybe people did some other art earlier, like painting their own bodies or painting baskets.
+
+We don't know for sure, but they found ochre paint that comes from earlier than 40.000 years ago! What do you do with paint? Something that has to do with art!
+
+-----
+
+Not what is art? You draw something, it looks like it is real, but the painting is not real.
+
+![](media/Margarite-pipe.jpeg)
+
+This is a painting from 1928 by Rene Margarite. The text on the painting is in French, it says: "this is not a pipe".
+People asked the painter: but we can see a pipe on the painting. this is a pipe!
+Rene answered: if it is a pipe, then take it and smoke it!
+
+You see that art is a bit different, or very different from a real thing. It is a symbol.
+Art is about the artist talking to the people who see the painting - the artist wants to tell us something.
+The artist can talk about something real, but also about his feelings - but he wants to make us feel something with his art!
+
+Pablo Picasso said that "art is a lie that helps the artist to tell the truth" - the picture is not the same thing, often the artist is using tricks that move the painting away from the truth.
+
+People get very exited about the old paintings on the caves - it tells us that people from 40.000 years ago thought abstract ideas - that is about things that you can't touch or use as tools. That means that they thought the same like us! 
+
 
 
 
