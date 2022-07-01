@@ -134,7 +134,7 @@ In Germany you can sometimes see some very big stones near Berlin, where you don
 
 Now a lot of things happened during the ice age, things were very cold and people had to fight hard to survive. At this time they make tools that get much more complicated. 
 
-![](media/ice-age-tools.jpg
+![](media/ice-age-tools.jpg)
 
 You can use these to catch fish. They also had bows and arrows!
 
