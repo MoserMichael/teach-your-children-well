@@ -304,7 +304,7 @@ In the English language you say: "She loves him"
 - the word "him" is an  Object. That is a word that tells who gets the action, who is acted upon.
 That means that English is an Subject-Verb-Object language, because that is the order that words appear in.
 
-In Japanese or Mongolian you would say "She him loves" - that is a subject-object word language
+In Japanese or Mongolian you would say "She him loves" - that is a subject-object-verb language
 
 But there are languages, where the order of words does not matter, but they have other rules of grammar, rules of putting words together!
 You have a free word order in the Russian language, and other languages that are similar to Russian.
