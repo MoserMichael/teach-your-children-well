@@ -121,15 +121,6 @@ Maybe Homo Erectus could talk about more complicated things with his hands! He h
 
 Also Homo Erectus knew how to make fire, that means he could cook his food. Cooked food has more energy in it, so he didn't have to eat plants all day.
 
-My daughter Dolev added about the language of Koko: That's right, but Koko doesn't know how to create new words, she only knows how to use words that she learned.
-The closest she got to creating a new word was to say bird water - while talking about a bird in a water.
-Also she doesn't use a grammar to combine the words.
-
-I answered:
-That is right. In the English language that's a big error. But there are other languages where the order of words is not important. But you are right, these languages have a grammar too, just that it looks different. Here is wikipedia talking about the order of word. https://en.wikipedia.org/wiki/Word_order
-
-Language is very important, because it also tells us about the way that we think.
-
 
 ---28/06/22 01:45:44----------------------
 
@@ -297,7 +288,27 @@ Then the Aliens all come together and stand in a circle, each one knows a differ
 
 That's their kind of science, just like ours...
 
+------
 
+My daughter Dolev added about the sign language of Koko the Gorilla: That's right, but Koko doesn't know how to create new words, she only knows how to use words that she learned.
+The closest she got to creating a new word was to say bird water - while talking about a bird in a water.
+Also she doesn't use a grammar to combine the words.
+
+I answered:
+That is right. In the English language that's a big error. But there are other languages where the order of words is not important. But you are right, these languages have a grammar too, just that it looks different. Here is wikipedia talking about the order of word. https://en.wikipedia.org/wiki/Word_order
+There are different rules for language. Grammar is a way of taking words and putting them together.
+
+In the English language you say: "She loves him"
+- the word "She" is the Subject - that is the word for a person or a thing that gets the action, is the target of an action.
+- the word "loves" is a Verb, that is a word that describes an action, something that we do.
+- the word "him" is an  Object. That is a word that tells who gets the action, who is acted upon.
+That means that English is an Subject-Verb-Object language, because that is the order that words appear in.
+
+In Japanese or Mongolian you would say "She him loves" - that is a subject-object word language
+
+But there are languages, where the order of words does not matter, but they have other rules of grammar, rules of putting words together!
+
+Language is very important, because it also tells us about the way that we think.
 
 
 
