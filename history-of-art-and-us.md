@@ -183,7 +183,7 @@ What has that got to do with the history of art? The first cave paintings appear
 
 We don't know, it can be that people had some art before, just that we don't know about it. The cats on top of the coffee will not survive for a hundred thousand years, maybe people did some other art earlier, like painting on their own bodies or painting on baskets.
 
-We don't know for sure, but they found ochre paint that comes from earlier than 40.000 years ago! What do you do with paint? Something that has to do with art!
+We don't know for sure, but they found ochre paint that comes from earlier than 285.000 years ago, it is much older than the cave paintings! What do you do with paint? Something that has to do with art!
 
 -----
 
