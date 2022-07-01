@@ -307,6 +307,8 @@ That means that English is an Subject-Verb-Object language, because that is the 
 In Japanese or Mongolian you would say "She him loves" - that is a subject-object word language
 
 But there are languages, where the order of words does not matter, but they have other rules of grammar, rules of putting words together!
+You have a free word order in the Russian language, and other languages that are similar to Russian.
+In these languages you have more kinds of word forms, this helps you to find matching words, and this helps you to figure out the meaning.
 
 Language is very important, because it also tells us about the way that we think.
 
