@@ -299,7 +299,7 @@ That is right. In the English language that's a big error. But there are other l
 There are different rules for language. Grammar is a way of taking words and putting them together.
 
 In the English language you say: "She loves him"
-- the word "She" is the Subject - that is the word for a person or a thing that gets the action, is the target of an action.
+- the word "She" is the Subject - that is the word for a person or a thing that is doing something
 - the word "loves" is a Verb, that is a word that describes an action, something that we do.
 - the word "him" is an  Object. That is a word that tells who gets the action, who is acted upon.
 That means that English is an Subject-Verb-Object language, because that is the order that words appear in.
