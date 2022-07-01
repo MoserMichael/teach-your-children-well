@@ -264,7 +264,7 @@ You also have a figure of a person who as if he is a lion. Maybe they already ha
 Maybe this is a kind of priest, a Shaman.
 
 ![](media/Loewenmensch1.jpg)
-![](media/Loewenmensch1.jpg)
+![](media/Loewenmensch2.jpg)
 
 People were thinking in concepts, if they combined a person who is just like them and a lion - the king of the animals. Maybe that's their idea of superman...
 
@@ -286,7 +286,7 @@ https://www.youtube.com/watch?v=ns3YRpeeGwI
 Like in the movie AI, you have aliens that study a robot made by Humans, the Humans are no longer there, so they want to find out about our culture.
 Then the Aliens all come together and stand in a circle, each one knows a different part of the puzzle, and they tell their part of the big picture to all the other guys.
 
-
+That's their kind of science, just like ours...
 
 
 
