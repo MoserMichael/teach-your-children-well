@@ -134,7 +134,7 @@ In Germany you can sometimes see some very big stones near Berlin, where you don
 
 Now a lot of things happened during the ice age, things were very cold and people had to fight hard to survive. At this time they make tools that get much more complicated. 
 
-![](media/ice-age-tools.jpg)
+![](media/ice-age-tools.jpg
 
 You can use these to catch fish. They also had bows and arrows!
 
@@ -204,6 +204,97 @@ The cats in the coffee cup tell us: this is cute! Or the artists wants to say "i
 Pablo Picasso said that "art is a lie that helps the artist to tell the truth" - the picture is not the same as the real thing, often the artist is using tricks that help him to tell us something, but these tricks move the painting away from the real thing.
 
 People get very exited about the old paintings on the caves - it tells us that people from 40.000 years ago thought abstract ideas - that is about things that you can't touch or use as tools. That means that they thought the same like us! 
+
+----
+
+Dolev asked me about the scratch marks on one of the tools:
+
+Thats a good question. Yesterday I saw something on youtube. Genevieve von Petzinger is looking at symbols drawn in caves, she made a catalog of all symbols that she found. https://www.youtube.com/watch?v=hJnEQCMA5Sg
+
+![](media/ice-age-signs.jpg)
+
+She says that the sign with the dots is very often found!
+
+maybe even possible that these scratches count something, or that it is for beauty.
+
+Geneve became a big star in Antrophology for asking your question!
+
+No one was bothering with the signs, everyone was cool with the paintings. Now they say that Genevieve is a big star, because some six and half million people saw her talk on youtube! She was asking just the same questions as you do!
+
+
+---01/07/22 05:24:13----------------------
+
+Back to the cave paintings, you can see a many drawings of animals, they are drawing a lot of details.
+This means they are naturalistic pictures - they try to look like they look in nature.
+
+Like the Bisons in altamira cave - they are sometimes drawing around cracks in the stones.
+![](media/altamira.webp)
+
+Or in Chaveaux cave
+![](media/animals.jpeg)
+![](media/horses2.jpeg)
+![](media/horses3.jpeg) 
+
+Look at the horns of the animal in the last picture - that's a trick.
+You see the animal from the side, but the artist is drawing two horns, you would see only one horn from this perspective!
+
+also see this one from lascaux cave
+
+![](media/lascaux.webp)
+
+Like with Mickey mouse - you would not see both ears from the side. The same trick here:
+![](media/mickey-mouse-side.jpeg)
+
+People are often drawn in the same picture, but in less details. This means they are often more abstract.
+
+Also you have a lot of signs, maybe they stand in for people, 
+
+![](media/lascaux_hands.jpeg)
+
+Maybe they wanted to draw the soul of the animal, maybe they had a fascination for the strength of animals and people were less interesting.
+Maybe their religion would not allow drawing people, we have that in Judaism.
+
+That may be like a smiley. I would be afraid to see a real person with a face like this
+
+![](media/smiley.webp)
+
+But we know what it says, so we are not afraid...
+
+You also have a figure of a person who as if he is a lion. Maybe they already had abstract thought back 30.000 years ago.
+Maybe this is a kind of priest, a Shaman.
+
+![](media/Loewenmensch1.jpg)
+![](media/Loewenmensch1.jpg)
+
+People were thinking in concepts, if they combined a person who is just like them and a lion - the king of the animals. Maybe that's their idea of superman...
+
+Most of the stuff here comes from a video lecture, they have a university course on the history of art on youtube. Here is one of the first lectures
+
+https://www.youtube.com/watch?v=P_tkKoXDfdg&list=PLjxfpwtKvIlmbzrwkUuhVRI2X2V4t5QWE&index=3
+
+There are lots of ideas on the meaning of all this. I think that I would have to read more about the subject, before I tell you stuff about the meaning of it.
+
+In science you would take many details and look at them together:
+
+- what were the people eating? You can take a place where they put their garbage and look at the bones of the animals. Are they drawing animals that they eat?
+- You can think about other cultures that are in far away places, like Africa or the Amazonas, and compare what they are doing.
+- You can compare pictures from different places and different times, and see how they changed through time.
+- Lots of possible ways to search for answers.
+
+
+https://www.youtube.com/watch?v=ns3YRpeeGwI
+Like in the movie AI, you have aliens that study a robot made by Humans, the Humans are no longer there, so they want to find out about our culture.
+Then the Aliens all come together and stand in a circle, each one knows a different part of the puzzle, and they tell their part of the big picture to all the other guys.
+
+
+
+
+
+
+
+
+
+
 
 
 
