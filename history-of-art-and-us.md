@@ -313,9 +313,101 @@ In these languages you have more kinds of word forms, this helps you to find mat
 Language is very important, because it also tells us about the way that we think.
 
 
+---03/07/22 07:18:28----------------------
+
+More about language: Grammar is a set of rules that helps with making a sentence from words; 
+Last lesson we saw some rules, like Subject-Verb-Object, now we learn some more rules!
+
+A grammar is a set of rules for putting words together.
+
+Lets say you have a set of rules like this.
 
 
+Each of these rules is a rewrite rule:
+A rewrite rules - you have one or more symbols to to the right of the := sign, if these symbols appear in the text in the same order, then they are rewritten into only one symbol - the symbol that stands to the left of the := sign.
 
+
+```
+    Sentence := Noun-phrase Verb-phrase
+
+    Noun-phrase := Noun
+
+    Noun-phrase := Determiner Noun
+```
+
+
+Also there are two rules with Noun-phrase on the left sign, that means that one of them can apply - depending on if you have a single Noun in the text, or a pair of Determiner and Noun.
+
+
+Next there are rules for words. It is used when you have any one of the words that stand to the right of the := sign, each possible choice of words is standing between the | sign.
+
+```
+    Noun := I | cat | spaghetti | home
+
+    Determiner := i | his | her
+
+    Verb := go | eats
+
+```
+
+Now look like these rules are used with the following sentences. The sentence "I go home"
+
+```
+
+                              Sentence
+                              /    \
+                      Noun-phrase  Verb-phrase
+                          /       /     \
+                        Noun    Verb    Noun
+                        |        |        |
+                        I        go      home
+```
+
+You get something like a tree, when you apply all of the rules!
+
+Now look at the following sentence "my cat eats spaghetti"
+
+```
+                                     Sentence
+                                  /           \
+                                /               \
+                          Noun-phrase         Verb-phrase
+                          /        \          /       \
+                       Determiner   Noun     Verb     Noun
+                        |           |        |        |
+                        my         cat      eats    spaghetti
+```
+ 
+Words that are related have a small tree of their own, like "my cat" and "eats spaghetti"
+
+Here you see such a small tree.
+
+```
+                         Noun-phrase      
+                          /        \         
+                       Determiner   Noun     
+                        |           |       
+                        my         cat   
+```
+
+
+The word "my" and "spaghetti" are not closely related, but you see a connection - to connect them you need to go up until the top of the tree!
+
+The tree for the grammar is showing you two things:
+    - the order of the words
+    - the order of thought: related words are in a small tree, close to each other, they explain one another!
+
+People thought that this is a big deal, and they built a big theory around this!
+
+The big deal is that you can describe a lot of sentences this way, even sentences that you have never heard before! 
+You say that a language is 'generative' - if you can use it to create all kinds of sentences!
+
+A second question is: how do most children manage to learn all the rules of language so quickly, in the first few years of their life?
+
+But we leave that for the next lesson....
+
+One interesting thing: a grammar like this is always used to describe a programming language, that is a language used to write computer programs.
+The grammar helps us to create a language used for talking to the computer!
 
 
 

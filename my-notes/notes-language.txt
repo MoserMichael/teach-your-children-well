@@ -191,3 +191,209 @@ The Neuroscience of Language and Thought, Dr. George Lakoff Professor of Linguis
       a: says the same mechanism is in use, maybe some other instance of it?
 
     - politics. bla bla.
+
+
+https://www.youtube.com/watch?v=Q-B_ONJIEcE
+
+Steven Pinker: Linguistics as a Window to Understanding the Brain 
+
+Intro:
+    - language: essential to cooperation (sharing knowledge, coordinate action), animals don't have it to the same degree as us (i would say),
+    - kids learn it at a young age, comes naturally (to most people, they always forget that part :-)
+    - language is coded information - high level info like ideas. Info is coded into sounds. 
+      The expressiveness of language is a kind of miracle!!!
+    - each human society has complex language. Darwin: “Man has an instinctive tendency to speak, as we see in the babble of our young children, but no child has an instinctive tendency to bake, brew, or write.” (wow, they really like to quote Darwin, just like they liked to quote Marx in the old soviet block...)
+
+Study of language:
+    Traditional
+        grammar - how words are assembled into sentences
+        phonoloy - the study of sound
+        semantic - of meaning
+        pragmatics - conversation
+    Psycholinguistics - how language is processed
+    language acquisition - how kids learn it
+    neurolinguistics - what the brain is computing
+
+
+Prescriptive vs descriptive grammar rules, dialects, bla bla bla.
+
+thinking and language
+    - lots of thinking goes on in visual imagery. (visual problems are not solved by translating the problem into words, etc)
+    - long term memory of verbal content does not retain the exact words, it retains something more abstract, the "meaning" or "semantics".
+    - thinking: a lot of non verbal processes (these refer to some mental picture of what is being talked about)
+        
+    - where did language come from? 
+        - says it's a 'grass roots' phenomenon. The public contributes to it.
+
+    - linguistic relativity; how does language affect thought? However no one is claiming equivalence between language and thought.
+
+Language:
+    words - the lexicon
+        - Sassure 'the arbitrariness of the sign'; a word doesn't 'look' like the thing that it represents.
+                  
+    rules
+        - syntax (that's his favorite)
+            Chomsky linguistics has to explain 'creativity' - ability to create new sentences
+                syntax is independent of meaning, you can form syntactically correct sentences that don't mean anything ('colorless green ideas sleep furiously')
+                syntax isn't linear, you get a parse tree.
+                    long distance dependencies between words (if you use 'either' then somewhere comes 'or')
+                        - these long distance dependencies make a sentence hard to understand, so good style is to avoid them.
+
+
+                    Very simple grammar
+
+                        The grammar is made up of rewrite rules, 
+
+                        One form of rewrite rules - you have one or more symbols to to the right of the := sign, if the rule is used then these rules are rewritten into only one symbol - the symbol that stands to the left of the := sign.
+
+                            Sentence := Noun-phrase Verb-phrase
+
+                            Noun-phrase := Noun
+
+                            Noun-phrase := Determiner Noun
+
+                        Here is another kind of rule; a rule for word. It is used when you have any one of the words that stand to the right of the := sign.
+
+                            Noun := I | cat | spaghetti | home
+
+                            Determiner := i | his | her
+
+                            Verb := go | eats
+
+                        Now look like these rules are used with the following sentences. The sentence "I go home"
+                        
+                              Sentence
+                              /    \
+                      Noun-phrase  Verb-phrase  
+                          /       /     \
+                        Noun    Verb    Noun
+                        |        |        |
+                        I        go      home
+
+
+                        You get something like a tree, when you apply all of the rules!
+
+
+                        Now look at the following sentence "my cat eats spaghetti"
+        
+                                     Sentence
+                                  /           \
+                                /               \
+                          Noun-phrase         Verb-phrase
+                          /        \          /       \
+                       Determiner   Noun     Verb     Noun
+                        |           |        |        |
+                        my         cat      eats    spaghetti
+
+        
+                    Words that are closely related have a small tree of their own.
+
+                          Noun-phrase      
+                          /        \         
+                       Determiner   Noun     
+                        |           |       
+                        my         cat   
+
+                    Now you can look at the whole tree, things that deal directly with each other are on lower levels of the tree,
+
+                    The word my and spaghetti are not closely related, but you see a connection - you have to go through another small tree to connect them!
+
+                    The tree for the grammar is showing you two things:
+                        - the order of the words
+                        - the order of thought
+
+                    People thought that this is a big deal, and they built a big theory around this!
+
+                
+                    Better example of a grammar: https://www.britannica.com/science/linguistics/Chomskys-grammar
+
+                        Sentence := Noun-phrase Verb-phrase
+
+                        Noun-phrase := Verb  Noun-Phrase
+
+                        Noun-phrase := Determiner Noun-phrase
+
+                        Verb-phrase := Verb-stem  Verb-phrase
+
+                        Verb-phrase := Verb  Noun-phrase
+
+                        Verb := Auxiliary  + Verb-stem
+
+                        Verb := Verb-stem
+
+                        Determiner := the, a, by  
+
+                        Noun := man, ball
+
+                        Auxiliary := will, can
+
+                        Verb-stem := hit, see, be
+
+                                          Sentence
+                                         /         \
+                                       /             \
+                                     /                 \ 
+                                   /                    Verb-phrase
+                                 /                   /              \
+                             Noun-phrase         Verb                Noun-phrase
+                            /        \         /        \            /         \
+                        Determiner  Noun    Auxiliary  Verb-stem   Determine   Noun 
+                        |           |        |           |           |           |
+                        The         man     will        hit         the        wall
+
+
+
+
+                                                                                             Noun-phrase
+                                                                                             /       \
+                            Noun-phrase           Verb                                      /      Noun-phrase
+                            /        \           /      \                                  /        /        \
+                        Determiner  Noun    Auxiliary  Verb-stem                   Verb-stem    Determiner   Noun         
+                         |           |         |         |             |           |                                          
+                        The         man      will        be            hit         by          the           wall
+
+                     Now that grammar doesn't allow for recursivity...
+                        
+                    
+                     This allows for language productivity - that you can make an infinite amount of sentences.
+
+                     Say you have the longest sentence - blablabla
+                     Now you can make one longer one: I say that <blablablabla>
+
+
+                     Ambiguous sentences
+
+                        ((On tonights program Collin will discuss sex) with dr. Ruth)
+
+                        (On tonights program Collin will discuss (sex with dr. Ruth))
+
+            
+                    Language acquisition by children (poverty of stimulus)
+                        - smallest sentence - two word stage (18 months age), Still kids use rules to form them!
+                            Says kids use rules to put new combination of words (generativity)
+                        - Errors show that rules are used: Kids make error when rules are applied to irregular verbs, they 'over-apply a rule' ('he holded the toy') 
+                            - Wug test: Experiment - you show kid a picture of a bird and say 'this is a wug' (there is no such word), then you show them a picture of two of them. Kid says 'two wugs'. They apply a rule generatively - they did not hear that expression before.
+
+
+                    Chomsky: general design of language is wired into the brain (universal grammar)
+                        - says that it's because the 'poverty of input' - says there is that we hear less than needed to learn the language.
+                            example: "the man is here" vs "Is the man here?" 
+                            more complex: "the man who is tall is in the room" vs "is the man who is tool in the room?" - there is a structure dependent rule, because the linear transformation from the previous example leads to rubbish "is the man who tall in the room?"
+                            Chomsky says the structure dependent rule is too hard to learn, it must be built-in (or the mechanism to acquire it)
+                        - chomsky says that language developed suddenly, as a sudden "mutation"
+
+
+                   Critiques of chomsky:
+                        - didn't find specific universal grammar rules that only apply to language.
+                        - chomsky didn't examine all languages and shown that it exists across languages
+                        - did not show that neural language models can't learn language (this would prove that a universal grammar is required.
+                          maybe more general models (like neural language models) can also do the job without universal grammar?
+
+        - morphologyG
+        - phonology
+                    rules for forming possible words, as it sounds.
+                        - which words are possible in a language? Which phonemes can be combined?
+                            (example: krechtzen is not English)
+
+        interfaces -
+
