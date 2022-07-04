@@ -331,6 +331,9 @@ Also look at this craw, how it is throwing little stones into the bottle, the st
 
 - they say that elephants can recognize themselves. When you put an Asian elephant in front of a mirror, and he has some spot on his face, now the elephant cleans herself up, that means she knows that she is looking at an image of herself! Scientist say that she is aware of herself (though I am not sure why they think that)
 
+here is a nice video - the elephant is looking at herself in the mirror, then she starts to understand that it she is looking at herself! https://www.youtube.com/watch?v=NygmdjerkLQ
+
+
 - look at how Suda the Elephant is painting https://www.youtube.com/watch?v=7XOl48ssdyo 
 
 But there are limits. Animals don't know about symbols, or abstract thought. It would be hard for Koko to talk about things that happened in the past, for example. Also the sentences that Koko was making were very simple.
