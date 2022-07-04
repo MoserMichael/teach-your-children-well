@@ -352,7 +352,7 @@ Another one is waiting silently, but then she is scratching the window.
 
 A third one is also saying Miau, but only once.
 
-I can tell them how they talk to me!
+I can tell who it is, by the way that they talk to me!
 
 Here they are (I have a deal with them - they get some cat food, but the cats need to get rid of any mice, or other animals...)
 
