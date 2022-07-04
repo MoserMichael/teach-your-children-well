@@ -315,6 +315,34 @@ Language is very important, because it also tells us about the way that we think
 
 ---03/07/22 07:18:28----------------------
 
+Before we study language in more detail, what is so special about language?
+
+What can we do that animals can't do? Lets first see what animals can do:
+
+- Some animals have culture - for example there are some monkeys on Koshima Island, in Japan The mother monkeys mothers taught their kids to wash sweet potatoes in the sea water, sea water is salty, and the potatoes taste better that way!  https://www.youtube.com/watch?v=gz8FlSKJ2JE&t=120s
+
+- Chimpanzees make tools, some groups of Chimps can make fifteen tools, they even can sharpen a stick and hunt with the stick
+
+- lots of animals can communicate somehow. When a craw dies, other craws come together and are very sorry about what happened. They seem to be talking with each other and try to understand what happened. 
+
+Also look at this craw, how it is throwing little stones into the bottle, the stones push the water out of the bottle so that the craw can drink it! https://www.youtube.com/watch?v=NGaUM_OngaY
+
+- you saw Koko the Gorilla, talking with her hands while making signs, the same language as used by blind people.
+
+- they say that elephants can recognize themselves. When you put an Asian elephant in front of a mirror, and he has some spot on his face, now the elephant cleans herself up, that means she knows that she is looking at an image of herself! Scientist say that she is aware of herself (though I am not sure why they think that)
+
+- look at how Suda the Elephant is painting https://www.youtube.com/watch?v=7XOl48ssdyo 
+
+But there are limits. Animals don't know about symbols, or abstract thought. It would be hard for Koko to talk about things that happened in the past, for example. Also the sentences that Koko was making were very simple.
+
+We need complex language to talk about more complex stuff, and we can do that; That's what makes us special! 
+
+(I learned most of the stuff here from a book "Are we smart enough to know how smart animals are?” by Frans De Waal)
+
+
+---04/07/22 12:21:56----------------------
+
+
 More about language: Grammar is a set of rules that helps with making a sentence from words; 
 Last lesson we saw some rules, like Subject-Verb-Object, now we learn some more rules!
 
