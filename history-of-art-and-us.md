@@ -342,6 +342,25 @@ We need complex language to talk about more complex stuff, and we can do that; T
 
 (I learned most of the stuff here from a book "Are we smart enough to know how smart animals are?” by Frans De Waal)
 
+---
+
+Another form of animal communication. Liraz gave some cat food to Kitty, the street cat. Then she brought all her relatives as well - all the kitties look similar. They all want to eat cat food!
+
+One cat is waking me up at six a clock in the morning, with a loud cry of Miiaaau, she says that again and again and she is loud, in a screechy voice.
+
+Another one is waiting silently, but then she is scratching the window.
+
+A third one is also saying Miau, but only once.
+
+I can tell them how they talk to me!
+
+Here they are (I have a deal with them - they get some cat food, but the cats need to get rid of any mice, or other animals...)
+
+
+![](media/kitty1.jpg)
+
+![](media/kitty2.jpg)
+
 
 ---04/07/22 12:21:56----------------------
 
