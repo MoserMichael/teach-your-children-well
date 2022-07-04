@@ -128,7 +128,7 @@ Now fast forward to the ice age - you already have Humans in Europe - Homo Sapie
 
 At the time of the ice age you had a very large block of ice. This block of ice was covering half of Europe. The weather was much colder than now. The ice age was from 60.000 years ago until 10.000 years ago.
 
-In Germany you can sometimes see some very big stones near Berlin, where you don't have any mountains. These stones got there because this big block of ice moved them from far away!
+In Germany you can sometimes see some very big stones, in a place where you don't have any mountains. These big stones are near Berlin. They got there because this big block of ice moved the stones from far far away!
 
 ![](media/markgrafensteine.jpg)
 
@@ -141,7 +141,6 @@ You can use these to catch fish. They also had bows and arrows!
 ![](media/stone-age-spearheads.jpg)
 
 People were hunting big animals, like Bison, Reindeer and stone age Rhinos with a big horn. You had to take these stones and glue them onto a stick, then some of these spears could be used for throwing, with some of them you can't do that - you take that spear and run up to the animal and stick it into it.
-
 
 Some 30.000 year ago they also made music! This is a flute made out of some piece of bone  
 ![](media/ice-age-flute.jpg)
@@ -319,7 +318,7 @@ Before we study language in more detail, what is so special about language?
 
 What can we do that animals can't do? Lets first see what animals can do:
 
-- Some animals have culture - for example there are some monkeys on Koshima Island, in Japan The mother monkeys mothers taught their kids to wash sweet potatoes in the sea water, sea water is salty, and the potatoes taste better that way!  https://www.youtube.com/watch?v=gz8FlSKJ2JE&t=120s
+- There are some monkeys on Koshima Island, in Japan The mother monkeys taught their kids to wash sweet potatoes in the sea water. Sea water is salty, and the potatoes taste better that way! Teaching your kids how to do stuff is culture, some animals have their own culture!  https://www.youtube.com/watch?v=gz8FlSKJ2JE&t=120s
 
 - Chimpanzees make tools, some groups of Chimps can make fifteen tools, they even can sharpen a stick and hunt with the stick
 
@@ -331,12 +330,11 @@ Also look at this craw, how it is throwing little stones into the bottle, the st
 
 - they say that elephants can recognize themselves. When you put an Asian elephant in front of a mirror, and he has some spot on his face, now the elephant cleans herself up, that means she knows that she is looking at an image of herself! Scientist say that she is aware of herself (though I am not sure why they think that)
 
-here is a nice video - the elephant is looking at herself in the mirror, then she starts to understand that it she is looking at herself! https://www.youtube.com/watch?v=NygmdjerkLQ
+here is a nice video - the elephant is looking at herself in the mirror, it takes some time, but then she understand that she is looking at herself! https://www.youtube.com/watch?v=NygmdjerkLQ
 
+- look at how Suda the Elephant is painting pictures with her trunk! https://www.youtube.com/watch?v=7XOl48ssdyo 
 
-- look at how Suda the Elephant is painting https://www.youtube.com/watch?v=7XOl48ssdyo 
-
-But there are limits. Animals don't know about symbols, or abstract thought. It would be hard for Koko to talk about things that happened in the past, for example. Also the sentences that Koko was making were very simple.
+But there are limits. Animals don't know about symbols, or abstract thought. It would be hard for Koko to talk about things that happened in the past, for example. Also the sentences that Koko was making were very very simple.
 
 We need complex language to talk about more complex stuff, and we can do that; That's what makes us special! 
 
@@ -348,14 +346,13 @@ Another form of animal communication. Liraz gave some cat food to Kitty, the str
 
 One cat is waking me up at six a clock in the morning, with a loud cry of Miiaaau, she says that again and again and she is loud, in a screechy voice.
 
-Another one is waiting silently, but then she is scratching the window.
+Another one is waiting silently, but then she is making noise by scratching the window.
 
 A third one is also saying Miau, but only once.
 
 I can tell who it is, by the way that they talk to me!
 
 Here they are (I have a deal with them - they get some cat food, but the cats need to get rid of any mice, or other animals...)
-
 
 ![](media/kitty1.jpg)
 
@@ -365,13 +362,15 @@ Here they are (I have a deal with them - they get some cat food, but the cats ne
 ---04/07/22 12:21:56----------------------
 
 
-More about language: Grammar is a set of rules that helps with making a sentence from words; 
-Last lesson we saw some rules, like Subject-Verb-Object, now we learn some more rules!
+Now some more about language, now that we know how special it is!
+
+Grammar is a set of rules that helps with making a sentence from words; 
+Last lesson we saw some rules, like Subject-Verb-Object, in English we say "She loves him".
+"she him loves" is a wrong sentence in English, but you could have the same order of words in Japanese.
 
 A grammar is a set of rules for putting words together.
 
-Lets say you have a set of rules like this.
-
+Lets make a grammar, first lets talk about how a rule looks like:
 
 Each of these rules is a rewrite rule:
 A rewrite rules - you have one or more symbols to to the right of the := sign, if these symbols appear in the text in the same order, then they are rewritten into only one symbol - the symbol that stands to the left of the := sign.
@@ -392,15 +391,15 @@ Also there are two rules with Noun-phrase on the left sign, that means that one 
 Next there are rules for words. It is used when you have any one of the words that stand to the right of the := sign, each possible choice of words is standing between the | sign.
 
 ```
-    Noun := I | cat | spaghetti | home
+    Noun := I | cat | spaghetti | home | computer
 
-    Determiner := i | his | her
+    Determiner := my | his | her
 
-    Verb := go | eats
+    Verb := go | eat | swim | jump | drink
 
 ```
 
-Now look like these rules are used with the following sentences. The sentence "I go home"
+Now look like these rules are used with the following sentences. The sentence "I go home".
 
 ```
 
@@ -414,6 +413,19 @@ Now look like these rules are used with the following sentences. The sentence "I
 ```
 
 You get something like a tree, when you apply all of the rules!
+
+You get something very similar for the sentence 
+
+```
+                              Sentence
+                              /    \
+                      Noun-phrase  Verb-phrase
+                          /       /     \
+                        Noun    Verb    Noun
+                        |        |        |
+                        I        eat      spaghetti
+```
+
 
 Now look at the following sentence "my cat eats spaghetti"
 
@@ -450,7 +462,8 @@ The tree for the grammar is showing you two things:
 People thought that this is a big deal, and they built a big theory around this!
 
 The big deal is that you can describe a lot of sentences this way, even sentences that you have never heard before! 
-You say that a language is 'generative' - if you can use it to create all kinds of sentences!
+You say that a language is 'generative' - if you can use it to create all kinds of new sentences, you can even make up sentences that don't make sense, but they are by the rules. "my spaghetti drink computer" - doesn't make sense, but these rules allow it!
+
 
 A second question is: how do most children manage to learn all the rules of language so quickly, in the first few years of their life?
 
@@ -460,11 +473,35 @@ One interesting thing: a grammar like this is always used to describe a programm
 The grammar helps us to create a language used for talking to the computer!
 
 
+---04/07/22 22:35:39----------------------
 
+Children learn language when they are very young. 
 
+Noam Chomsky is a linguist - a scientist who studies language. He says that we learn language very fast - much faster than we should learn it.
+He says that some kind of general grammar rules are built right into our brains, and that this explains why we are learning so fast.
 
+He also says that language developed suddenly, as a kind of mutation. 
+A friend of mine, who is very religious actually likes this - he says that this similar to the Bible and how God created man in seven days!
+(all that despite the fact that Noam Chomsky doesn't believe in God at all)
+What i learn from this is that there are very different kind of ways on how to look at things!
 
+Other linguist don't agree, so they fight it out among themselves.
 
+You can learn some more about Noam Chomsky and his ideas here:  https://www.youtube.com/watch?v=Q-B_ONJIEcE
 
+There are many other linguists with different ideas, and we can also learn what they say, if you are interested...
 
+<!--
+---05/07/22 00:35:13----------------------
 
+Now back to art: 
+
+Something important happened some twelve thousand years ago. The ice age came to an end, it became warmer.
+
+Now a lot of other things came at that time:
+
+- people learned to 
+
+//-->
+
+-

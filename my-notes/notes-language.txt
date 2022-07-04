@@ -395,5 +395,37 @@ Language:
                         - which words are possible in a language? Which phonemes can be combined?
                             (example: krechtzen is not English)
 
+                    (these are all known to people who have learned English as a second language...)        
+
+
+
         interfaces -
+
+                    Speaking
+                        make complex sounds with the larynx, throat, tongue - a complex system.
+
+                        Larynx is very low in the neck - this leads to the danger of choking while you eat
+                        Darwin says that the benefit of better communication gives us a better survival advantage, despite the danger of choking!
+
+                    Speech understanding
+                        difficult because of 
+                            co-articulation (each phoneme sounds different, depending on what phonemes comes before it and after it - these influence the position of the tongue, etc)
+                            lack of segmentation in the sound segmentation - hard to know when one word ends, and the other begins. We use context info to fix that, but the speech waves don't have this info.
+
+                    pragmatics  - how people understand language in context while using our knowledge of the word?
+                        Lots of background knowledge is assumed in conversation.
+                        Cooperation principle - assume that people work together to communicate meaning...
+
+
+wrap up: Linguistics was influenced by the questions that Noam Chomsky asked:
+    - how is unlimited creativity of language possible?
+    - what are the abstract mental structures that relate words to one another?
+    - how do children acquire them?
+    - what is universal about language?
+    - what does that imply about the mind?
+
+
+
+
+
 

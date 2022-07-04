@@ -1,0 +1,9 @@
+- download twitter video with youtubedl (force mp4) and store it to output file (-o function)
+
+    youtube-dl -f mp4 https://www.youtube.com/watch?v=gz8FlSKJ2JE -o monkey.mp4
+
+-- ffmpeg: cut first 120 seconds
+
+    ffmpeg -i monkey.mp4 -ss 120 monkey-out.mp4
+
+
