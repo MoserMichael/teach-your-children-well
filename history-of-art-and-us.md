@@ -491,17 +491,53 @@ You can learn some more about Noam Chomsky and his ideas here:  https://www.yout
 
 There are many other linguists with different ideas, and we can also learn what they say, if you are interested...
 
-<!--
 ---05/07/22 00:35:13----------------------
 
 Now back to art: 
 
 Something important happened some twelve thousand years ago. The ice age came to an end, it became warmer.
 
-Now a lot of other things came at that time:
+Now all the action happened in the sahara dessert - at that time it wasn't a dessert at all! There was grass everywhere, they had lots of animals there.
 
-- people learned to 
+We know it from the paintings that people left on the walls of rocks (they also find old bones of elephant, rhinos, gazelles, giraffes - in places where there is a desert)
 
-//-->
+![](media/sahara-rock-art.jpeg)
 
--
+![](media/Algerien_Desert.jpg)
+
+At this time something big happens: people start to do something new
+
+People start to have herds of animals, like sheeps and goats, just like the forefathers of Israel -  Abraham, Isaac, and Jacob!
+Now people had more time, as they didn't have to hunt and gather all day! Hunting and gathering takes up a lot of time, so you have little time for anything else.
+
+You see interesting things in the paintings - there are more humans around, and they draw them in more detail!
+
+This woman is sitting or dancing ![](media/Femme-gavure.jpeg) -  painting from a famous site, Tassili n'Ajjer, in the land of Algieria.
+
+It takes a long time until people start to plant their food, that is called agriculture. People need some three to five thousand years for that!
+
+Something very happens in art, people start to build big monuments made out of big stones, maybe these are temples? 
+(this kind of art is alled Megalithic - Mega means big, lithic means rocks)
+
+Göbekli Tepe in Turkey ![](media/goebleki-tepe.jpeg) from 10.000 years ago!
+
+In Israel we have Atlit-yam, that's place that is now under the sea, near Haifa - also from soem 9000 years ago ![](media/Atlit-Yam.jpeg)
+
+Stonhenge, in Great Britain - the earliest stones are from five thousand years ago, it took them a thousand years to build it ![](media/stonehenge.webp)
+
+Why did people do all that? Scientist think that this is how we got society: once upon a time people lived in small groups, very small bands of people, or villages with up to a hundred people in it. Now you can trust everyone in a small group - you know each other well, some of the people are your relatives.
+
+Later the groups get bigger, and everyone is doing some special kind of work: some people are got at making clothes, so they make clothes all day.
+Some people are got at herding sheep, so that's what they do all day. These people have to exchange things, they need to trade what they got!
+At this moment trust becomes important, there is a big problem, if you can't trust anybody.
+
+Now people need some common ideas, a common religion. And they do big projects togather to build these temples - in the process they learn to trust each other.
+So maybe this process of building art created our first societies! You see that art is very important...
+
+
+
+
+
+
+
+
