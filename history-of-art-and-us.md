@@ -186,7 +186,7 @@ We don't know for sure, but they found ochre paint that comes from earlier than 
 
 -----
 
-Not what is art? You draw something, it looks like it is real, but the painting is not real.
+Now what is art? You draw something, it looks like it is real, but the painting is not real.
 
 ![](media/Margarite-pipe.jpeg)
 
@@ -563,11 +563,11 @@ You need to hunt a gazelle if you want to eat it, so these people did not have h
 
 ![](media/gazelles.jpg)
 
-A gazelle likes to jump around, and it is very very difficult to keep them in herds, like sheep.
+A gazelle likes to jump around, and people can't keep them in herds, like sheep. The gazelles don't go were we want to go, they go to some other place.
 
 What happened? You can do a lot to make it easier for the gazelles to grow, so that it is easier to hunt them.
     - you can kill all the animals that eat gazelles, there will be more gazelles for hunting, if the predators don't eat them
-    - you can burn the steppe, the next year it will be easier for the grass to grow, and there will be more gazelles for hunting (Indians in America used to do this, so that they have more Bisons for hunting)
+    - you can burn the wild grass in the steppe. The next year it will be easier for the grass to grow, and more grass means more food for gazelles. This way you get more gazelles for hunting (Indians in America used to did this, so that they had more Bisons for hunting - you see, that needs a lot of planning, people were very clever, for quite some time!)
 
 But then this explanation also has a problem: you can't do these tricks for a long time, If you burn the steppe for several times, then the land becomes tired, and the grass will not grow again. Erosion starts - that's when the wind is blowing the soil away, and you get a lot of dust. That's how big steppes can turn into deserts.
 
@@ -575,7 +575,7 @@ In the end it is hard to know for sure what happened. We can only make guesses. 
 
 One of the guesses is that they needed these very big art project in order to build a society - a society is a big group with thousands of people. Maybe that's the way to bring in lot of people and unite them for the project, you see these big buildings in lots of a places, all over the world, so maybe this is a stage that people had to go through...
 
-You had these big art project in a lot of places, like the the Easter Island - in the middle of the Pacific ocean!
+You had these big art project in a lot of places, like the Easter Island - in the middle of the Pacific ocean!
 
 ![](media/easter-island.jpg)
 
@@ -583,7 +583,7 @@ Easter island is very far away in the pacific ocean, if you have a spacecraft, a
 
 ![](media/easter-island-map.png)
 
-Here is an old Soviet space station "Mir" - it is burning, while the peaces of the space station are falling towards point Nemo.
+Here is an old Soviet/Russian space station called "Mir" - it is burning, while the pieces of the space station are falling on their way to point Nemo.
 
 ![](media/mir-reentry.jpg)
 
