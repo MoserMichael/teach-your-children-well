@@ -581,6 +581,10 @@ Easter island is very far away in the pacific ocean, if you have a spacecraft, a
 
 ![](media/easter-island-map.png)
 
+Here is an old Soviet space station "Mir" - it is burning, while the peaces of the space station are falling towards point Nemo.
+
+![](media/mir-reentry.jpg)
+
 ---
 
 But later there came another big change: some five thousand years ago people learned how to write, they learned how to do that in both Egypt and in Mesopotamia (that is the land in Iraq).  That is the start of history: from that moment we can look at texts that were written by the people who lived at the time!
