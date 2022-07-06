@@ -500,6 +500,31 @@ Nicaraguan sign language https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language
 Nicaragua is a country; it had a big group of people who can't talk, who are deaf. The deaf people made up a sign language of their own, without anyone teaching them, all by themselves!
 And this language has all the features of a real language, just like all the other six thousand languages in the world!
 
+---
+
+Dolev asked a question!  "If that is so then why are so many languages different in the way that you can arrange words in order to make an understandable sentence?"
+
+That is a wonderful question! I am glad you asked!
+
+Chomsky says there is a 'surface grammar' - a grammar for each language, but then there is a more abstract 'deep structure grammar' that is universal, common to all languages.
+The problem is that no one could find this deep structure grammar.
+
+Then he changed it: he says what makes up the deep structure grammar are tricks for learning grammar. There is a rule for "merge" -  building a substitution rule like 
+
+Sentence := Noun-phrase Verb-phrase 
+
+And there is a rule for recursion - recursion means rules for building sentences that contain other sentences. like "Dolev said that her friends said that the sun is rising".
+
+But then this also has other problems: there should be some more common mechanism in the brain like "universal grammar", something that could be used for other things like vision, general problem solving, but there isn't.
+Also as I said, all these substition rules don't go well for languages with a free word order, like Russian (there are other structural grammars that work better here, like dependency grammars)
+
+Still, people like what Chomsky did - he asked a lot of good questions like:
+
+- how do children learn language?
+- how is syntax represented in the brain?
+- what things are common between languages?
+
+
 ---05/07/22 00:35:13----------------------
 
 Now back to art: 
@@ -518,14 +543,14 @@ These paintings are now standing in the middle of the desert. There was no deser
 
 At that same time something big happens: people start to do something new:
 
-People start to have herds of animals, like sheeps and goats, just like the forefathers of Israel -  Abraham, Isaac, and Jacob!
+People start to have herds of animals, like sheep and goats, just like the forefathers of Israel -  Abraham, Isaac, and Jacob!
 Now people had more time, as they didn't have to hunt and gather all day! Hunting and gathering takes up a lot of time, so you have little time for anything else.
 
 You see interesting things in the paintings - there are more humans around, and they draw them in more detail!
 
 This woman is sitting or dancing ![](media/Femme-gavure.jpeg) -  painting from a famous site, Tassili n'Ajjer, in the land of Algieria.
 
-It takes a long time until people start to plant their food, that is called agriculture. People need some three to five thousand years for that!
+It takes a long time until people start to plant their food, that is called agriculture. It takes some more years, you only get there three to five thousand years after that!
 
 Something very happens in art, people start to build big monuments made out of big stones, maybe these are temples? 
 (this kind of art is alled Megalithic - Mega means big, lithic means a thing made from stone)
@@ -534,9 +559,12 @@ Göbekli Tepe in Turkey ![](media/goebleki-tepe.jpeg) from 10.000 years ago!
 
 In Israel we have Atlit-yam, that's place that is now under the sea, near Haifa - also from some 9000 years ago ![](media/Atlit-Yam.jpeg)
 
+You have lots of interesting old things in Israel. People had to get to Israel, if they want to go in and out of Africa! We were a big cross road!
+
 Stonhenge, in Great Britain - the earliest stones are from five thousand years ago, it took them a thousand years to build it ![](media/stonehenge.webp)
 
 Why did people do all that? Scientist think that this is how we got society: once upon a time people lived in small groups, very small bands of people, or villages with up to a hundred people in it. Now you can trust everyone in a small group - you know each other well, some of the people are your relatives.
+Trust is that you can believe what they say, you don't have to think all the time that they want to cheat you.
 
 Later the groups get bigger, and everyone is doing some special kind of work: some people are got at making clothes, so they make clothes all day.
 Some people are got at herding sheep, so that's what they do all day. These people have to exchange things, they need to trade what they got!
@@ -546,14 +574,18 @@ Try to be afraid of everybody - now life is very hard if you do that, cooperatio
 Now people need some common ideas, a common religion. And they do big projects together to build these temples - in the process they learn to trust each other.
 So maybe this process of building art created our first societies! You see that art is very important...
 
+It's not just a nice painting - people really put a lot of meaning into art!
+
 ---06/07/22 04:46:33----------------------
 
 Remember we talked about how to grow food? 
-You need a lot of people to build these big monuments, because only lots of people working together can change the shape of these big stones and move them.
-It needs a group of hundreds and thousands of people who all live together.
+
+    You need a lot of people to build these big monuments, because only lots of people working together can change the shape of these big stones and move them.
+It needs a group of hundreds of people who all live together.
 You need some specialists for carving the images on the blocks - specialists are people who are good at doing a thing. That's because they do it every day.
 
-Now scientists thought a group of hunters and gatherers can't do this, because they can't grow enough food to feed this big group of people!
+Now scientists thought a group of hunters and gatherers can't do this, because they can't get enough food to feed this big group of people!
+They would spend all of the day with finding food!
 It turns out that things are complicated.
 
 Remember Göbekli Tepe in Turkey ![](media/goebleki-tepe.jpeg) from 10.000 years ago?
@@ -566,8 +598,8 @@ You need to hunt a gazelle if you want to eat it, so these people did not have h
 A gazelle likes to jump around, and people can't keep them in herds, like sheep. The gazelles don't go were we want to go, they go to some other place.
 
 What happened? You can do a lot to make it easier for the gazelles to grow, so that it is easier to hunt them.
-    - you can kill all the animals that eat gazelles, there will be more gazelles for hunting, if the predators don't eat them
-    - you can burn the wild grass in the steppe. The next year it will be easier for the grass to grow, and more grass means more food for gazelles. This way you get more gazelles for hunting (Indians in America used to did this, so that they had more Bisons for hunting - you see, that needs a lot of planning, people were very clever, for quite some time!)
+        - you can kill all the animals that eat gazelles, there will be more gazelles for hunting, if the predators don't eat them
+        - you can burn the wild grass in the steppe. The next year it will be easier for the grass to grow, and there will be more grass. This means more food for gazelles. This way you get more gazelles for hunting (Indians in America used to did this, so that they had more Bisons for hunting - you see, that needs a lot of planning, people were very clever, for quite some time!)
 
 But then this explanation also has a problem: you can't do these tricks for a long time, If you burn the steppe for several times, then the land becomes tired, and the grass will not grow again. Erosion starts - that's when the wind is blowing the soil away, and you get a lot of dust. That's how big steppes can turn into deserts.
 
@@ -579,7 +611,7 @@ You had these big art project in a lot of places, like the Easter Island - in th
 
 ![](media/easter-island.jpg)
 
-Easter island is very far away in the pacific ocean, if you have a spacecraft, and you need to get rid of it, then you fly it to point Nemo - that's a point that is very far way from any land, so that the spacecraft will not fall on the head of anybody. Here is a map with point Nemo and Easter Island.
+    Easter island is very far away in the pacific ocean, if you have a spacecraft, and you need to get rid of it, then you fly it to point Nemo - that's a point that is very far way from any land. This way the spacecraft will not fall on the head of anybody. Here is a map with point Nemo and Easter Island.
 
 ![](media/easter-island-map.png)
 
@@ -592,7 +624,99 @@ Here is an old Soviet/Russian space station called "Mir" - it is burning, while 
 But later there came another big change: some five thousand years ago people learned how to write, they learned how to do that in both Egypt and in Mesopotamia (that is the land in Iraq).  That is the start of history: from that moment we can look at texts that were written by the people who lived at the time!
 Before writing we can't know anything for sure, all we can do is make fancy guesses...
 
+<!--
+---06/07/22 15:13:11----------------------
 
+Some of the things that people built ten thousand years ago are really big. Sometimes you can hear other people, who say that these had to be build by aliens from outer space.
+
+But the scientists say that this is bullshit.
+
+You can get a lot done by working together, even with very simple tools!
+
+I can give you a challenge to check this out (no, you don't have to move heavy stones...)
+
+Eliran likes to look at maps, you could make a game that is an electronic map! A map, you can click on places, and it does ... whatever you want it to do...
+
+There is a very simple programming language called "Scratch" - you can learn it on youtube: https://www.youtube.com/watch?v=uv8mbL-MC58
+
+You need to think about what kind of map you want to make,
+
+You would have to make some plan: decide what it will do - what you can click on, what kind of story it would tell.
+
+Here you could learn about different kinds of maps and about different kind of places in the process.
+
+You can even teach Elirani how to change this game, it's not very complicated, you can tell the program to work in Hebrew!
+
+One tip (if you decide if its a good idea) : You can write down what you want to do. I sometimes make some projects like this, and I try to write such things down.
+
+This way I don't forget what I am doing.
+
+Writing down is really a kind of super power! 
+
+Not many people know that...
+
+I can help you, if you have any questions!
+
+What do you think?
+//-->
+
+---07/07/22 05:47:41----------------------
+
+
+Now lots of things happen between 12000 years ago until 5000 years ago (that's the time when we get the big civilizations of Egypt and Mesopotamia - the land in modern Iraq)
+
+Lots of things happen during this time:
+
+The city of [Çatalhöyük](https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk) in Turkey, it is from 9500 years ago, and some 5000 people lived in houses, that's a big group of people! The houses were built very close to each other, the wall of one house would also be the wall of the next house. But they sometimes had squares of empty space between the houses, sometimes they had big holes between houses - they would put their garbage in these holes. People moved from the roof of one house to the roof of the next house - they didn't have streets between the houses.
+
+Usually a family lived in a house, the houses were all of equal size, that would mean that people were more or less equal - they didn't have very big houses for the rich people! That's a very strange thing - you don't have that very often, this is very unusual!
+People also started with agriculture - growing plants for eating, they had rooms for storing wheat, barley and fruit. But they also held sheep and some of them were hunting.
+
+You didn't have big city walls around this city for protection. Maybe the way they built the houses was a kind of protection - you would have to fight for each house, they were built very close to each other.
+
+---
+
+Another place: the towers of Jericho from 10000 years ago.  ![](media/towers-of-jericho.jpeg) Jericho is a town near the dead sea - it is the place where people are living for a very long time!
+A long long time ago these towers stood high, but then you had more and more soil forming around them, so that they are now deep under the earth.
+You need a hundred people building that, they would all have to spend a hundred days to build that. So they must to have some kind of organization: someone needs to prepare the food, others need to gather that food and store it somewhere. Lots of action!
+
+Walls can protect you from your enemies, you can also use the walls as protection against floods - that is when the water is rising high.
+Some scientist say that big city walls are not only built against enemies - you need them to keep your own people from running away! 
+
+---
+Another big change: people start to make pottery, that is somewhere like 8500 years ago. 
+
+Here is one of the first pots, they found it near Kibbutz Shaar Hagolan in Israel, it is some 8400 years old, so it is a very old pot!
+
+![](shaar-hagolan-yarmukian-pottery.jpg)
+
+That is a big change: now from that moment archaeologists start to find pots and broken pieces of pots - they find these in a lot of places. There are a lot of ways to make pots, and people also make nice decorations and drawings on the pots, each culture has its own way of making pots, and you find the pieces of pots in lots of archaeological sites!
+
+You can use these peaces of pots to say, who was at the same place! You can also make a good guess of the time period - that is you can guess the date of what you found at the same place!
+You can also say, if these people were trading stuff with other people. Sometimes you can find a pot from a different culture, that shows what kind of trade was going on!
+
+Also pottery may be a sign of specialization - some people start to make pots all day, others make tools, there may be other professions as well.
+The pottery is getting more complicated, and you need people who really know how to do this stuff, you can't make all of your tools, as before.
+
+
+All this stuff helps you to find layers: new soil/earth is forming, and old stuff is buried under the earth (like at Jericho, where the big towers got buried in the ground).
+Now you can find different layers - different areas that have common style of pottery. This way you can group the stuff that you find by time!
+Troy is a town in Turkey, you remember the story of the Troyan horse? That's the place!
+
+![](media/troy-horse.jpeg)
+
+They found some ten different layers there, each one is coming from a different time period and a different kind of culture.
+Things get very complicated, if you have that many layers.
+
+Like with the movie Shrek - here Shrek is explaining that he is a very complicated person, because he is having many layers
+
+https://www.youtube.com/watch?v=-FtCTW2rVFM&t=37s
+
+
+<!--
+Now lets spend some time with learning about Egyptian pottery - that came a bit later, but you can get a feeling of the different kind of pottery that exists, and how the pots changed through time.
+
+//-->
  
 
 
