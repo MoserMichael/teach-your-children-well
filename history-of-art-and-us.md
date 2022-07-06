@@ -493,12 +493,10 @@ There are many other linguists with different ideas, and we can also learn what 
 
 
 Another detail: they say it shows that we have some built-in ability for learning language.
-Nicaragua sign language https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language
+Nicaraguan sign language https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language
 
-Nicaragua had a big group of people who can't talk, who are deaf, and they made up a sign language of their own, without anyone teaching them, all by themselves!
+Nicaragua is a country; it had a big group of people who can't talk, who are deaf. The deaf people made up a sign language of their own, without anyone teaching them, all by themselves!
 And this language has all the features of a real language, just like all the other six thousand languages in the world!
-
-
 
 ---05/07/22 00:35:13----------------------
 
