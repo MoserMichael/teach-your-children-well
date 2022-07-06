@@ -505,7 +505,9 @@ We know it from the paintings that people left on the walls of rocks (they also 
 
 ![](media/Algerien_Desert.jpg)
 
-At this time something big happens: people start to do something new
+These paintings are now standing in the middle of the desert. There was no desert anywhere near the place, at the time when they were drawn!
+
+At that same time something big happens: people start to do something new:
 
 People start to have herds of animals, like sheeps and goats, just like the forefathers of Israel -  Abraham, Isaac, and Jacob!
 Now people had more time, as they didn't have to hunt and gather all day! Hunting and gathering takes up a lot of time, so you have little time for anything else.
@@ -517,11 +519,11 @@ This woman is sitting or dancing ![](media/Femme-gavure.jpeg) -  painting from a
 It takes a long time until people start to plant their food, that is called agriculture. People need some three to five thousand years for that!
 
 Something very happens in art, people start to build big monuments made out of big stones, maybe these are temples? 
-(this kind of art is alled Megalithic - Mega means big, lithic means rocks)
+(this kind of art is alled Megalithic - Mega means big, lithic means a thing made from stone)
 
 Göbekli Tepe in Turkey ![](media/goebleki-tepe.jpeg) from 10.000 years ago!
 
-In Israel we have Atlit-yam, that's place that is now under the sea, near Haifa - also from soem 9000 years ago ![](media/Atlit-Yam.jpeg)
+In Israel we have Atlit-yam, that's place that is now under the sea, near Haifa - also from some 9000 years ago ![](media/Atlit-Yam.jpeg)
 
 Stonhenge, in Great Britain - the earliest stones are from five thousand years ago, it took them a thousand years to build it ![](media/stonehenge.webp)
 
