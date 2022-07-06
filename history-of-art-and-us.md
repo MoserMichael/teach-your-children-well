@@ -538,7 +538,8 @@ Why did people do all that? Scientist think that this is how we got society: onc
 
 Later the groups get bigger, and everyone is doing some special kind of work: some people are got at making clothes, so they make clothes all day.
 Some people are got at herding sheep, so that's what they do all day. These people have to exchange things, they need to trade what they got!
-At this moment trust becomes important, there is a big problem, if you can't trust anybody.
+At this moment trust becomes important, there is a big problem, if you can't trust anybody. 
+Try to be afraid of everybody - now life is very hard if you do that, cooperation becomes impossible, if you do that!
 
 Now people need some common ideas, a common religion. And they do big projects together to build these temples - in the process they learn to trust each other.
 So maybe this process of building art created our first societies! You see that art is very important...
