@@ -275,9 +275,11 @@ There are lots of ideas on the meaning of all this. I think that I would have to
 
 In science you would take many details and look at them together:
 
-- what were the people eating? You can take a place where they put their garbage and look at the bones of the animals. Are they drawing animals that they eat?
+- what were the people eating? You can take a place where they put their garbage and look at the bones of the animals, they can tell the kind of animals from the bones!
+- Are they drawing animals that they eat?
 - You can think about other cultures that are in far away places, like Africa or the Amazonas, and compare what they are doing.
 - You can compare pictures from different places and different times, and see how they changed through time.
+- what kind of tools are people using? Sometimes you can find differences between the stone tools - tools from east Africa are a little bit different from the tools that they find in west Africa, so they had different cultures, and we see that from the difference in the stone tools! A lot later people start to make pots/pottery (that was just some seven thousand years ago). Scientist study the types of pots, the drawings that were made on the pots - all this gives you a lot of clues on the culture that people had, during the same time as they find other things, at the same spot!
 - Lots of possible ways to search for answers.
 
 
