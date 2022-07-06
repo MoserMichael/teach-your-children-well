@@ -414,7 +414,7 @@ Now look like these rules are used with the following sentences. The sentence "I
 
 You get something like a tree, when you apply all of the rules!
 
-You get something very similar for the sentence 
+You get something very similar for the next sentence 
 
 ```
                               Sentence
@@ -531,10 +531,47 @@ Later the groups get bigger, and everyone is doing some special kind of work: so
 Some people are got at herding sheep, so that's what they do all day. These people have to exchange things, they need to trade what they got!
 At this moment trust becomes important, there is a big problem, if you can't trust anybody.
 
-Now people need some common ideas, a common religion. And they do big projects togather to build these temples - in the process they learn to trust each other.
+Now people need some common ideas, a common religion. And they do big projects together to build these temples - in the process they learn to trust each other.
 So maybe this process of building art created our first societies! You see that art is very important...
 
+---06/07/22 04:46:33----------------------
 
+Remember we talked about how to grow food? 
+You need a lot of people to build these big monuments, because only lots of people working together can change the shape of these big stones and move them.
+It needs a group of hundreds and thousands of people who all live together.
+You need some specialists for carving the images on the blocks - specialists are people who are good at doing a thing. That's because they do it every day.
+
+Now scientists thought a group of hunters and gatherers can't do this, because they can't grow enough food to feed this big group of people!
+It turns out that things are complicated.
+
+Remember Göbekli Tepe in Turkey ![](media/goebleki-tepe.jpeg) from 10.000 years ago?
+
+Scientists looked at the garbage from that place, and it turns out that they were eating gazelles. Gazelles are wild animals, they don't live in herds.
+You need to hunt a gazelle if you want to eat it, so these people did not have herds of gazelles.
+
+![](media/gazelles.jpg)
+
+A gazelle likes to jump around, and it is very very difficult to keep them in herds, like sheep.
+
+What happened? You can do a lot to make it easier for the gazelles to grow, so that it is easier to hunt them.
+    - you can kill all the animals that eat gazelles, there will be more gazelles for hunting, if the predators don't eat them
+    - you can burn the steppe, the next year it will be easier for the grass to grow, and there will be more gazelles for hunting (Indians in America used to do this, so that they have more Bisons for hunting)
+
+But then this explanation also has a problem: you can't do these tricks for a long time, If you burn the steppe for several times, then the land becomes tired, and the grass will not grow again. Erosion starts - that's when the wind is blowing the soil away, and you get a lot of dust. That's how big steppes can turn into deserts.
+
+In the end it is hard to know for sure what happened. We can only make guesses. We don't know the exact history of the people who lived there.
+
+One of the guesses is that they needed these very big art project in order to build a society - a society is a big group with thousands of people. Maybe that's the way to bring in lot of people and unite them for the project, you see these big buildings in lots of a places, all over the world, so maybe this is a stage that a had to go through...
+
+You had these big art project in a lot of places, like the the Eastern Island - in the middle of the pacific oceans!
+
+![](media/easter-island.jpg)
+
+But later there came another big change: some five thousand years ago people learned how to write, they learned how to do that in both Egypt and in Mesopotamia (that is the land in Iraq).  That is the start of history: from that moment we can look at texts that were written by the people who lived at the time!
+Before writing we can't know anything for sure, all we can do is make fancy guesses...
+
+
+ 
 
 
 
