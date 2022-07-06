@@ -561,11 +561,17 @@ But then this explanation also has a problem: you can't do these tricks for a lo
 
 In the end it is hard to know for sure what happened. We can only make guesses. We don't know the exact history of the people who lived there.
 
-One of the guesses is that they needed these very big art project in order to build a society - a society is a big group with thousands of people. Maybe that's the way to bring in lot of people and unite them for the project, you see these big buildings in lots of a places, all over the world, so maybe this is a stage that a had to go through...
+One of the guesses is that they needed these very big art project in order to build a society - a society is a big group with thousands of people. Maybe that's the way to bring in lot of people and unite them for the project, you see these big buildings in lots of a places, all over the world, so maybe this is a stage that people had to go through...
 
-You had these big art project in a lot of places, like the the Eastern Island - in the middle of the pacific oceans!
+You had these big art project in a lot of places, like the the Easter Island - in the middle of the Pacific ocean!
 
 ![](media/easter-island.jpg)
+
+Easter island is very far away in the pacific ocean, if you have a spacecraft, and you need to get rid of it, then you fly it to point Nemo - that's a point that is very far way from any land, so that the spacecraft will not fall on the head of anybody. Here is a map with point Nemo and Easter Island.
+
+![](media/easter-island-map.png)
+
+---
 
 But later there came another big change: some five thousand years ago people learned how to write, they learned how to do that in both Egypt and in Mesopotamia (that is the land in Iraq).  That is the start of history: from that moment we can look at texts that were written by the people who lived at the time!
 Before writing we can't know anything for sure, all we can do is make fancy guesses...
