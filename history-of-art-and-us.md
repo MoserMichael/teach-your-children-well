@@ -678,9 +678,14 @@ People also started with agriculture - growing plants for eating, they had rooms
 
 You didn't have big city walls around this city for protection. Maybe the way they built the houses was a kind of protection - you would have to fight for each house, they were built very close to each other.
 
+Also each family was making their own tools, they did not have specialists who would only do one kind of tool. More on that later.
+
+Do you remember the story of Atlantis? The Greek philosopher Plato told a story of a city on an Island that was called Atlantis, the island later sank in the sea. Plato told, that they didn't have rich or poor people in Atlantis, so maybe that's a bit like the city of Çatalhöyük.
+
 ---
 
-Another place: the towers of Jericho from 10000 years ago.  ![](media/towers-of-jericho.jpeg) Jericho is a town near the dead sea - it is the place where people are living for a very long time!
+Another place: the towers of Jericho from 10000 years ago.  ![](media/towers-of-jericho.jpeg) Jericho is a town near the dead sea - it is the place where people are living for a very long time, the oldest town on earth!
+
 A long long time ago these towers stood high, but then you had more and more soil forming around them, so that they are now deep under the earth.
 You need a hundred people building that, they would all have to spend a hundred days to build that. So they must to have some kind of organization: someone needs to prepare the food, others need to gather that food and store it somewhere. Lots of action!
 
@@ -692,7 +697,7 @@ Another big change: people start to make pottery, that is somewhere like 8500 ye
 
 Here is one of the first pots, they found it near Kibbutz Shaar Hagolan in Israel, it is some 8400 years old, so it is a very old pot!
 
-![](shaar-hagolan-yarmukian-pottery.jpg)
+![](media/shaar-hagolan-yarmukian-pottery.jpg)
 
 That is a big change: now from that moment archaeologists start to find pots and broken pieces of pots - they find these in a lot of places. There are a lot of ways to make pots, and people also make nice decorations and drawings on the pots, each culture has its own way of making pots, and you find the pieces of pots in lots of archaeological sites!
 
@@ -701,7 +706,6 @@ You can also say, if these people were trading stuff with other people. Sometime
 
 Also pottery may be a sign of specialization - some people start to make pots all day, others make tools, there may be other professions as well.
 The pottery is getting more complicated, and you need people who really know how to do this stuff, you can't make all of your tools, as before.
-
 
 All this stuff helps you to find layers: new soil/earth is forming, and old stuff is buried under the earth (like at Jericho, where the big towers got buried in the ground).
 Now you can find different layers - different areas that have common style of pottery. This way you can group the stuff that you find by time!
