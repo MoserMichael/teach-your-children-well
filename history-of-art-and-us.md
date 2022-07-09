@@ -671,7 +671,7 @@ The city of [Çatalhöyük](https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%
 
 That's what they found ![](media/chatalhoyuk-excavation.jpg)
 
-They think it looked like this ![](media/Çatalhöyük_reconstruction.jpg)
+They think it looked like this ![](media/chatalhoyuk-reconstruction.jpg)
 
 Usually a family lived in a house, the houses were all of equal size, that would mean that people were more or less equal - they didn't have very big houses for the rich people! That's a very strange thing - you don't have that very often, this is very unusual!
 People also started with agriculture - growing plants for eating, they had rooms for storing wheat, barley and fruit. But they also held sheep and some of them were hunting.
