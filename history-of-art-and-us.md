@@ -580,7 +580,7 @@ It's not just a nice painting - people really put a lot of meaning into art!
 
 Remember we talked about how to grow food? 
 
-    You need a lot of people to build these big monuments, because only lots of people working together can change the shape of these big stones and move them.
+You need a lot of people to build these big monuments, because only lots of people working together can change the shape of these big stones and move them.
 It needs a group of hundreds of people who all live together.
 You need some specialists for carving the images on the blocks - specialists are people who are good at doing a thing. That's because they do it every day.
 
@@ -611,7 +611,7 @@ You had these big art project in a lot of places, like the Easter Island - in th
 
 ![](media/easter-island.jpg)
 
-    Easter island is very far away in the pacific ocean, if you have a spacecraft, and you need to get rid of it, then you fly it to point Nemo - that's a point that is very far way from any land. This way the spacecraft will not fall on the head of anybody. Here is a map with point Nemo and Easter Island.
+Easter island is very far away in the pacific ocean, if you have a spacecraft, and you need to get rid of it, then you fly it to point Nemo - that's a point that is very far way from any land. This way the spacecraft will not fall on the head of anybody. Here is a map with point Nemo and Easter Island.
 
 ![](media/easter-island-map.png)
 
