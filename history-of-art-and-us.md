@@ -669,6 +669,10 @@ Lots of things happen during this time:
 
 The city of [Çatalhöyük](https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk) in Turkey, it is from 9500 years ago, and some 5000 people lived in houses, that's a big group of people! The houses were built very close to each other, the wall of one house would also be the wall of the next house. But they sometimes had squares of empty space between the houses, sometimes they had big holes between houses - they would put their garbage in these holes. People moved from the roof of one house to the roof of the next house - they didn't have streets between the houses.
 
+That's what they found ![](media/chatalhoyuk-excavation.jpg)
+
+They think it looked like this ![](media/Çatalhöyük_reconstruction.jpg)
+
 Usually a family lived in a house, the houses were all of equal size, that would mean that people were more or less equal - they didn't have very big houses for the rich people! That's a very strange thing - you don't have that very often, this is very unusual!
 People also started with agriculture - growing plants for eating, they had rooms for storing wheat, barley and fruit. But they also held sheep and some of them were hunting.
 
