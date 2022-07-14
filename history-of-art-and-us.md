@@ -775,7 +775,9 @@ This is how pottery is made:
 
 - now your pot is still wet, it has lots of water in it. You can now decorate the pot, scratch something into the clay,
         ![](media/decorated-pot.jpg)
+
   Later they would also polish the pot and put on stuff to make it shine   
+        ![](media/polished-pot.jpg)
 
   Another detail: the base of the pot is being finished - the base is a tricky part, it needs a lot of work - even at this stage.
 
