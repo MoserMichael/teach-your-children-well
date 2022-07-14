@@ -741,58 +741,61 @@ https://www.youtube.com/watch?v=-FtCTW2rVFM&t=37s
 
 There are a lot of ways to make a pot, each different way will give you a different kind of pot, you can tell a lot by looking at the pot and the way it was made:
 
-This is how pottery is made:
+This is how pottery is made, wikipedia tells us a lot about pottery in ancient Egypt: https://en.wikipedia.org/wiki/Ancient_Egyptian_pottery
 
-- First you have to find the clay; in Egypt you can do that by two ways 
+- First you have to find the clay - that's the stuff used to make pots; in Egypt you can do that by two ways 
     - get the clay from the Nile river; the river moves the stuff from the mountains down to the sea.
       The river has much more water in the spring, that's when the water is spilling over into the land around the river, a lot of land is covered with water.
       You can then find the clay, when the water gets back into the river.
       Nile clay was used for simple stuff that simple people bought for themselves.
-      Firing will turn this clay into a dark red or brown pot.
+      Firing will turn this clay into a dark red or brown pot - here is a pot made out of nile clay
         ![](media/nile-clay.jpg)
 
     - you can dig up the clay from the earth, this is Marl clay - you have to carry the clay for some distance, it was used for very expensive pots,
-      Firing will turn this clay into a white or cream colored pot.
+      Firing will turn this clay into a white or cream colored pot, here is a pot made out of marl clay
         ![](media/marl-clay-vessel.jpg)
 
-- Prepare the clay, you can do this in two ways:
+- Next step: you need to prepare the clay, you can do this in two ways:
     - make the clay dry, break the clay into very small pieces and remove small stones and dirt with a sift.
     - put the clay in water, now you have to wait and remove the dirty water, do so again and again.
-    - later you need to add some stuff, to make it easier to form the clay. This is called stuff is called temper - it can be made out of bones, out of coal, out of sandstone 
-    - now comes an important part: you need to make a block of clay, now you need to remove all the air bubbles from that block - without this step you will put a form into the fire and the air bubble will grow when heated - your pot will explode in the fire! You have to be very careful, also this step takes a lot of time, knead the clay again and again.
+
+    later you need to add some stuff, to make it easier to form the clay. This is called stuff is called temper - it can be made out of bones, out of coal, out of sandstone 
+    now comes an important part: you need to remove all the air bubbles from that block before using the clay. You can get an explosion without this step - the air bubbles will grow when heated, so that your pot will explode in the fire! You have to be very careful, also this step takes a lot of time, knead the clay again and again.
         ![](media/kneading-clay.jpg)
 
-- form the pot from the wet clay, again lots of possibilities.
-    - Form it by hand. If you make a pot on your own then you will most likely use this method. However there are tricks:
-        ![](media/hand-shaping-clay.png) - even today you have people who work like this, like on the picture - near the Amazon river in south America.
+- next you need to form the pot from the wet clay, again lots of possibilities.
+    - Form it by hand. If you make a pot on your own then you will most likely use this method.
+        ![](media/hand-shaping-clay.png) - even today you have people who work like this. This picture is not from long ago, this is near the Amazon river in south America.
     - use a rotating base, like this one, this is a very early method, it was even used before the time of the pharaos, some six thousand years ago!  
         ![](media/rotating-base-shaping-clay.jpg)
-    - use a slow potter wheel, you need one hand to turn the wheel, and you have to use your other hand to form the clay.
+    - or you can use a slow potter wheel. You need one hand to turn the wheel, and you have to use your other hand to form the clay.
         ![](media/slow-wheel-shaping-clay.jpg)
-        Now you can have a small factory - where one person does only a single part of the process, one person is preparing the clay, the other is forming and so on. You can make many many pots this way, when many people are working togather like this, this is called mass production. They had it since the Old Kingdom of Egypt - some 4600 years ago, when the pyramids where built! 
-    - use a fast potter wheel, you can turn it with your feet and you both hands to form the clay, they had this sine the new kingdom of Egypt - some 3500 years ago.
+        This is an important tool, you can use that in a small factory. In a factory each person does only a single small part of the process, one person is preparing the clay, the other is forming and so on. You can make many many pots this way, when many people are working togather like this, this is called mass production. They had it since the Old Kingdom of Egypt - some 4600 years ago, when the pyramids where built! 
+    - use a fast potter wheel, you can turn it with your feet and you both hands to form the clay, they had this sine the new kingdom of Egypt - some 3500 years ago, it took a thousand years to come up with this invention.
         ![](media/fast-potter-wheel2.png)    
 
-- now your pot is still wet, it has lots of water in it. You can now decorate the pot, scratch something into the clay,
+- Next stage: the clay is still wet, it has lots of water in it. You can now decorate the pot, scratch something into the clay,
         ![](media/decorated-pot.jpg)
 
-  Later they would also polish the pot and put on stuff to make it shine   
+  Now is the time when you can also polish the pot and put on stuff to make it shine   
         ![](media/polished-pot.jpg)
 
   Another detail: the base of the pot is being finished - the base is a tricky part, it needs a lot of work - even at this stage.
 
-- Drying: You can't put it into the fire right now, the clay still has lots of water, the fire would turn the water into steam, and your pot would explode.
+- Next stage: Drying: You can't put it into the fire right now, the clay still has lots of water, the fire would turn the water into steam, and your pot would explode.
   Now you need to be careful - if the clay dries too much, then the pot will shrink. In the summer you have to put it into the shade, for several days.
 
-- Firing: put the pot into the fire, so that it gets hard. But you need to turn on the heat slowly - there is still some water in the clay that needs to turn into steam. Again there are several methods:
+- Next stage: Firing: put the pot into the fire, so that it gets hard. But you need to turn on the heat slowly - there is still some water in the clay that needs to turn into steam. Again there are several methods to fire the pottery:
 
     - an open fire, put some wood into the pot,  
        ![](media/open-fire-pottery.jpg) - even used today, in Mali.
         Pots made like this often have a black rim on the top ![](media/black-top-rim.jpg)
         Still, there are lots of trick that can make a big different - more details: https://ancientpottery.how/open-fire-pottery/
     - larger scale production: a Kiln - here you can control how much oxygen gets is around the pot, while it is hot. This can be used to change the color.
-      You also have more control on how the fire is burning - this gives you pots of better quality, you know that each pot got the same treatment.
+          You also have more control on how the fire is burning, this gives you pots of better quality. You can know that each pot got the same amount of heat.
+
         ![](media/kiln.jpg)
+
       This tool is also a sign of mass production in factories - a very advanced trick! 
     - Next stage: a kiln that separates the fire from the pots, this way you got even better quality pots - the flames of the fire don't leave flecks or smudges on the pot.
 
