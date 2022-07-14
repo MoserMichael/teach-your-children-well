@@ -27,7 +27,7 @@ Rome built a big empire, and united many people - most countries in Europe say t
 at 01:00 comes a painting from China - that's where paper was invented, with very fine lines.
 
 at 1:17 we get back to Europe during the renaissance - that's between six hundred and three hundred years ago in Italy
-That's when Europe got back to the tradition of ancient Greece and ancient Rome, and when we learned things like science.
+That's when Europe got back to the tradition of ancient Greece and ancient Rome, and when we learned about new things, like science.
 In art they learned about perspective, depth and Humanism - that people are the most important and should come first.
 
 at 1:30 we get into 19th century France - the early impressionist; they taught us to draw what we feel, and not just what we see.
@@ -674,6 +674,7 @@ That's what they found ![](media/chatalhoyuk-excavation.jpg)
 They think it looked like this ![](media/chatalhoyuk-reconstruction.jpg)
 
 Usually a family lived in a house, the houses were all of equal size, that would mean that people were more or less equal - they didn't have very big houses for the rich people! That's a very strange thing - you don't have that very often, this is very unusual!
+
 People also started with agriculture - growing plants for eating, they had rooms for storing wheat, barley and fruit. But they also held sheep and some of them were hunting.
 
 You didn't have big city walls around this city for protection. Maybe the way they built the houses was a kind of protection - you would have to fight for each house, they were built very close to each other.
@@ -682,17 +683,30 @@ Also each family was making their own tools, they did not have specialists who w
 
 Do you remember the story of Atlantis? The Greek philosopher Plato told a story of a city on an Island that was called Atlantis, the island later sank in the sea. Plato told, that they didn't have rich or poor people in Atlantis, so maybe that's a bit like the city of Çatalhöyük.
 
+Dolev is asking "Maybe they were just communists?"
+
+Answer: Maybe, but in the Soviet Union a director of a factory had a bigger house than a factory worker.
+Another thing: in old societies they were bringing presents to the graves, if a person dies, then he got presents, for the afterlife. But in Çatalhöyük they did not find much of a difference with these presents.
+You also don't have much of a difference in other societies - mostly simple societies in far away places.
+Maybe Çatalhöyük was somewhere in between - it was still a very simple society, but things were about to get much more complicated in the future.
+In English they say "strange things happen at sea"
+this means that things can get complicated - if you look at something specific.
+
 ---
 
 Another place: the towers of Jericho from 10000 years ago.  ![](media/towers-of-jericho.jpeg) Jericho is a town near the dead sea - it is the place where people are living for a very long time, the oldest town on earth!
 
-A long long time ago these towers stood high, but then you had more and more soil forming around them, so that they are now deep under the earth.
+The [tower](https://en.wikipedia.org/wiki/Tower_of_Jericho) was 8.5 meter high, when it was built. But then you had more and more soil forming around the place, so that it lies deep under the earth.
+
 You need a hundred people building that, they would all have to spend a hundred days to build that. So they must to have some kind of organization: someone needs to prepare the food, others need to gather that food and store it somewhere. Lots of action!
 
-Walls can protect you from your enemies, you can also use the walls as protection against floods - that is when the water is rising high.
+Why would they build this wall? Usually you have that to defend against enemies, but we don't know for sure - they didn't find any enemies around the place.
+You can also use the tower and the walls as protection against floods - that is when the water is rising high.
 Some scientist say that big city walls are not only built against enemies - you need them to keep your own people from running away! 
+Or maybe it had something to do with astronomy - we can only guess, they didn't know how to write things down ten thousand years ago.
 
 ---
+
 Another big change: people start to make pottery, that is somewhere like 8500 years ago. 
 
 Here is one of the first pots, they found it near Kibbutz Shaar Hagolan in Israel, it is some 8400 years old, so it is a very old pot!
@@ -701,7 +715,8 @@ Here is one of the first pots, they found it near Kibbutz Shaar Hagolan in Israe
 
 That is a big change: now from that moment archaeologists start to find pots and broken pieces of pots - they find these in a lot of places. There are a lot of ways to make pots, and people also make nice decorations and drawings on the pots, each culture has its own way of making pots, and you find the pieces of pots in lots of archaeological sites!
 
-You can use these peaces of pots to say, who was at the same place! You can also make a good guess of the time period - that is you can guess the date of what you found at the same place!
+You can use these peaces of pots to guess about the date of what you found - when it happened. If you find stuff with the same pieces of pots, then they are from the same time!
+
 You can also say, if these people were trading stuff with other people. Sometimes you can find a pot from a different culture, that shows what kind of trade was going on!
 
 Also pottery may be a sign of specialization - some people start to make pots all day, others make tools, there may be other professions as well.
@@ -721,14 +736,73 @@ Like with the movie Shrek - here Shrek is explaining that he is a very complicat
 https://www.youtube.com/watch?v=-FtCTW2rVFM&t=37s
 
 
-<!--
-Now lets spend some time with learning about Egyptian pottery - that came a bit later, but you can get a feeling of the different kind of pottery that exists, and how the pots changed through time.
 
-//-->
- 
+---14/07/22 03:58:45----------------------
+
+There are a lot of ways to make a pot, each different way will give you a different kind of pot, you can tell a lot by looking at the pot and the way it was made:
+
+This is how pottery is made:
+
+- First you have to find the clay; in Egypt you can do that by two ways 
+    - get the clay from the Nile river; the river moves the stuff from the mountains down to the sea.
+      The river has much more water in the spring, that's when the water is spilling over into the land around the river, a lot of land is covered with water.
+      You can then find the clay, when the water gets back into the river.
+      Nile clay was used for simple stuff that simple people bought for themselves.
+      Firing will turn this clay into a dark red or brown pot.
+        ![](media/nile-clay.jpg)
+
+    - you can dig up the clay from the earth, this is Marl clay - you have to carry the clay for some distance, it was used for very expensive pots,
+      Firing will turn this clay into a white or cream colored pot.
+        ![](media/marl-clay-vessel.jpg)
+
+- Prepare the clay, you can do this in two ways:
+    - make the clay dry, break the clay into very small pieces and remove small stones and dirt with a sift.
+    - put the clay in water, now you have to wait and remove the dirty water, do so again and again.
+    - later you need to add some stuff, to make it easier to form the clay. This is called stuff is called temper - it can be made out of bones, out of coal, out of sandstone 
+    - now comes an important part: you need to make a block of clay, now you need to remove all the air bubbles from that block - without this step you will put a form into the fire and the air bubble will grow when heated - your pot will explode in the fire! You have to be very careful, also this step takes a lot of time, knead the clay again and again.
+        ![](media/kneading-clay.jpg)
+
+- form the pot from the wet clay, again lots of possibilities.
+    - Form it by hand. If you make a pot on your own then you will most likely use this method. However there are tricks:
+        ![](media/hand-shaping-clay.png) - even today you have people who work like this, like on the picture - near the Amazon river in south America.
+    - use a rotating base, like this one, this is a very early method, it was even used before the time of the pharaos, some six thousand years ago!  
+        ![](media/rotating-base-shaping-clay.jpg)
+    - use a slow potter wheel, you need one hand to turn the wheel, and you have to use your other hand to form the clay.
+        ![](media/slow-wheel-shaping-clay.jpg)
+        Now you can have a small factory - where one person does only a single part of the process, one person is preparing the clay, the other is forming and so on. You can make many many pots this way, when many people are working togather like this, this is called mass production. They had it since the Old Kingdom of Egypt - some 4600 years ago, when the pyramids where built! 
+    - use a fast potter wheel, you can turn it with your feet and you both hands to form the clay, they had this sine the new kingdom of Egypt - some 3500 years ago.
+        ![](media/fast-potter-wheel2.png)    
+
+- now your pot is still wet, it has lots of water in it. You can now decorate the pot, scratch something into the clay,
+        ![](media/decorated-pot.jpg)
+  Later they would also polish the pot and put on stuff to make it shine   
+
+  Another detail: the base of the pot is being finished - the base is a tricky part, it needs a lot of work - even at this stage.
+
+- Drying: You can't put it into the fire right now, the clay still has lots of water, the fire would turn the water into steam, and your pot would explode.
+  Now you need to be careful - if the clay dries too much, then the pot will shrink. In the summer you have to put it into the shade, for several days.
+
+- Firing: put the pot into the fire, so that it gets hard. But you need to turn on the heat slowly - there is still some water in the clay that needs to turn into steam. Again there are several methods:
+
+    - an open fire, put some wood into the pot,  
+       ![](media/open-fire-pottery.jpg) - even used today, in Mali.
+        Pots made like this often have a black rim on the top ![](media/black-top-rim.jpg)
+        Still, there are lots of trick that can make a big different - more details: https://ancientpottery.how/open-fire-pottery/
+    - larger scale production: a Kiln - here you can control how much oxygen gets is around the pot, while it is hot. This can be used to change the color.
+      You also have more control on how the fire is burning - this gives you pots of better quality, you know that each pot got the same treatment.
+        ![](media/kiln.jpg)
+      This tool is also a sign of mass production in factories - a very advanced trick! 
+    - Next stage: a kiln that separates the fire from the pots, this way you got even better quality pots - the flames of the fire don't leave flecks or smudges on the pot.
+
+Archaeologists have a way to classify pottery, by the way it is made, by the quality of the clay, etc. This helps them to tell the culture and time period when it was made. Now you need to have such a classification for each culture, the pots in Egypt have their own classification, now Greece or Mesopotamia is a whole different story!
+
+Pottery was important in Egyptian religion - they had the god Khnum, this one is one of the more important ones: he was responsible for flooding the river Nile -that's when all the land of Egypt gets a lot of fertilizers and you can then find the Nile clay brought by the Nile. The symbol of Khnum was the potters wheel. He was also responsible for making the bodies of children - out of clay, on his potters wheel. The goddess Isis would later breathe life into them.
+
+Pottery is also important in Jewish religion, Abraham worked at the shop of his father Terah, in the city of Ur, where they made idols out of clay. That's where Abraham found out that all the other gods were fake!
 
 
 
 
-
+  
+  
 
