@@ -791,7 +791,7 @@ This is how pottery is made, wikipedia tells us a lot about pottery in ancient E
        ![](media/open-fire-pottery.jpg) - even used today, in Mali.
         Pots made like this often have a black rim on the top ![](media/black-top-rim.jpg)
         Still, there are lots of trick that can make a big different - more details: https://ancientpottery.how/open-fire-pottery/
-    - larger scale production: a Kiln - here you can control how much oxygen gets is around the pot, while it is hot. This can be used to change the color.
+    - larger scale production: a Kiln - here you can control how much oxygen gets near the pot, while it is hot. This can be used to change the color of the pot.
           You also have more control on how the fire is burning, this gives you pots of better quality. You can know that each pot got the same amount of heat.
 
         ![](media/kiln.jpg)
@@ -801,13 +801,23 @@ This is how pottery is made, wikipedia tells us a lot about pottery in ancient E
 
 Archaeologists have a way to classify pottery, by the way it is made, by the quality of the clay, etc. This helps them to tell the culture and time period when it was made. Now you need to have such a classification for each culture, the pots in Egypt have their own classification, now Greece or Mesopotamia is a whole different story!
 
-Pottery was important in Egyptian religion - they had the god Khnum, this one is one of the more important ones: he was responsible for flooding the river Nile -that's when all the land of Egypt gets a lot of fertilizers and you can then find the Nile clay brought by the Nile. The symbol of Khnum was the potters wheel. He was also responsible for making the bodies of children - out of clay, on his potters wheel. The goddess Isis would later breathe life into them.
+Pottery was important in Egyptian religion - they had the god Khnum, this one is one of the more important ones: he was responsible for flooding the river Nile -that's when all the land of Egypt gets a lot of fertilizers and you can then find the Nile clay, after the water returns back into the river. The symbol of Khnum was the potters wheel. He was also responsible for making the bodies of children - out of clay, on his potters wheel. The goddess Isis would later breathe life into them.
 
 Pottery is also important in Jewish religion, Abraham worked at the shop of his father Terah, in the city of Ur, where they made idols out of clay. That's where Abraham found out that all the other gods were fake!
 
+<!--
 
+---17/07/22 05:42:22----------------------
 
+Another big change after the ice age: how do we get our food?
 
-  
+Hunting and gathering is not that bad, people spend some twenty hours per week working [here](https://www.cam.ac.uk/research/news/farmers-have-less-leisure-time-than-hunter-gatherers-study-suggests) that means you work four hours per day, as a hunter gatherer, they have a lot of time!
+
+Still lots of changes happened, with the ice age. People started to change the environment: we learned how to get animals to live with us, that means how to domesticate animals.
+
+The first domesticated animal was the dog.
+
+//-->
+
   
 
