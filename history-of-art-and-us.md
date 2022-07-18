@@ -810,7 +810,11 @@ Pottery is also important in Jewish religion, Abraham worked at the shop of his 
 
 Another big change after the ice age: how do we get our food?
 
-Hunting and gathering is not that bad, people spend some twenty hours per week working [here](https://www.cam.ac.uk/research/news/farmers-have-less-leisure-time-than-hunter-gatherers-study-suggests) that means you work four hours per day, less than we do! They have a lot of time, but they do need a lot of skills for that, they need to make their own tools. If you want to hunt animals, then you need to know a lot about animals, how they behave. They need to know lots of stuff about the different plants - as they have to search for them. They know how to find their way in strange place, there is a people in Australia, the Kuuk Thaayorre people. They don't have words for "right" and "left", but they know how to say North/South/East/West. These people feel very bad when they don't see the sun - they don't know how to tell directions, but they know how to find their way, much better than us! They always know where to go!
+Hunting and gathering is not that bad, people spend some twenty hours per week working [here](https://www.cam.ac.uk/research/news/farmers-have-less-leisure-time-than-hunter-gatherers-study-suggests) that means they work four hours per day, less than we do! They have a lot of time, but they do need a lot of skills for that:
+ - they need to make their own tools. 
+ - If you want to hunt animals, then you need to know a lot about animals, how they behave. 
+ - They need to know lots of stuff about the different plants - as they have to search for them. 
+ - They know how to find their way in strange place, that's very important! There is a people in Australia, the Kuuk Thaayorre people. They don't have words for "right" and "left", but they know how to say North/South/East/West. These people feel very bad when they don't see the sun - they don't know how to tell directions, but they know how to find their way, much better than us! They always know where to go!
 
 Look at this - it's a very interesting talk by linguist Lera Broditsky https://www.youtube.com/watch?v=RKK7wGAYP6k
 She is asking an interesting question: do people think the same in all languages, or do some languages make us think differently? In other words: can a language change the way we think? Gradpa Ilja always says that he got another life, each time when he learned another language - he knows some seventeen languages!
