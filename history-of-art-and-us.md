@@ -805,19 +805,51 @@ Pottery was important in Egyptian religion - they had the god Khnum, this one is
 
 Pottery is also important in Jewish religion, Abraham worked at the shop of his father Terah, in the city of Ur, where they made idols out of clay. That's where Abraham found out that all the other gods were fake!
 
-<!--
 
 ---17/07/22 05:42:22----------------------
 
 Another big change after the ice age: how do we get our food?
 
-Hunting and gathering is not that bad, people spend some twenty hours per week working [here](https://www.cam.ac.uk/research/news/farmers-have-less-leisure-time-than-hunter-gatherers-study-suggests) that means you work four hours per day, as a hunter gatherer, they have a lot of time!
+Hunting and gathering is not that bad, people spend some twenty hours per week working [here](https://www.cam.ac.uk/research/news/farmers-have-less-leisure-time-than-hunter-gatherers-study-suggests) that means you work four hours per day, less than we do! They have a lot of time, but they do need a lot of skills for that, they need to make their own tools. If you want to hunt animals, then you need to know a lot about animals, how they behave. They need to know lots of stuff about the different plants - as they have to search for them. They know how to find their way in strange place, there is a people in Australia, the Kuuk Thaayorre people. They don't have words for "right" and "left", but they know how to say North/South/East/West. These people feel very bad when they don't see the sun - they don't know how to tell directions, but they know how to find their way, much better than us! They always know where to go!
+
+Look at this - it's a very interesting talk by linguist Lera Broditsky https://www.youtube.com/watch?v=RKK7wGAYP6k
+She is asking an interesting question: do people think the same in all languages, or do some languages make us think differently? In other words: can a language change the way we think? Gradpa Ilja always says that he got another life, each time when he learned another language - he knows some seventeen languages!
 
 Still lots of changes happened, with the ice age. People started to change the environment: we learned how to get animals to live with us, that means how to domesticate animals.
 
-The first domesticated animal was the dog.
+The first such animal was the dog - people live with dogs since 20.000 years ago, they are the first domestic animal! 
+Dogs helped people with hunting, dogs also told them if something dangerous is coming!
+Some people say that dogs domesticated us - people had to live in the same place, when they domesticated other animals and plants!
 
-//-->
+We think that both wolfs and dogs have a common great great grand daddy - the stone age wolf:
 
+![](media/plaestocene-wolf.jpg)
+
+We know that wolfs and humans have lots in common: both hunt in groups, we have to coordinate our action, there is a leader who tells others what to do. Now wolfs and humans came closer together: sometimes the wolf look out for hunting people, we the people are finished hunting, then the wolfs can eat what is left of the dead animals.
+
+Now also people do what the wolfs are doing: sometimes Indians in America where wearing wolf pelts, to get closer to groups of Bisons, 
+
+![](media/indian-wolf-pelts.jpeg)
+
+Also sometimes there are outcast wolf - the group of wolfs doesn't like them, so they have to live on their own. These outcast wolfs would have a reason to come closer to people, so that they can get a bone from us. Maybe their kids were more quite and more used to life with humans.
+
+Some sixty years ago scientists managed to domesticate wild foxes, like dogs. It took some twenty or thirty generations, each generation you choose the foxes who are most friendly, this foxes will be the fathers and mothers of the next generation of foxes. This is called selective breeding.
+
+https://www.youtube.com/watch?v=X-EXeZXwO08
+
+Dimitry Belyaev managed to get tame foxes. https://en.wikipedia.org/wiki/Dmitry_Belyayev_(zoologist) 
+Actually he had a lot of trouble, some seventy years ago. During the government of Stalin the soviet state didn't like geneticists. The most famous geneticist Nikolai Vavilov got int  jail and died of hunger. https://en.wikipedia.org/wiki/Nikolai_Vavilov
+Belyaev didn't get into jail, but he was in some serious trouble. But thankfully they changed this policy, after the death of Stalin.
   
+https://www.youtube.com/watch?v=HsIibD-TLcM
+
+A lot of changes happened after the end of the ice age, some 11.700 years ago.
+
+People domesticated other animal, sheep, goats, pigs. Sheep didn't have long hair - people also did the selective breeding trick, then we got sheep with long hair, for making clothes.
+
+People started to grow grass with grains - like wheat and barley. They selected for the largest grain sizes - this is how the grain sizes got bigger.
+
+![](media/wheat-sizes.jpg)
+
+At some stage people started to life at the same place, in houses. You can't move around all the time, when you need to take care of your animals and your wheat...
 
