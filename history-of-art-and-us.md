@@ -821,39 +821,84 @@ She is asking an interesting question: do people think the same in all languages
 
 Still lots of changes happened, with the ice age. People started to change the environment: we learned how to get animals to live with us, that means how to domesticate animals.
 
-The first such animal was the dog - people live with dogs since 20.000 years ago, they are the first domestic animal! 
-Dogs helped people with hunting, dogs also told them if something dangerous is coming!
-Some people say that dogs domesticated us - people had to live in the same place, when they domesticated other animals and plants!
+People had their first dogs some 20.000 years ago, they are the first domestic animal! Scientist know this: they study how the genes of the animal change, and how fast this is happening.
 
-We think that both wolfs and dogs have a common great great grand daddy - the stone age wolf:
+Dogs helped people with hunting, they have a much better nose then us.
+Dogs also told them if something dangerous is coming!
+Some Indians/native Americans treat their dogs as family members! They have big dogs, they helped to carry stuff around and helped the Indians to move quickly.
+![](media/alaskan-malamute.jpg) That's an Alaskan Malamut, but that's a very big doggy.
 
+Scientists say that both wolfs and dogs have a common great great grand daddy - the stone age wolf. You see, they are similar!
 ![](media/plaestocene-wolf.jpg)
 
-We know that wolfs and humans have lots in common: both hunt in groups, we have to coordinate our action, there is a leader who tells others what to do. Now wolfs and humans came closer together: sometimes the wolf look out for hunting people, we the people are finished hunting, then the wolfs can eat what is left of the dead animals.
+At some stage this stone age wolf became used to live with humans, that's when we had the first dogs. 
+Some people say that dogs domesticated us. That's because people had to live in the same place, when they domesticated other animals and plants, like sheep and goat for example - and that caused some really big changes!
 
-Now also people do what the wolfs are doing: sometimes Indians in America where wearing wolf pelts, to get closer to groups of Bisons, 
+We know that wolfs and humans have lots in common: 
+- we both hunt in groups, 
+- we have to coordinate our action, there is a leader who tells others what to do. 
+Now wolfs and humans came closer together and have a lot of contact: sometimes the wolf look out for hunting people, when the humans are finished hunting, then the wolfs can eat what is left of the dead animals.
 
+Now also people do what the wolfs are doing, we learned from the wolfs: sometimes Indians in America where wearing wolf pelts, to get closer to groups of Bisons, 
 ![](media/indian-wolf-pelts.jpeg)
 
-Also sometimes there are outcast wolf - the group of wolfs doesn't like them, so they have to live on their own. These outcast wolfs would have a reason to come closer to people, so that they can get a bone from us. Maybe their kids were more quite and more used to life with humans.
+Also sometimes there are outcast wolf - that's when the group of wolfs doesn't like a wolf, so that he has to live on on his own. These outcast wolfs would have a reason to come closer to people, so that they can get a bone from us. Maybe the kids of the wolf were less wild, they would be used to life with humans.
 
-Some sixty years ago scientists managed to domesticate wild foxes, like dogs. It took some twenty or thirty generations, each generation you choose the foxes who are most friendly, this foxes will be the fathers and mothers of the next generation of foxes. This is called selective breeding.
+Some sixty years ago scientists managed to domesticate wild foxes. A domesticated fox wags its tail and likes to be with us, just like dogs. It took some twenty to thirty generations of foxes. At each generation they choose the foxes who are most friendly, these foxes will be the fathers and mothers of the next generation of foxes. This is called selective breeding.
 
 https://www.youtube.com/watch?v=X-EXeZXwO08
 
 Dimitry Belyaev managed to get tame foxes. https://en.wikipedia.org/wiki/Dmitry_Belyayev_(zoologist) 
-Actually he had a lot of trouble, some seventy years ago. During the government of Stalin the soviet state didn't like geneticists. The most famous geneticist Nikolai Vavilov got int  jail and died of hunger. https://en.wikipedia.org/wiki/Nikolai_Vavilov
-Belyaev didn't get into jail, but he was in some serious trouble. But thankfully they changed this policy, after the death of Stalin.
+Actually some seventy years ago he had a lot of trouble. The Soviet Union didn't like geneticists, during the government of Stalin. The most famous geneticist Nikolai Vavilov was thrown into jail and died of hunger. https://en.wikipedia.org/wiki/Nikolai_Vavilov
+Belyaev didn't get into jail, but he was in some serious trouble, because he was a geneticist. But thankfully they changed this policy, after the death of Stalin.
   
 https://www.youtube.com/watch?v=HsIibD-TLcM
 
 A lot of changes happened after the end of the ice age, some 11.700 years ago.
 
-People domesticated other animal, sheep, goats, pigs. Sheep didn't have long hair - people also did the selective breeding trick, then we got sheep with long hair, for making clothes.
+People domesticated other animal, sheep, goats, pigs. Sheep didn't have long hair - people also did the selective breeding trick, then we got sheep with long hair, we can then use the hair for making clothes.
 
-People started to grow grass with grains - like wheat and barley. They selected for the largest grain sizes - this is how the grain sizes got bigger.
+People started to grow grass with grains - like wheat and barley. They always took the biggest grains to plant for the next season - this way they selected for the largest grain sizes. This way the grain sizes got bigger.
 
 ![](media/wheat-sizes.jpg)
 
+That's not a simple thing, it took a few thousand years to get these results!
+
 At some stage people started to life at the same place, in houses. You can't move around all the time, when you need to take care of your animals and your wheat...
+
+---19/07/22 04:54:05----------------------
+
+You already heard about the very first cities, like Çatalhöyük and Jericho - that's the point where people were growing grains and were keeping animals like sheep, goats and piggies.
+
+People living in Turkey had enough rain for their fields, they don't have to add additional water - no need for irrigation (irrigation is when you add water to the fields, so that the plants can grow). But what about Jericho? It would have been warmer, and you couldn't do that?
+
+Also you can't work the field all the time: once every few years you need to give the land a rest, the land needs to gather new fresh organic matter if you don't put in fertilizer. This is called Fallow agriculture https://en.wikipedia.org/wiki/Fallow
+In the Jewish religion we have the Shmita year - https://en.wikipedia.org/wiki/Shmita every seven year the land should rest - exactly for this purpose!
+2021-2022 is such a Shmita year.
+
+Now an important thing: you can keep a lot of grains in places of storage. This gives you a big advantage: 
+ - you don't have to be hungry, even if there is one bad harvest. You still have something to eat!
+ - you don't have to move around all the time. Hunter gatherers are always moving - if they can't find their food in one place, then they move to some other place.
+ 
+https://www.jstor.org/stable/23419172
+
+Still living in cities has a lot of risks
+- people live in a small space, they didn't have to put their garbage somewhere, and they didn't have toilets. It is also a big problem to get clean water to everybody. As a result people were often sick, and there were diseases, when many people get sick, just like with Corona!
+- people have to work more hours, much more than they used to work as hunters and gatherers.
+- you can have a bad year, where there is little rain. The plants will not grow and people will stay hungry.
+- there are more risks: things can go bad, like when a war happens
+
+Now 8200 years ago the weather changed, it became drier for many years, that's called the 82k event!  https://en.wikipedia.org/wiki/8.2-kiloyear_event
+That's the point when people left the big city of Çatalhöyük, but people still lived in smaller groups - they didn't die out.
+It took about a hundred years for the climate to get better! Progress took a big break.
+
+The weather is relatively goof for a long long time, from 8200 years ago to 4200 years ago (that's when the weather gets bad again). 
+Humans will make some great progress during this time!
+
+
+
+
+
+
+
 
