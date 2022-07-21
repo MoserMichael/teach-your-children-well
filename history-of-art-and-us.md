@@ -892,7 +892,7 @@ Now 8200 years ago the weather changed, it became drier for many years, that's c
 That's the point when people left the big city of Çatalhöyük, but people still lived in smaller groups - they didn't die out.
 It took about a hundred years for the climate to get better! Progress took a big break.
 
-The weather is relatively goof for a long long time, from 8200 years ago to 4200 years ago (that's when the weather gets bad again). 
+The weather is relatively good for a long long time, from 8200 years ago to 4200 years ago (that's when the weather gets bad again). 
 Humans will make some great progress during this time!
 
 
