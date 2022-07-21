@@ -6,7 +6,11 @@ The trick is basically to keep digging.
 
 --
 
-One rational: me getting bored on "the internet" and being a bit disillusioned about all of it... (need a new motivation, sort of)
+One reason: our local schools are kind of, depressing. Also we have the summer vacations, so there is no choice: i must make an effort to keep my home front busy...
+
+--
+
+Another rational: me getting bored on "the internet" and being a bit disillusioned about all of it... (need a new motivation, sort of)
 
 I guess that social networks are turning into some kind of tool for social control, it's a new trick of those who are in charge:
 
