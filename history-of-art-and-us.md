@@ -1014,6 +1014,15 @@ One fourth of all flowers is r,r - they are again white peas! And they will rema
 Congrats, Mendel now got a model that explains what happened, that's what they call science!  
 He got an explanation, even without explaining how it works exactly - people had to work for another hundred years to get there, and that was a lot of work...
 
+
+You also have more complicated situations - other than complete domination
+![](media/other-domination-type.png)
+
+Also, you sometimes get girl cats with three colors, but boy cats can't be like this. See https://en.wikipedia.org/wiki/Calico_cat
+![](media/three-color-cat.jpg)
+
+There are lots of possibilities....
+
 --
 
 People from a long time ago had some idea of all this, you can read it in the Bible!
