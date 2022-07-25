@@ -819,6 +819,20 @@ Hunting and gathering is not that bad, people spend some twenty hours per week w
 Look at this - it's a very interesting talk by linguist Lera Broditsky https://www.youtube.com/watch?v=RKK7wGAYP6k
 She is asking an interesting question: do people think the same in all languages, or do some languages make us think differently? In other words: can a language change the way we think? Gradpa Ilja always says that he got another life, each time when he learned another language - he knows some seventeen languages!
 
+Dolev is asking a question: But they could see the moon at night, why do they feel bad when they don't see the sun?
+
+That's right! But with the sun there is something that you can know for sure: is in the morning it is in the east, and in the evening it is in the west.
+But the moon is walking around the sky in complicated ways, and it is more difficult to tell the direction by looking at the moon.
+People who life in Europe have the northern star - you can find a star that is always in the north, but the sky to the south of the equator is looking very different, i am not sure if they have such a star in Australia. 
+Also Professor Boroditsky says that the concept of time is also connected to where the sun is - at least for the Kuuk Thaayorre people.
+
+If you get lost - here is how you can find the Nothern Star.
+![](media/nothern-star.jpeg)
+
+It is the last star in the constellation of Ursa Minor (that name is in Latin, it means the 'little Bear') Or you take the constellation of 'the Plough' and then go three times the length of the distance of the outer stars. Then you know where north is (but not if you go south of the equator)
+
+--
+
 Still lots of changes happened, with the ice age. People started to change the environment: we learned how to get animals to live with us, that means how to domesticate animals.
 
 People had their first dogs some 20.000 years ago, they are the first domestic animal! Scientist know this: they study how the genes of the animal change, and how fast this is happening.
@@ -844,6 +858,16 @@ Now also people do what the wolfs are doing, we learned from the wolfs: sometime
 
 Also sometimes there are outcast wolf - that's when the group of wolfs doesn't like a wolf, so that he has to live on on his own. These outcast wolfs would have a reason to come closer to people, so that they can get a bone from us. Maybe the kids of the wolf were less wild, they would be used to life with humans.
 
+-- 
+
+Dolev is asking a question: How could dogs domesticate us, if we did that with other animals?
+
+The dogs were the first domesticated animals, and I think that people would not know how to do this.
+I think that has to do with one of the theories: that wolfs got near to people - to get what is left over, and that people got near wolfs - to learn from hunting them.  The other theory also says, that the outcast wolf got nearer to us - that means it was his initiative, kind of.
+In the end that's kind of a joke, but I am not sure. When I walk out our dog Nella, then she always knows where to go. Maybe the dogs/wolfs had a plan? Who knows, they can't talk...
+
+--
+
 Some sixty years ago scientists managed to domesticate wild foxes. A domesticated fox wags its tail and likes to be with us, just like dogs. It took some twenty to thirty generations of foxes. At each generation they choose the foxes who are most friendly, these foxes will be the fathers and mothers of the next generation of foxes. This is called selective breeding.
 
 https://www.youtube.com/watch?v=X-EXeZXwO08
@@ -853,6 +877,26 @@ Actually some seventy years ago he had a lot of trouble. The Soviet Union didn't
 Belyaev didn't get into jail, but he was in some serious trouble, because he was a geneticist. But thankfully they changed this policy, after the death of Stalin.
   
 https://www.youtube.com/watch?v=HsIibD-TLcM
+
+--
+
+Dolev is asking a question: Why would they select breed the foxes, if they are not sure about genetics?
+
+That's complicated. In the Soviet Union there were were different levels of allowed disagreement, at different times.
+- if you say that are against communism then you are in very deep trouble 
+- if you are a member of the communist party, then they had discussions on what to do, but only until 1929.
+- if you were a scientists, then you could disagree with other scientists, mostly.
+
+But then things got worse: in the nineteen thirties stalin became very paranoid, he feared that a different politician would replace him. And that's why he started the great terror waves of 1936-1939. That's when your great granddads got killed. Your great granddads thought that communism is a good idea, and moved to the soviet union, but that was a big mistake.
+
+Now about genetics: at some time Genetics was allowed and welcomed - it promised to give you better sorts of grain. But then came a guy called Lysenko.
+Lysenko said that you can change plants by changing their environment - by educating the plants, he said that he can get better sorts of grain - faster.
+That is of course rubbish, but he managed to convince the communist party bosses that this is the right way.
+
+All the geneticists were in deep trouble from this point, until the death of stalin. 
+https://en.wikipedia.org/wiki/Lysenkoism
+
+--
 
 A lot of changes happened after the end of the ice age, some 11.700 years ago.
 
@@ -866,19 +910,126 @@ That's not a simple thing, it took a few thousand years to get these results!
 
 At some stage people started to life at the same place, in houses. You can't move around all the time, when you need to take care of your animals and your wheat...
 
+Dolev is asking: but is that a good thing? Is it of benefit?
+
+Is has some good points, and some bad points.
+
+- the bad point: you have much less freedom. You need to work in big societies, they tell you  what to do (mostly). Big groups of people get sick and infect one another. You also need to get clean water and get rid of the waste - people didn't know how to do this for a very long time.
+
+- the good point: You can store grain for a long time. Remember the dreams of Joseph and the Pharao in the Bible? Pharaoh had a dream of seven good years, and then seven bad years with bad harvests would come to Egypt. Jospeh explained this dream. He told Pharaoh to build cities to store the grain surplus from the good years. That means a big deal: if you are a hunting/gathering then you need to move often, when you run out of food.  Also some Indian tribes in America even used to eat their poor dogs, when they couldn't find anything to eat. You have fewer of these problems with agriculture.
+
+- what about wars? Scientist in Australia watched how hunter gatherers make war. They make a lot of noise, they swear a lot, throw a few stones, and then they go away. It looks they are more peaceful, no way!
+
+Archaeologists find a lot of buried bones of the dead ones with very bad injuries, you get these injuries/wounds at times of wars.
+The problem is that they make war all the time - there is a good chance that you will die in any one of these small wars.
+Civilized people have fewer wars, but the fighting gets much worse - they fight for longer periods of time, they have better weapons, they have larger armies.
+A more advanced civilization can get a bigger army, and has better weapons. On the other hand: you also have be more afraid to start a war, it is a very dangerous business.
+
+They call that a 'trade off', you have two choices - each choice has its good sides and its bad sides.
+You need to decide which choice is the better one. 
+Apparently people choose the way that could feed their kids, some scientists say that population pressure had a big role in the way that cities were formed.
+
+In technology you have lots of trade offs - engineering is the art of making the best out of available trade off.
+
+
 ---19/07/22 04:54:05----------------------
 
 You already heard about the very first cities, like Çatalhöyük and Jericho - that's the point where people were growing grains and were keeping animals like sheep, goats and piggies.
 
-People living in Turkey had enough rain for their fields, they don't have to add additional water - no need for irrigation (irrigation is when you add water to the fields, so that the plants can grow). But what about Jericho? It would have been warmer, and you couldn't do that?
+People in Turkey had enough rain for their fields, they don't have to add additional water - no need for irrigation (irrigation is when you add water to the fields, so that the plants can grow). But what about Jericho? It would have been warmer, and you couldn't do that?
 
 Also you can't work the field all the time: once every few years you need to give the land a rest, the land needs to gather new fresh organic matter if you don't put in fertilizer. This is called Fallow agriculture https://en.wikipedia.org/wiki/Fallow
 In the Jewish religion we have the Shmita year - https://en.wikipedia.org/wiki/Shmita every seven year the land should rest - exactly for this purpose!
 2021-2022 is such a Shmita year.
 
-Now an important thing: you can keep a lot of grains in places of storage. This gives you a big advantage: 
+Another important thing: how did people get plants big grain sizes and animals, such as sheep with long hair?
+
+Gregor Mendel lived some hundred and fifty years ago, and he did some important experiment with pea plants, (here is a nice youtube video https://www.youtube.com/watch?v=3f_eisNPpnc )
+
+Mendel wanted to know something: sometimes traits in a family disappear in a generation, then they come back in the next generation. How is that possible?
+
+Mendel did thousands of experiments with pea plants. Pea plants grow fast, and have lots of traits, such as:
+
+The color and shape of the pea's pod
+    ![](media/pea-trait-pod.png) 
+
+The color and shape of the seed
+![](media/pea-trait-seed.png)
+
+The color of the flower
+![](media/pea-trait-flower.png)
+
+Now lets look at the flowers, first he selected for the same color, he got two kind of peas, 
+One kind of peas always gives you a purple color flower, when they mate with other plants of their group. They have a gene that tells the flower to be purple, lets calls the group R,R
+The other kind of peas always gives  you a white color flower, when they mate with other plants of their group, They have a gene that tells the flower to be white, lets call the group r,r
+
+This is called true breeding.
+
+![](media/true-breeding-peas.png)
+
+Now lets the peas with the blue color flower with the peas of the white color flower - this is called hybridization
+
+![](media/hybrid-first-gen.png)
+
+Now the first generation all has purple flower plants, that's because they get a mixed gene - one from each parent that looks like this:
+
+R,r or r,R - each one has the capital letter R that tells the flower to be purple (The first letter is the gene that it got from mummy plant, the second letter is the gene that they got from daddy plant)
+The expression of the R gene for the purple color is called the dominant gene - it is stronger, and that's why you use the capital letter R. The expression of the r gene (the one that stands for the white flower) is the weaker one, the recessive gene - if you have both the dominant and the recessive gene, then the recessive gene remains silent.
+
+Now lets only breed plants from this generation, and you get something interesting.
+
+![](media/hybrid-second-gen.png)
+
+One fourth of the flowers are white again!, that's because when you mix them:
+
+```
+        R,r    r,r   (this axis is the daddy flower)
+      -------------
+R,r  |  R,R    R,r
+     |
+r,R  |  r,R    r,r 
+
+M
+u
+m
+m
+y
+
+f
+l
+o
+w
+e
+r
+
+a
+x
+i
+s
+_
+```
+
+
+One fourth of all flowers is r,r - they are again purple bread white peas!
+
+
+--
+
+People from a long time ago had some idea of all this, you can read it in the Bible!
+
+Jacob was the son of Isaac, our forefather. He worked fourteen years to marry Rachel and Leah. Then they had a problem: Jacob didn't have any sheep or goats of his own, and his family didn't have much to eat, and  they had lots of kids to feed.
+He couldn't go his own way, he would have to work for his stepfather Lavan forever.
+Now Lavan liked to pull tricks on Jacob, he told him: here are these goats and sheep - they are all have the dominant gene that makes them of a single color. But you can have all the goats and sheep with the spots.
+Now Jacob worked a lot of years caring of the animals, and he probably knew something about Mendel's laws. In the end he got a big flock of spotted goats and sheep.
+That's the way we have a Jewish people, because we wouldn't have one if Jacob would not have anything to eat...
+You see: a long long time ago these were very important things to a lot of people! People cared about this stuff!
+
+--
+
+Another important thing: you can keep a lot of grains in places of storage. This gives you a big advantage: 
  - you don't have to be hungry, even if there is one bad harvest. You still have something to eat!
  - you don't have to move around all the time. Hunter gatherers are always moving - if they can't find their food in one place, then they move to some other place.
+
  
 https://www.jstor.org/stable/23419172
 
@@ -892,9 +1043,61 @@ Now 8200 years ago the weather changed, it became drier for many years, that's c
 That's the point when people left the big city of Çatalhöyük, but people still lived in smaller groups - they didn't die out.
 It took about a hundred years for the climate to get better! Progress took a big break.
 
-The weather is relatively good for a long long time, from 8200 years ago to 4200 years ago (that's when the weather gets bad again). 
+The weather is relatively good for a long long time, from 8200 years ago to 6200 years ago (that's when the weather gets bad again). 
 Humans will make some great progress during this time!
 
+By the way: once every 1500-2000 years there is a big change in the weather, it is getting cold for a few years, or even up to a hundred years, and civilization had a hard time.
+
+See this table from wikipedia
+
+https://en.wikipedia.org/wiki/Bond_event#List
+
+No |Time | Time G(AD, BC) |Gap from previous event|Notes
+
+0	≈ −0.5 ka	≈ 1500 AD	900 years	See Little Ice Age[12] (The Mongolian empire dies, lots of antisemitism in Europe - they are blaming it on the Jews, Nasty witch hunts)
+1	≈ −1.4 ka	≈ 600 AD	1400 years	See Migration Period[12] and Late Antique Little Ice Age (the Western roman empire has a hard time and dies)
+2	≈ −2.8 ka	≈ 800 BC	1400 years	See Iron Age Cold Epoch
+3	≈ −4.2 ka	≈ 2200 BC	1700 years	See 4.2-kiloyear event; collapse of the Akkadian Empire and the end of the Egyptian Old Kingdom.[13][14]
+4	≈ −5.9 ka	≈ 3900 BC	2300 years	Sahara desert reforms by 3500–3000 BC, ending Neolithic Subpluvial. Early Bronze Age begins ~3300 BC.
+5	≈ −8.2 ka	≈ 6200 BC	1200 years	See 8.2-kiloyear event
+6	≈ −9.4 ka	≈ 7400 BC	1100 years	Erdalen event of glacier activity in Norway,[15] as well as a cold event in China.[16]
+7	≈ −10.3 ka	≈ 8300 BC	800 years	
+8	≈ −11.1 ka	≈ 9100 BC	---	Transition from the Younger Dryas to the Boreal.[17]
+
+-----
+
+Next comes the Ubaid period, now people start to do something new in Mesopotamia (that is Greek and means the land between the rivers; Meso - in the middle; Potamoi - river in Greek) Now we see a very complicated culture!
+
+- The fields don't get enough rain, so you need to bring the water from the river. It starts to get complicated - they need to build canals and dams. Now tat's a lot of work, many people need to dig these canals. Also you have to repair them a lot - that's also a lot of work. 
+
+- People start to live in bigger cities, with several thousand people, cities like Eridu and early Uruk. Now these cities didn't have walls around them. That means they didn't have to defend themselves, and they also didn't have to keep people from running away. I think that is very important (will tell later).
+
+- You see the first big temples in the city of Eridu: 
+![](media/Eridu_temple_7.png)
+
+You have buildings for storing grain - granaries. These are often stored near temples. Even at Çatalhöyük they had special rooms for storing grain, they also found strange figures of animals - it is possible that this is a sign of a temple and that it all started with temples. 
+
+At some stage people find seals - a seal is a form, and you can press it into clay so as to leave an impression.
+
+![](media/ubaid-seals.png)
+
+Later you get cylinder seal impressions like this one:
+
+![](media/cylinder-seal-impression.png)
+
+How do you make an impression like this? You take a cylinder made out of stone or metal and roll it over the clay. Here is a seal from much later - but it's the same idea.
+
+![](media/cylinder-seal-form.jpeg)
+
+Seals are used by important people who have something to say. A seal imprint tell us "this item is now under under my responsibility and that's me, look at the picture!", it is like a signature under a document!
+
+- they also have forms of proto-writing, 
+
+- Someone has to organize all the people, tell them what to do, and make them do the work. People are no longer equal, you get someone who has to say what to do, these people are also richer, they have bigger houses and more stuff can be found in these houses.
+
+- you need better tools for working the land, someone has to build ploughs, sickles, pots for storing grain. People start to specialize - do only one thing.
+
+- trade 
 
 
 
