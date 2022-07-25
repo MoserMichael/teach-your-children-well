@@ -951,12 +951,15 @@ Mendel wanted to know something: sometimes traits in a family disappear in a gen
 Mendel did thousands of experiments with pea plants. Pea plants grow fast, and have lots of traits, such as:
 
 The color and shape of the pea's pod
-    ![](media/pea-trait-pod.png) 
+
+![](media/pea-trait-pod.png) 
 
 The color and shape of the seed
+
 ![](media/pea-trait-seed.png)
 
 The color of the flower
+
 ![](media/pea-trait-flower.png)
 
 Now lets look at the flowers, first he selected for the same color, he got two kind of peas, 
@@ -983,7 +986,7 @@ Now lets only breed plants from this generation, and you get something interesti
 One fourth of the flowers are white again!, that's because when you mix them:
 
 ```
-        R,r    r,R   (this axis is the daddy flower)
+        R,r    r,R   (this axis is the daddy plant)
       -------------
 R,r  |  R,R    R,r
      |
@@ -995,23 +998,21 @@ m
 m
 y
 
-f
+p
 l
-o
-w
-e
-r
+a
+n
+t
 
 a
 x
 i
 s
-_
 ```
 
-
 One fourth of all flowers is r,r - they are again white peas! And they will remain so, if you interbreed only within these white ones!
-
+Congrats, Mendel now got a model that explains what happened, that's what they call science!  
+He got an explanation, even without explaining how it works exactly - people had to work for another hundred years to get there, and that was a lot of work...
 
 --
 
