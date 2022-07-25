@@ -983,7 +983,7 @@ Now lets only breed plants from this generation, and you get something interesti
 One fourth of the flowers are white again!, that's because when you mix them:
 
 ```
-        R,r    r,r   (this axis is the daddy flower)
+        R,r    r,R   (this axis is the daddy flower)
       -------------
 R,r  |  R,R    R,r
      |
@@ -1010,7 +1010,7 @@ _
 ```
 
 
-One fourth of all flowers is r,r - they are again purple bread white peas!
+One fourth of all flowers is r,r - they are again white peas! And they will remain so, if you interbreed only within these white ones!
 
 
 --
