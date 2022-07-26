@@ -1031,7 +1031,7 @@ Jacob was the son of Isaac, our forefather. He worked fourteen years to marry Ra
 He couldn't go his own way, he would have to work for his stepfather Lavan forever.
 Now Lavan liked to pull tricks on Jacob, he told him: "here are these goats and sheep - they are all have the dominant gene that makes them of a single color. But you can have all the goats and sheep with the spots, that's the recessive gene"
 He didn't use these word, but that was the message.
-Now Jacob worked a lot of years caring of the animals, and he probably knew something about Mendel's laws. In the end he got a big group of spotted goats and sheep.
+Now Jacob worked a lot of years caring for the animals, and he probably knew something about Mendel's laws. In the end he got a big group of spotted goats and sheep.
 That's the way we have a Jewish people, because we wouldn't have one if Jacob would not have found anything to eat...
 You see: a long long time ago these were very important things to a lot of people! People cared about this stuff!
 
