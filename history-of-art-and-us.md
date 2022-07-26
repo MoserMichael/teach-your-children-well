@@ -1110,7 +1110,7 @@ How do you make an impression like this? You take a cylinder made out of stone o
 
 ![](media/cylinder-seal-form.jpeg)
 
-Seals are used by important people who have something to say. A seal imprint tell us "this item is now under under my responsibility and that's me, look at the picture!", it is like a signature under a document!
+Seals are used by important people who have something to say. A seal imprint tell us "this item is now under under my responsibility and that's me, look at the picture!", it is like writing a name under a document, a signature!
 
 - seals and tokens are combined: you take a few tokens, put them into a small pot, or clay ball - the clay ball contains a message. Then you sign the clay ball with your seal - the seal tells you that the message is real, and that it has not been faked!
 
@@ -1122,8 +1122,8 @@ Seals are used by important people who have something to say. A seal imprint tel
 
 South Mesopotamia is good at making agricultural stuff: they make grain, pots, clothes 
 
-North Mesopotamia is good at making metals: they make copper and tools out of copper. You need to heat that stuff to 1200C, that's very very hot!
-The town of Değirmentepe was doing mining, so that they have something to trade. That's specialization - you need to bring in food from other places!
+North Mesopotamia is good at making metals: they make copper and tools out of copper. Copper is the first metal used by people, it is a bit soft and melts at lower temperatures - it is easier to work with copper. But you still need to heat that stuff to 1100C, that's very very hot!
+The nothern town of Değirmentepe was mining copper, so that they have something to trade. That's specialization - you need to bring in food from other places!
 
 - some people have more to say than others. You see that some houses are bigger than others - the rich guys live here. Still there is not a big difference between the rich and the poor. Still they don't find any exotic materials or goods that are created only for the very rich. Also they didn't see a big difference in the graves for dead - no big difference in the gifts that they put in a grave. 
 
