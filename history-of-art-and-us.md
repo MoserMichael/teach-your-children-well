@@ -1140,6 +1140,7 @@ For example they found lots of bowls of the same time and shape - at the mining 
 You see that things are getting complicated - there are many systems that need to work together for all this to work! But then it all stops when the weather turns bad with the 5.9k event. But we will see a continuation in few hundred years, with the Sumerian civilization.
 
 Now they still didn't invent writing, so that scientists have to guess about a lot of details. 
+
 Here is a song by Randy Newman - he is the artist who wrote and sang all the songs in the "Toy Story" movies. He wrote:
 
 ```
@@ -1150,17 +1151,5 @@ Some lines written in a book
 But you won't find a live one no matter where you look
 ```
 
-The song is written about the Indians in America, but the text is also about other cultures. See  https://www.youtube.com/watch?v=q3hMA76mBGE
-
-
-
-
-
-
-
-
-
-
-
-
+The song is written about the Indians in America, but the text is also about other cultures, in some ways. See  https://www.youtube.com/watch?v=q3hMA76mBGE
 
