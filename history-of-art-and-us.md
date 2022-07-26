@@ -934,11 +934,11 @@ In technology you have lots of trade offs - engineering is the art of making the
 
 ---19/07/22 04:54:05----------------------
 
-You already heard about the very first cities, like Çatalhöyük and Jericho - that's the point where people were growing grains and were keeping animals like sheep, goats and piggies.
+We learned about very first cities, like Çatalhöyük - that's the point where people started to grow grains and when they were keeping animals like sheep, goats and piggies.
 
-People in Turkey had enough rain for their fields, they don't have to add additional water - no need for irrigation (irrigation is when you add water to the fields, so that the plants can grow). But what about Jericho? It would have been warmer, and you couldn't do that?
-
-Also you can't work the field all the time: once every few years you need to give the land a rest, the land needs to gather new fresh organic matter if you don't put in fertilizer. This is called Fallow agriculture https://en.wikipedia.org/wiki/Fallow
+People in Turkey had enough rain for their fields, they don't have to add additional water - no need for irrigation (irrigation is when you add water to the fields, so that the plants can grow - that's a lot of work). 
+No you can't work the field all the time: once every few years you need to give the land a rest, the land needs to gather new fresh organic matter. 
+All this is called Fallow agriculture https://en.wikipedia.org/wiki/Fallow
 In the Jewish religion we have the Shmita year - https://en.wikipedia.org/wiki/Shmita every seven year the land should rest - exactly for this purpose!
 2021-2022 is such a Shmita year.
 
@@ -946,7 +946,7 @@ Another important thing: how did people get plants big grain sizes and animals, 
 
 Gregor Mendel lived some hundred and fifty years ago, and he did some important experiment with pea plants, (here is a nice youtube video https://www.youtube.com/watch?v=3f_eisNPpnc )
 
-Mendel wanted to know something: sometimes traits in a family disappear in a generation, then they come back in the next generation. How is that possible?
+Mendel also wanted to know something: sometimes traits in a family disappear for a generation, then they come back in the next generation. How is that possible?
 
 Mendel did thousands of experiments with pea plants. Pea plants grow fast, and have lots of traits, such as:
 
@@ -970,7 +970,7 @@ This is called true breeding.
 
 ![](media/true-breeding-peas.png)
 
-Now lets the peas with the blue color flower with the peas of the white color flower - this is called hybridization
+Now lets breed the peas with the blue color flower with the peas of the white color flower - this is called hybridization
 
 ![](media/hybrid-first-gen.png)
 
@@ -1027,11 +1027,12 @@ There are lots of possibilities....
 
 People from a long time ago had some idea of all this, you can read it in the Bible!
 
-Jacob was the son of Isaac, our forefather. He worked fourteen years to marry Rachel and Leah. Then they had a problem: Jacob didn't have any sheep or goats of his own, and his family didn't have much to eat, and  they had lots of kids to feed.
+Jacob was the son of Isaac, our forefather. He worked fourteen years to marry Rachel and Leah. Then they had a problem: Jacob didn't have any sheep or goats of his own, and his big family didn't have much to eat!
 He couldn't go his own way, he would have to work for his stepfather Lavan forever.
-Now Lavan liked to pull tricks on Jacob, he told him: here are these goats and sheep - they are all have the dominant gene that makes them of a single color. But you can have all the goats and sheep with the spots.
-Now Jacob worked a lot of years caring of the animals, and he probably knew something about Mendel's laws. In the end he got a big flock of spotted goats and sheep.
-That's the way we have a Jewish people, because we wouldn't have one if Jacob would not have anything to eat...
+Now Lavan liked to pull tricks on Jacob, he told him: "here are these goats and sheep - they are all have the dominant gene that makes them of a single color. But you can have all the goats and sheep with the spots, that's the recessive gene"
+He didn't use these word, but that was the message.
+Now Jacob worked a lot of years caring of the animals, and he probably knew something about Mendel's laws. In the end he got a big group of spotted goats and sheep.
+That's the way we have a Jewish people, because we wouldn't have one if Jacob would not have found anything to eat...
 You see: a long long time ago these were very important things to a lot of people! People cared about this stuff!
 
 --
@@ -1039,9 +1040,6 @@ You see: a long long time ago these were very important things to a lot of peopl
 Another important thing: you can keep a lot of grains in places of storage. This gives you a big advantage: 
  - you don't have to be hungry, even if there is one bad harvest. You still have something to eat!
  - you don't have to move around all the time. Hunter gatherers are always moving - if they can't find their food in one place, then they move to some other place.
-
- 
-https://www.jstor.org/stable/23419172
 
 Still living in cities has a lot of risks
 - people live in a small space, they didn't have to put their garbage somewhere, and they didn't have toilets. It is also a big problem to get clean water to everybody. As a result people were often sick, and there were diseases, when many people get sick, just like with Corona!
@@ -1076,21 +1074,32 @@ No |Time | Time G(AD, BC) |Gap from previous event|Notes
 8	≈ −11.1 ka	≈ 9100 BC	---	Transition from the Younger Dryas to the Boreal.[17]
 ```
 
------
-
-Next comes the Ubaid period, now people start to do something new in Mesopotamia (that is Greek and means the land between the rivers; Meso - in the middle; Potamoi - river in Greek) Now we see a very complicated culture!
+Next comes the Ubaid period (some 8500 to 5800 years ago), now people start to do something new in Mesopotamia (that is Greek and means the land between the rivers; Meso - in the middle; Potamoi - river in Greek) Now we see a very complicated culture!
 
 - The fields don't get enough rain, so you need to bring the water from the river. It starts to get complicated - they need to build canals and dams. Now tat's a lot of work, many people need to dig these canals. Also you have to repair them a lot - that's also a lot of work. 
 
-- People start to live in bigger cities, with several thousand people, cities like Eridu and early Uruk. Now these cities didn't have walls around them. That means they didn't have to defend themselves, and they also didn't have to keep people from running away. I think that is very important (will tell later).
+- Someone has to organize people for all this work. Some people say it all started with the temples.
 
-- You see the first big temples in the city of Eridu: 
+You see the first big temples built in the city of Eridu: 
 ![](media/Eridu_temple_7.png)
 
-You have buildings for storing grain - granaries. These are often stored near temples. Even at Çatalhöyük they had special rooms for storing grain, they also found strange figures of animals - it is possible that this is a sign of a temple and that it all started with temples. 
+- You have buildings for storing grain - granaries. These are often stored near temples. Even at Çatalhöyük they had special rooms for storing grain, they also found strange figures of animals - it is possible that this is a sign of a temple and that it all started with temples. 
 
-At some stage people find seals - a seal is a form, and you can press it into clay so as to leave an impression.
+- They now need to count things, these are tokens made of clay. 
+Each clay token is several centimeters big, and the number of scratches mean a number. 
 
+![](media/clay-tokens.jpeg)
+
+A temple has to count the number of things that it gets/stores. A trader is a man who travels to far a way places, he brings stuff from far away and needs to exchange that for something of value, so that he has something to bring back. A trader needs to count the number of things that he receives.
+
+The form of the token may tell us what is counted
+ - flat disk mean measures of grain
+ - egg shaped tokens mean jars with oil
+ - cylinder tokens mean a number of sheep
+
+That's the first way to write things down, before they invented writing! They call it proto-writing system (a system used before writing)
+
+- At some stage people find seals - a seal is a form, and you can press it into clay so as to leave an impression.
 ![](media/ubaid-seals.png)
 
 Later you get cylinder seal impressions like this one:
@@ -1103,13 +1112,51 @@ How do you make an impression like this? You take a cylinder made out of stone o
 
 Seals are used by important people who have something to say. A seal imprint tell us "this item is now under under my responsibility and that's me, look at the picture!", it is like a signature under a document!
 
-- they also have forms of proto-writing, 
+- seals and tokens are combined: you take a few tokens, put them into a small pot, or clay ball - the clay ball contains a message. Then you sign the clay ball with your seal - the seal tells you that the message is real, and that it has not been faked!
 
-- Someone has to organize all the people, tell them what to do, and make them do the work. People are no longer equal, you get someone who has to say what to do, these people are also richer, they have bigger houses and more stuff can be found in these houses.
+- People start to live in bigger cities, with several thousand people, cities like Eridu and early Uruk. Now these cities didn't have walls around them. That means they didn't have to defend themselves, and they also didn't have to keep people from running away. I think that is very important (will tell later).
 
 - you need better tools for working the land, someone has to build ploughs, sickles, pots for storing grain. People start to specialize - do only one thing.
 
-- trade 
+- trade: you start to bring stuff from far away places, also some places specialize at doing the stuff that they are good at!
+
+South Mesopotamia is good at making agricultural stuff: they make grain, pots, clothes 
+
+North Mesopotamia is good at making metals: they make copper and tools out of copper. You need to heat that stuff to 1200C, that's very very hot!
+The town of Değirmentepe was doing mining, so that they have something to trade. That's specialization - you need to bring in food from other places!
+
+- some people have more to say than others. You see that some houses are bigger than others - the rich guys live here. Still there is not a big difference between the rich and the poor. Still they don't find any exotic materials or goods that are created only for the very rich. Also they didn't see a big difference in the graves for dead - no big difference in the gifts that they put in a grave. 
+
+- Pottery: this time we got pottery around! You need pots and jars to store things in, and to move them from place to place. 
+
+![](media/ubaid-vase.jpg)
+
+They also invent the potters wheel, at some stage there are mass produced pots and bowls. That means they already had factories, where each one was doing just a small part in making the product - that's how many people work together. They can make a lot of pottery this way. An interesting thing: these mass produced items don't have any decoration.
+
+For example they found lots of bowls of the same time and shape - at the mining city of Değirmentepe. That may be a way to give the same amount of food to each of the workers who worked at the mine.
+
+(found lots of information here: https://belleten.gov.tr/tam-metin/61/eng https://www.thoughtco.com/clay-tokens-mesopotamian-writing-171673 )
+ 
+You see that things are getting complicated - there are many systems that need to work together for all this to work! But then it all stops when the weather turns bad with the 5.9k event. But we will see a continuation in few hundred years, with the Sumerian civilization.
+
+Now they still didn't invent writing, so that scientists have to guess about a lot of details. 
+Here is a song by Randy Newman - he is the artist who wrote and sang all the songs in the "Toy Story" movies. He wrote:
+
+```
+Now they're gone, they're gone, they're really gone
+You've never seen anyone so gone
+They're a picture in a museum
+Some lines written in a book
+But you won't find a live one no matter where you look
+```
+
+The song is written about the Indians in America, but the text is also about other cultures. See  https://www.youtube.com/watch?v=q3hMA76mBGE
+
+
+
+
+
+
 
 
 

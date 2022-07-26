@@ -8,6 +8,8 @@ The trick is basically to keep digging.
 
 One reason: our local schools are kind of, depressing. Also we have the summer vacations, so there is no choice: i must make an effort to keep my home front busy...
 
+One thing that is especially depressing: teachers seem to be upset by questions. That means many of them are not quite pushing kids to inquire about things. 
+
 --
 
 Another rational: me getting bored on "the internet" and being a bit disillusioned about all of it... (need a new motivation, sort of)
@@ -25,7 +27,7 @@ It's a change of focus in the tools used for brainwashing. I think that I should
 
 One solution for this is ... to keep digging.
 
-(that's one of my objectives: to teach my growing kids, that it is easy to write up something of interest, after you search a little bit on the internet, which is of course a fricking big internet...)
+(that's one of my objectives: to teach my growing kids, that it is easy to write up something of interest, after you search a little bit on the enormously big internet)
 
 --
 
