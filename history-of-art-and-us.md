@@ -1111,10 +1111,11 @@ How do you make an impression like this? You take a cylinder made out of stone o
 ![](media/cylinder-seal-form.jpeg)
 
 Seals are used by important people who have something to say. A seal imprint tell us "this item is now under under my responsibility and that's me, look at the picture!", it is like writing a name under a document, a signature!
+It's a big deal: it means that the Ubaid culture/civilization had a lot more social differences then previous civilization at Çatalhöyük.
 
 - seals and tokens are combined: you take a few tokens, put them into a small pot, or clay ball - the clay ball contains a message. Then you sign the clay ball with your seal - the seal tells you that the message is real, and that it has not been faked!
 
-- People start to live in bigger cities, with several thousand people, cities like Eridu and early Uruk. Now these cities didn't have walls around them. That means they didn't have to defend themselves, and they also didn't have to keep people from running away. I think that is very important (will tell later).
+- People start to live in bigger cities, with several thousand people, cities like Eridu and early Uruk. Now these cities didn't have big walls around them. That means they didn't have to defend themselves. I think that is very important (will tell later).
 
 - you need better tools for working the land, someone has to build ploughs, sickles, pots for storing grain. People start to specialize - do only one thing.
 
@@ -1141,6 +1142,20 @@ You see that things are getting complicated - there are many systems that need t
 
 Now they still didn't invent writing, so that scientists have to guess about a lot of details. 
 
+An interesting thing: they cities of this period were continuously populated for some 1200 years. The archiologists didn't find signs of wars - in other places they often find layers when the cities was destroyed and later rebuild, but they don't find this here! Is it possible that the cities of this period did not fight wars against one another? Lots of open questions remain.
+
+Also they didn't find city walls, a city wall has two functions; one is to keep the enemy out of the city, it is for defence.
+The other role is to keep your own people from running away.
+
+There is a theory of Hydraulic civilizations - these are complex cultures that need a complicated system of canals.
+The canals must bring all the water for agriculture. The theory says, that these cultures are very centralized, they all have a king who can tell everyone what to do.
+They need this in order to get the workers needed for building these canals, it's a lot of work to build and keep them!
+Everyone has to do what the king says, otherwise he will not get water for his field, no questions asked. The theory says that these cultures are always despotic - they have a central ruler who can do whatever he wants. The king often counts as a god or is a relative of one. Now i read a few articles, but it does not seem to be the case here.
+
+In any case, we know much more about the next culture, the Sumerians. That's because the Sumerians learned how to write!
+
+---
+
 Here is a song by Randy Newman - he is the artist who wrote and sang all the songs in the "Toy Story" movies. He wrote:
 
 ```
@@ -1151,5 +1166,5 @@ Some lines written in a book
 But you won't find a live one no matter where you look
 ```
 
-The song is written about the Indians in America, but the text is also about other cultures, in some ways. See  https://www.youtube.com/watch?v=q3hMA76mBGE
+The song is written about the Indians in America. I think that the song is also about other cultures, who didn't know how to write (or who did know that, just that we can't read what they wrote). Here is the song: "The great nations of europe" :: https://www.youtube.com/watch?v=q3hMA76mBGE
 
