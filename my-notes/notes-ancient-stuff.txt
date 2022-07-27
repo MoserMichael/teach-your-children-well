@@ -349,7 +349,7 @@ http://www.columbia.edu/itc/anthropology/v3922/pdfs/stein_gil.pdf
 
 Economy Ritual and power in Ubaid Mesopotamia by Gil Stein
 
-is it a chiefdom? 
+Is it a chiefdom? 
     currently chiefdoms are defined as "complex societies in which chiefs mobilize food surpluses from commoners, but give little in return"
     the chief still can give out ranks, give prestige good, etc - to reward the elites.
     However a chiefdom is supposed to be 'less complex than a state'
@@ -357,11 +357,21 @@ is it a chiefdom?
 Researchers don't like the term 'chiefdom' - they don't find a lot of social stratification/wealth differences! Also little signs of warrior classes/no wars? Chiefdoms in other places have all that!
 
 Author says that 'connection between economic organization and ritual elaboration' can explain this!
-    - you can derive power from irrigation i  different ways
+    - you can derive power from irrigation in different ways
         - by providing access to water (says not the case here)
+          You can make a difference by assigning a god plot of land to your friends (additional source of social differentiation)
         - control over system's input: (land, labor needed to maintain the canals)
             - one way to mobilize work is through large family (says the more important clans were large families - you often have that in other societies)
             - or manipulation of temple: says a lot of labor was through the temple, as a form of religious duty! The chief can mobilize that too - and direct it's use.
+                Example from modern south Iraq:  Shaykh sponsor the Mudif (religious authority). Shaykh de-facto controls a plot of land allocated to the Mudif; Shaykh gives a small part to the Mudif, and keeps the difference. Shaykh can also mobilize community to work on this plot of land!
+                Such schemas supposed a community unified by shared religion/common values and norms. 
+                Ubaid period seems to be that: 
+                    - they found large community cemeteries - a sign of a shared identity.
+                    - large Temple buildings attest to it.
+                The towns of Ur Eridu also have larger upstream field areas (upstream means it is easy to transport grain by boat - they find clay sickles - a tool from the Ubaid period)
+                Also settlement structure (large town surrounded by smaller settlement) also supports centralized grain storage
+                Also temple grain store would help with food security - that would provide a common ideology (this helps with mobilizing a workforce)a
+                Also north communities seem to replace Halaf culture gradually, without sign of violence. Would be a possible ideological based takeover.
 
 
 
@@ -426,6 +436,14 @@ https://historyofinformation.com/detail.php?entryid=2811
 
 The Behistun Inscription, the "Rosetta Stone" of Cuneiform Script
 
+
+
+-------
+https://www.youtube.com/watch?v=WZskjLq040I
+
+Tom Scott vs Irving Finkel: The Royal Game of Ur | PLAYTHROUGH | International Tabletop Day 2017
+
+Fascinating...
 
 -------
 Relevant songs (but i am not sure if they are very educational...)

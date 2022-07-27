@@ -749,10 +749,12 @@ This is how pottery is made, wikipedia tells us a lot about pottery in ancient E
       You can then find the clay, when the water gets back into the river.
       Nile clay was used for simple stuff that simple people bought for themselves.
       Firing will turn this clay into a dark red or brown pot - here is a pot made out of nile clay
+
         ![](media/nile-clay.jpg)
 
     - you can dig up the clay from the earth, this is Marl clay - you have to carry the clay for some distance, it was used for very expensive pots,
       Firing will turn this clay into a white or cream colored pot, here is a pot made out of marl clay
+
         ![](media/marl-clay-vessel.jpg)
 
 - Next step: you need to prepare the clay, you can do this in two ways:
@@ -761,23 +763,36 @@ This is how pottery is made, wikipedia tells us a lot about pottery in ancient E
 
     later you need to add some stuff, to make it easier to form the clay. This is called stuff is called temper - it can be made out of bones, out of coal, out of sandstone 
     now comes an important part: you need to remove all the air bubbles from that block before using the clay. You can get an explosion without this step - the air bubbles will grow when heated, so that your pot will explode in the fire! You have to be very careful, also this step takes a lot of time, knead the clay again and again.
+
         ![](media/kneading-clay.jpg)
 
 - next you need to form the pot from the wet clay, again lots of possibilities.
     - Form it by hand. If you make a pot on your own then you will most likely use this method.
-        ![](media/hand-shaping-clay.png) - even today you have people who work like this. This picture is not from long ago, this is near the Amazon river in south America.
+
+        ![](media/hand-shaping-clay.png) 
+
+        even today you have people who work like this. This picture is not from long ago, this is near the Amazon river in south America.
+
     - use a rotating base, like this one, this is a very early method, it was even used before the time of the pharaos, some six thousand years ago!  
+
         ![](media/rotating-base-shaping-clay.jpg)
+
     - or you can use a slow potter wheel. You need one hand to turn the wheel, and you have to use your other hand to form the clay.
+
         ![](media/slow-wheel-shaping-clay.jpg)
+
         This is an important tool, you can use that in a small factory. In a factory each person does only a single small part of the process, one person is preparing the clay, the other is forming and so on. You can make many many pots this way, when many people are working togather like this, this is called mass production. They had it since the Old Kingdom of Egypt - some 4600 years ago, when the pyramids where built! 
+
     - use a fast potter wheel, you can turn it with your feet and you both hands to form the clay, they had this sine the new kingdom of Egypt - some 3500 years ago, it took a thousand years to come up with this invention.
+
         ![](media/fast-potter-wheel2.png)    
 
 - Next stage: the clay is still wet, it has lots of water in it. You can now decorate the pot, scratch something into the clay,
+
         ![](media/decorated-pot.jpg)
 
   Now is the time when you can also polish the pot and put on stuff to make it shine   
+
         ![](media/polished-pot.jpg)
 
   Another detail: the base of the pot is being finished - the base is a tricky part, it needs a lot of work - even at this stage.
@@ -788,7 +803,9 @@ This is how pottery is made, wikipedia tells us a lot about pottery in ancient E
 - Next stage: Firing: put the pot into the fire, so that it gets hard. But you need to turn on the heat slowly - there is still some water in the clay that needs to turn into steam. Again there are several methods to fire the pottery:
 
     - an open fire, put some wood into the pot,  
+
        ![](media/open-fire-pottery.jpg) - even used today, in Mali.
+
         Pots made like this often have a black rim on the top ![](media/black-top-rim.jpg)
         Still, there are lots of trick that can make a big different - more details: https://ancientpottery.how/open-fire-pottery/
     - larger scale production: a Kiln - here you can control how much oxygen gets near the pot, while it is hot. This can be used to change the color of the pot.
@@ -1142,7 +1159,7 @@ You see that things are getting complicated - there are many systems that need t
 
 Now they still didn't invent writing, so that scientists have to guess about a lot of details. 
 
-An interesting thing: they cities of this period were continuously populated for some 1200 years. The archiologists didn't find signs of wars - in other places they often find layers when the cities was destroyed and later rebuild, but they don't find this here! Also the cylinder ceal impression do not show weapons, or scenes of war (but you get that in the next culture - this time had a lot of wars) Is it possible that the cities of this period did not fight wars against one another? Lots of open questions.
+An interesting thing: they cities of this period were continuously populated for some 1200 years. The archiologists didn't find signs of wars - in other places they often find layers when the cities was destroyed and later rebuild, this is a sign of a war. Bbut they don't find this with the Ubaid period towns ! Also the cylinder ceal impression do not show weapons, or scenes of war (but you get that in the next culture - this time had a lot of wars) Is it possible that the cities of this period did not fight wars against one another? Lots of open questions.
 
 Also they didn't find city walls, a city wall has two functions; one is to keep the enemy out of the city, it is for defence.  The other role is to keep your own people from running away. They didn't have that!
 
@@ -1151,7 +1168,17 @@ The canals must bring all the water for agriculture. The theory says, that these
 They need this in order to get the workers needed for building these canals, it's a lot of work to build and keep them!
 Everyone has to do what the king says, otherwise he will not get water for his field, no questions asked. The theory says that these cultures are always despotic - they have a central ruler who can do whatever he wants. The king often counts as a god or is a relative of one. Now i read a few articles, but it does not seem to be the case here.
 
-In any case, we know much more about the next culture, the Sumerians. That's because the Sumerians learned how to write!
+
+Here is an interesting article, it kind of gives an answer: http://www.columbia.edu/itc/anthropology/v3922/pdfs/stein_gil.pdf
+The Ubaid culture had some tricks: Gil Stein says there were two centers of power: the temple and the chief of the tribe. 
+ - The family of the chief is often a big one. They have big families, and they can tell their family members to work on the common canal. This gives the family of the chief a lot of weight.
+ - Land owned by the temple is a kind of common land. The granaries kept by the temple are a kind of insurance - in bad times a person can get some grain from there. This gives a lot of authority to the temple: they can tell the people to work this temple land, it's kind of a common land.
+ - The chief can play tricks: they tell us about an example from modern Irak - from the same area. The Chief of the tribe is administrating the land of the religious leader. He gives some grain/money for keeping up the temple, but he can keep the rest for himself. Now this sponsorship also gives the chief some authority: he can now call all the other tribesmen and tell them to work on the land owned by the religious leader. In Hebrew this is called 'a combination' (kombina)
+
+Now the Ubaid culture had a lot of 'soft power' they had could pursuade the nothern towns to join their culture, without war! They see that the culture in these nothern areas changes from an older culture - the Halaf culture) to the Ubaid culture, again without signs of war and destruction.
+The author of the article says, that it is possible that people worked for the temple, for the common good, but not because someone forced them to do so!
+
+In any case, we know much more about the next culture, the Sumerians. That's because the Sumerians learned how to write! We have to guess less with the Sumerian culture, because the Sumerian culture has it's own voice - the things they wrote down!
 
 ---
 
