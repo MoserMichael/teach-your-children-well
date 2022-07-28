@@ -24,11 +24,11 @@ The Jews were also good at critical thinking - the prophets would ask the kings 
 at 00:44 you are in a mosaic, that is a picture that is made from very little stones, they like these in ancient Rome (2500-1600 years ago)
 Rome built a big empire, and united many people - most countries in Europe say that they come from this time.
 
-at 01:00 comes a painting from China - that's where paper was invented, with very fine lines.
+at 01:00 comes a painting from China, the picture has very fine lines. The picture is drawn on paper and people in China invented paper.
 
-at 1:17 we get back to Europe during the renaissance - that's between six hundred and three hundred years ago in Italy
+at 1:17 we get back to Europe during the renaissance - that's between six hundred and three hundred years ago in Italy.
 That's when Europe got back to the tradition of ancient Greece and ancient Rome, and when we learned about new things, like science.
-In art they learned about perspective, depth and Humanism - that people are the most important and should come first.
+Artists learned about perspective, depth and Humanism - that people are the most important and should come first.
 
 at 1:30 we get into 19th century France - the early impressionist; they taught us to draw what we feel, and not just what we see.
 
