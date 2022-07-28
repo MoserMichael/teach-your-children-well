@@ -6,6 +6,14 @@ The trick is to keep digging, basically speaking.
 
 --
 
+That's what we got right now:
+
+[something about art history - and lots of other things](history-of-arts-and-us.md)
+[something about the Bauhaus school of design](bauhaus-design.md)
+[Some stuff of interest](pop-science-and-other-stuff.md)
+
+--
+
 One reason: our local schools are kind of, depressing. Also we have the summer vacations, so there is no choice: i must make an effort to keep my home front busy...
 
 One thing that is especially depressing: teachers seem to be upset by questions. That means: many of them are not quite pushing kids to inquire about things. 
