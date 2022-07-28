@@ -1151,6 +1151,9 @@ It's a big deal: it means that the Ubaid culture/civilization had a lot more soc
 
 - you need better tools for working the land, someone has to build ploughs, sickles, pots for storing grain. People start to specialize - do only one thing.
 
+Here are some tools used for agriculture - made of clay and then put into fire so that it gets hard (like pottery)
+![](media/ubaid-sickle.jpg)
+
 - trade: you start to bring stuff from far away places, also some places specialize at doing the stuff that they are good at!
 
 South Mesopotamia is good at making agricultural stuff: they make grain, pots, clothes 
