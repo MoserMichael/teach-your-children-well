@@ -777,33 +777,21 @@ This is how pottery is made, wikipedia tells us a lot about pottery in ancient E
 ![](media/kneading-clay.jpg)
 
 - next you need to form the pot from the wet clay, again lots of possibilities.
-    - Form it by hand. If you make a pot on your own then you will most likely use this method.
+    - Form it by hand. If you make a pot on your own then you will most likely use this method. ![](media/hand-shaping-clay.png) 
 
-![](media/hand-shaping-clay.png) 
+even today you have people who work like this. This picture is not from long ago, this is near the Amazon river in south America.
 
-        even today you have people who work like this. This picture is not from long ago, this is near the Amazon river in south America.
+    - use a rotating base, like this one, this is a very early method, it was even used before the time of the pharaos, some six thousand years ago!  ![](media/rotating-base-shaping-clay.jpg)
 
-    - use a rotating base, like this one, this is a very early method, it was even used before the time of the pharaos, some six thousand years ago!  
-
-![](media/rotating-base-shaping-clay.jpg)
-
-    - or you can use a slow potter wheel. You need one hand to turn the wheel, and you have to use your other hand to form the clay.
-
-![](media/slow-wheel-shaping-clay.jpg)
+    - or you can use a slow potter wheel. You need one hand to turn the wheel, and you have to use your other hand to form the clay.  ![](media/slow-wheel-shaping-clay.jpg)
 
         This is an important tool, you can use that in a small factory. In a factory each person does only a single small part of the process, one person is preparing the clay, the other is forming and so on. You can make many many pots this way, when many people are working togather like this, this is called mass production. They had it since the Old Kingdom of Egypt - some 4600 years ago, when the pyramids where built! 
 
-    - use a fast potter wheel, you can turn it with your feet and you both hands to form the clay, they had this sine the new kingdom of Egypt - some 3500 years ago, it took a thousand years to come up with this invention.
+    - use a fast potter wheel, you can turn it with your feet and you both hands to form the clay, they had this sine the new kingdom of Egypt - some 3500 years ago, it took a thousand years to come up with this invention.  ![](media/fast-potter-wheel2.png)    
 
-        ![](media/fast-potter-wheel2.png)    
+- Next stage: the clay is still wet, it has lots of water in it. You can now decorate the pot, scratch something into the clay ![](media/decorated-pot.jpg)
 
-- Next stage: the clay is still wet, it has lots of water in it. You can now decorate the pot, scratch something into the clay,
-
-        ![](media/decorated-pot.jpg)
-
-  Now is the time when you can also polish the pot and put on stuff to make it shine   
-
-        ![](media/polished-pot.jpg)
+  Now is the time when you can also polish the pot and put on stuff to make it shine ![](media/polished-pot.jpg)
 
   Another detail: the base of the pot is being finished - the base is a tricky part, it needs a lot of work - even at this stage.
 
