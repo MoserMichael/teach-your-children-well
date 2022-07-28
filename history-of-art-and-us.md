@@ -51,7 +51,7 @@ The very first art that we know about is here, it comes from three million years
 ![](media/Makapansgat_pebble.png)    
 
 This small stone is a crystal, it looks a bit like a face, and the people of three million years ago added some scratches, to make it look more like a face.
-This crystal does not come from the cave, you can find it 30 kilometer away from that cave.
+This crystal was found in a cave. But it does not come from that cave. You can find crystals like that, but they are some 30 kilometer away.
 This means they had to take and move the stone all by themselves!
 
 Is that art? The stone could mean a lot to the people who brought it to the cave - they found it far away and had to keep it!
@@ -191,18 +191,19 @@ Now what is art? You draw something, it looks like it is real, but the painting 
 ![](media/Margarite-pipe.jpeg)
 
 This is a painting from 1928 by Rene Margarite. The text on the painting is in French, it says: "this is not a pipe".
-People asked the painter: but we can see a pipe on the painting. this is a pipe!
+People asked the painter: but we can see a pipe on the painting - this is a pipe!
 Rene answered: if it is a pipe, then take it and smoke it!
 
 You see that art is a bit different, or very different from a real thing. It is a symbol.
 Art is about the artist talking to the people who see the painting - the artist wants to tell us something.
-The artist can talk about something real, but also about his feelings - but he wants to make us feel something with his art!
+The artist can talk about something real, but also about his feelings. The artist always wants to make us feel something, when we look at his art.
+Art is a tool, that is used by the artist to talk with us!
 
 The cats in the coffee cup tell us: this is cute! Or the artists wants to say "i put in a lot of work in this cup, you want to drink the coffee, but how can you take it and destroy my art?" or maybe it means something else...
 
 Pablo Picasso said that "art is a lie that helps the artist to tell the truth" - the picture is not the same as the real thing, often the artist is using tricks that help him to tell us something, but these tricks move the painting away from the real thing.
 
-People get very exited about the old paintings on the caves - it tells us that people from 40.000 years ago thought abstract ideas - that is about things that you can't touch or use as tools. That means that they thought the same like us! 
+People get very exited about the old paintings on the caves - it tells us that people from 40.000 years ago thought abstract ideas - that is about things that you can't touch or use as tools. That means that they thought just like us! 
 
 ----
 
@@ -216,7 +217,7 @@ She says that the sign with the dots is very often found!
 
 maybe even possible that these scratches count something, or that it is for beauty.
 
-Geneve became a big star in Antrophology for asking your question!
+Geneve became a big star in anthropology for asking your question!
 
 No one was bothering with the signs, everyone was cool with the paintings. Now they say that Genevieve is a big star, because some six and half million people saw her talk on youtube! She was asking just the same questions as you do!
 
@@ -226,7 +227,7 @@ No one was bothering with the signs, everyone was cool with the paintings. Now t
 Back to the cave paintings, you can see a many drawings of animals, they are drawing a lot of details.
 This means they are naturalistic pictures - they try to look like they look in nature.
 
-Like the Bisons in altamira cave - they are sometimes drawing around cracks in the stones.
+Like the Bisons in Altamira cave - they are sometimes drawing around cracks in the stones.
 ![](media/altamira.webp)
 
 Or in Chaveaux cave
@@ -237,7 +238,7 @@ Or in Chaveaux cave
 Look at the horns of the animal in the last picture - that's a trick.
 You see the animal from the side, but the artist is drawing two horns, you would see only one horn from this perspective!
 
-also see this one from lascaux cave
+Also see this one from Lascaux cave
 
 ![](media/lascaux.webp)
 
@@ -493,7 +494,6 @@ You can learn some more about Noam Chomsky and his ideas here:  https://www.yout
 
 There are many other linguists with different ideas, and we can also learn what they say, if you are interested...
 
-
 Another detail: they say it shows that we have some built-in ability for learning language.
 Nicaraguan sign language https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language
 
@@ -516,7 +516,7 @@ Sentence := Noun-phrase Verb-phrase
 And there is a rule for recursion - recursion means rules for building sentences that contain other sentences. like "Dolev said that her friends said that the sun is rising".
 
 But then this also has other problems: there should be some more common mechanism in the brain like "universal grammar", something that could be used for other things like vision, general problem solving, but there isn't.
-Also as I said, all these substition rules don't go well for languages with a free word order, like Russian (there are other structural grammars that work better here, like dependency grammars)
+Also as I said, all these substitution rules don't work for languages with a free word order, like Russian (there are other structural grammars that work better here, like dependency grammars)
 
 Still, people like what Chomsky did - he asked a lot of good questions like:
 
@@ -557,11 +557,16 @@ Something very happens in art, people start to build big monuments made out of b
 
 Göbekli Tepe in Turkey ![](media/goebleki-tepe.jpeg) from 10.000 years ago!
 
-In Israel we have Atlit-yam, that's place that is now under the sea, near Haifa - also from some 9000 years ago ![](media/Atlit-Yam.jpeg)
+In Israel we have Atlit-yam, that's place that is now under the sea, near Haifa - also from some 9000 years ago 
+
+![](media/Atlit-Yam.jpeg)
 
 You have lots of interesting old things in Israel. People had to get to Israel, if they want to go in and out of Africa! We were a big cross road!
+The weather is also great - it is not very hot and not very cold!
 
-Stonhenge, in Great Britain - the earliest stones are from five thousand years ago, it took them a thousand years to build it ![](media/stonehenge.webp)
+Stonhenge, in Great Britain - the earliest stones are from five thousand years ago, it took them a thousand years to build it 
+
+![](media/stonehenge.webp)
 
 Why did people do all that? Scientist think that this is how we got society: once upon a time people lived in small groups, very small bands of people, or villages with up to a hundred people in it. Now you can trust everyone in a small group - you know each other well, some of the people are your relatives.
 Trust is that you can believe what they say, you don't have to think all the time that they want to cheat you.
@@ -588,7 +593,9 @@ Now scientists thought a group of hunters and gatherers can't do this, because t
 They would spend all of the day with finding food!
 It turns out that things are complicated.
 
-Remember Göbekli Tepe in Turkey ![](media/goebleki-tepe.jpeg) from 10.000 years ago?
+Remember Göbekli Tepe in Turkey 
+
+![](media/goebleki-tepe.jpeg) from 10.000 years ago?
 
 Scientists looked at the garbage from that place, and it turns out that they were eating gazelles. Gazelles are wild animals, they don't live in herds.
 You need to hunt a gazelle if you want to eat it, so these people did not have herds of gazelles.
@@ -669,9 +676,13 @@ Lots of things happen during this time:
 
 The city of [Çatalhöyük](https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk) in Turkey, it is from 9500 years ago, and some 5000 people lived in houses, that's a big group of people! The houses were built very close to each other, the wall of one house would also be the wall of the next house. But they sometimes had squares of empty space between the houses, sometimes they had big holes between houses - they would put their garbage in these holes. People moved from the roof of one house to the roof of the next house - they didn't have streets between the houses.
 
-That's what they found ![](media/chatalhoyuk-excavation.jpg)
+That's what they found 
 
-They think it looked like this ![](media/chatalhoyuk-reconstruction.jpg)
+![](media/chatalhoyuk-excavation.jpg)
+
+They think it looked like this 
+
+![](media/chatalhoyuk-reconstruction.jpg)
 
 Usually a family lived in a house, the houses were all of equal size, that would mean that people were more or less equal - they didn't have very big houses for the rich people! That's a very strange thing - you don't have that very often, this is very unusual!
 
@@ -1064,16 +1075,18 @@ Still living in cities has a lot of risks
 - you can have a bad year, where there is little rain. The plants will not grow and people will stay hungry.
 - there are more risks: things can go bad, like when a war happens
 
-Now 8200 years ago the weather changed, it became drier for many years, that's called the 82k event!  https://en.wikipedia.org/wiki/8.2-kiloyear_event
+---
+
+Now 8200 years ago the weather changed, it became drier for many years, that's called the 8.2k event  https://en.wikipedia.org/wiki/8.2-kiloyear_event
 That's the point when people left the big city of Çatalhöyük, but people still lived in smaller groups - they didn't die out.
 It took about a hundred years for the climate to get better! Progress took a big break.
 
-The weather is relatively good for a long long time, from 8200 years ago to 6200 years ago (that's when the weather gets bad again). 
-Humans will make some great progress during this time!
+The weather is relatively good for a long long time, from 8200 years ago to 6200 years ago it gets better again. 
+That's when we see some progress!
 
-By the way: once every 1500-2000 years there is a big change in the weather, it is getting cold for a few years, or even up to a hundred years, and civilization had a hard time.
+By the way: once every 1500-2000 years there is a big change in the weather, it is getting cold for a few years, or even up to a hundred years. That's a hard time for civilization.
 
-See this table from wikipedia
+See this table from wikipedia (i edited the notes a bit)
 
 https://en.wikipedia.org/wiki/Bond_event#List
 
@@ -1081,11 +1094,12 @@ https://en.wikipedia.org/wiki/Bond_event#List
 No |Time | Time G(AD, BC) |Gap from previous event|Notes
 
 0	≈ −0.5 ka	≈ 1500 AD	900 years	See Little Ice Age[12] (The Mongolian empire dies, lots of antisemitism in Europe - they are blaming it on the Jews, Nasty witch hunts)
-1	≈ −1.4 ka	≈ 600 AD	1400 years	See Migration Period[12] and Late Antique Little Ice Age (the Western roman empire has a hard time and dies)
-2	≈ −2.8 ka	≈ 800 BC	1400 years	See Iron Age Cold Epoch
-3	≈ −4.2 ka	≈ 2200 BC	1700 years	See 4.2-kiloyear event; collapse of the Akkadian Empire and the end of the Egyptian Old Kingdom.[13][14]
-4	≈ −5.9 ka	≈ 3900 BC	2300 years	Sahara desert reforms by 3500–3000 BC, ending Neolithic Subpluvial. Early Bronze Age begins ~3300 BC.
-5	≈ −8.2 ka	≈ 6200 BC	1200 years	See 8.2-kiloyear event
+1	≈ −1.4 ka	≈ 600 AD	1400 years	See Migration Period[12] and Late Antique Little Ice Age (the Western Roman empire has a hard time and dies)
+2	≈ −2.8 ka	≈ 800 BC	1400 years	See Iron Age Cold Epoch.  https://en.wikipedia.org/wiki/Iron_Age_Cold_Epoch
+                                        Bronze age collapses somewhere around 1200-1150BC, what about the weather? https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse
+3	≈ −4.2 ka	≈ 2200 BC	1700 years	See 4.2-kiloyear event; collapse of the Akkadian Empire and the end of the Egyptian Old Kingdom.
+4	≈ −5.9 ka	≈ 3900 BC	2300 years	Sahara desert reforms by 3500–3000 BC, Ubaid culture ends? Early Bronze Age begins ~3300 BC.
+5	≈ −8.2 ka	≈ 6200 BC	1200 years	See 8.2-kiloyear event (people leave Çatalhöyük)
 6	≈ −9.4 ka	≈ 7400 BC	1100 years	Erdalen event of glacier activity in Norway,[15] as well as a cold event in China.[16]
 7	≈ −10.3 ka	≈ 8300 BC	800 years	
 8	≈ −11.1 ka	≈ 9100 BC	---	Transition from the Younger Dryas to the Boreal.[17]
@@ -1093,7 +1107,7 @@ No |Time | Time G(AD, BC) |Gap from previous event|Notes
 
 Next comes the Ubaid period (some 8500 to 5800 years ago), now people start to do something new in Mesopotamia (that is Greek and means the land between the rivers; Meso - in the middle; Potamoi - river in Greek) Now we see a very complicated culture!
 
-- The fields don't get enough rain, so you need to bring the water from the river. It starts to get complicated - they need to build canals and dams. Now tat's a lot of work, many people need to dig these canals. Also you have to repair them a lot - that's also a lot of work. 
+- The fields don't get enough rain, so you need to bring the water from the river. It starts to get complicated - they need to build canals and dams. Now that is a lot of work, many people need to dig these canals. Also you have to repair them a lot - that's also a lot of work. 
 
 - Someone has to organize people for all this work. Some people say it all started with the temples.
 
@@ -1117,6 +1131,7 @@ The form of the token may tell us what is counted
 That's the first way to write things down, before they invented writing! They call it proto-writing system (a system used before writing)
 
 - At some stage people find seals - a seal is a form, and you can press it into clay so as to leave an impression.
+
 ![](media/ubaid-seals.png)
 
 Later you get cylinder seal impressions like this one:
