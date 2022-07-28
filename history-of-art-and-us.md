@@ -840,7 +840,7 @@ But the moon is walking around the sky in complicated ways, and it is more diffi
 People who life in Europe have the northern star - you can find a star that is always in the north, but the sky to the south of the equator is looking very different, i am not sure if they have such a star in Australia. 
 Also Professor Boroditsky says that the concept of time is also connected to where the sun is - at least for the Kuuk Thaayorre people.
 
-If you get lost - here is how you can find the Nothern Star.
+If you get lost - here is how you can find the North Star.
 ![](media/nothern-star.jpeg)
 
 It is the last star in the constellation of Ursa Minor (that name is in Latin, it means the 'little Bear') Or you take the constellation of 'the Plough' and then go three times the length of the distance of the outer stars. Then you know where north is (but not if you go south of the equator)
@@ -1181,9 +1181,9 @@ Here is an interesting article, it kind of gives an answer: http://www.columbia.
 The Ubaid culture had some tricks: Gil Stein says there were two centers of power: the temple and the chief of the tribe. 
  - The family of the chief is often a big one. They have big families, and they can tell their family members to work on the common canal. This gives the family of the chief a lot of weight.
  - Land owned by the temple is a kind of common land. The granaries kept by the temple are a kind of insurance - in bad times a person can get some grain from there. This gives a lot of authority to the temple: they can tell the people to work this temple land, it's kind of a common land.
- - The chief can play tricks: they tell us about an example from modern Irak - from the same area. The Chief of the tribe is administrating the land of the religious leader. He gives some grain/money for keeping up the temple, but he can keep the rest for himself. Now this sponsorship also gives the chief some authority: he can now call all the other tribesmen and tell them to work on the land owned by the religious leader. In Hebrew this is called 'a combination' (kombina)
+ - The chief can play tricks: they tell us about an example from modern Irak, in our time - but from the same place. The Chief is administrating the land of the religious leader. He gives some grain/money for keeping up the temple, but he can keep the rest for himself. Now this sponsorship also gives the chief some authority: he can now call all the other tribesmen and tell them to work on the land owned by the religious leader. In Hebrew this is called 'a combination' (kombina)
 
-Now the Ubaid culture had a lot of 'soft power' they had could pursuade the nothern towns to join their culture, without war! They see that the culture in these nothern areas changes from an older culture - the Halaf culture) to the Ubaid culture, again without signs of war and destruction.
+Now the Ubaid culture had a lot of 'soft power' they had could pursuade the northern towns to join their culture, without war! They see that the culture in these northern areas changes from an older culture - the Halaf culture) to the Ubaid culture, again without signs of war and destruction.
 The author of the article says, that it is possible that people worked for the temple, for the common good, but not because someone forced them to do so!
 
 In any case, we know much more about the next culture, the Sumerians. That's because the Sumerians learned how to write! We have to guess less with the Sumerian culture, because the Sumerian culture has it's own voice - the things they wrote down.
