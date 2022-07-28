@@ -1168,7 +1168,7 @@ You see that things are getting complicated - there are many systems that need t
 
 Now they still didn't invent writing, so that scientists have to guess about a lot of details. 
 
-An interesting thing: they cities of this period were continuously populated for some 1200 years. The archiologists didn't find signs of wars - in other places they often find layers when the cities was destroyed and later rebuild, this is a sign of a war. Bbut they don't find this with the Ubaid period towns ! Also the cylinder ceal impression do not show weapons, or scenes of war (but you get that in the next culture - this time had a lot of wars) Is it possible that the cities of this period did not fight wars against one another? Lots of open questions.
+An interesting thing: they cities of this period were populated for some 1200 years, without breaks. The archiologists didn't find signs of wars - in other places they often find layers when the cities was destroyed and later rebuild, this is a sign of a war. Bbut they don't find this with the Ubaid period towns ! Also the cylinder ceal impression do not show weapons, or scenes of war (but you get that in the next culture - this time had a lot of wars) Is it possible that the cities of this period did not fight wars against one another? Lots of open questions.
 
 Also they didn't find city walls, a city wall has two functions; one is to keep the enemy out of the city, it is for defence.  The other role is to keep your own people from running away. They didn't have that!
 
