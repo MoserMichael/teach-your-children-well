@@ -1186,7 +1186,6 @@ The canals must bring all the water for agriculture. The theory says, that these
 They need this in order to get the workers needed for building these canals, it's a lot of work to build and keep them!
 Everyone has to do what the king says, otherwise he will not get water for his field, no questions asked. The theory says that these cultures are always despotic - they have a central ruler who can do whatever he wants. The king often counts as a god or is a relative of one. Now i read a few articles, but it does not seem to be the case here.
 
-
 Here is an interesting article, it kind of gives an answer: http://www.columbia.edu/itc/anthropology/v3922/pdfs/stein_gil.pdf
 The Ubaid culture had some tricks: Gil Stein says there were two centers of power: the temple and the chief of the tribe. 
  - The family of the chief is often a big one. They have big families, and they can tell their family members to work on the common canal. This gives the family of the chief a lot of weight.
@@ -1196,7 +1195,9 @@ The Ubaid culture had some tricks: Gil Stein says there were two centers of powe
 Now the Ubaid culture had a lot of 'soft power' they had could pursuade the nothern towns to join their culture, without war! They see that the culture in these nothern areas changes from an older culture - the Halaf culture) to the Ubaid culture, again without signs of war and destruction.
 The author of the article says, that it is possible that people worked for the temple, for the common good, but not because someone forced them to do so!
 
-In any case, we know much more about the next culture, the Sumerians. That's because the Sumerians learned how to write! We have to guess less with the Sumerian culture, because the Sumerian culture has it's own voice - the things they wrote down!
+In any case, we know much more about the next culture, the Sumerians. That's because the Sumerians learned how to write! We have to guess less with the Sumerian culture, because the Sumerian culture has it's own voice - the things they wrote down.
+Also cities got ten times bigger - the city of Uruk had some fifty thousand people, they had to get ten times more food for them!
+It also becomes harder to rule over a big number of people.
 
 ---
 
@@ -1210,5 +1211,5 @@ Some lines written in a book
 But you won't find a live one no matter where you look
 ```
 
-The song is written about the Indians in America. I think that the song is also about other cultures, who didn't know how to write (or who did know that, just that we can't read what they wrote). Here is the song: "The great nations of europe" :: https://www.youtube.com/watch?v=q3hMA76mBGE
+The song is written about the Indians in America. I think that the song is also about other cultures, who didn't know how to write (or who did know that, just that we can't understand what they wrote). Here is the song: "The great nations of europe" :: https://www.youtube.com/watch?v=q3hMA76mBGE
 
