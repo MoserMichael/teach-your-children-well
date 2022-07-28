@@ -781,13 +781,13 @@ This is how pottery is made, wikipedia tells us a lot about pottery in ancient E
 
 even today you have people who work like this. This picture is not from long ago, this is near the Amazon river in south America.
 
-    - use a rotating base, like this one, this is a very early method, it was even used before the time of the pharaos, some six thousand years ago!  ![](media/rotating-base-shaping-clay.jpg)
-
+You can do better, welcome to the potter wheel!
+    - use a rotating base, like this one, this is a very early method, it was even used before the time of the Pharaos, some six thousand years ago!  ![](media/rotating-base-shaping-clay.jpg)
     - or you can use a slow potter wheel. You need one hand to turn the wheel, and you have to use your other hand to form the clay.  ![](media/slow-wheel-shaping-clay.jpg)
 
-        This is an important tool, you can use that in a small factory. In a factory each person does only a single small part of the process, one person is preparing the clay, the other is forming and so on. You can make many many pots this way, when many people are working togather like this, this is called mass production. They had it since the Old Kingdom of Egypt - some 4600 years ago, when the pyramids where built! 
+This potter wheel is an important tool, you can use that in a small factory. In a factory each person does only a single small part of the process, one person is preparing the clay, the other is forming and so on. You can make many many pots this way, when many people are working togather like this, this is called mass production. They had it since the Old Kingdom of Egypt - some 4600 years ago, when the pyramids where built! 
 
-    - use a fast potter wheel, you can turn it with your feet and you both hands to form the clay, they had this sine the new kingdom of Egypt - some 3500 years ago, it took a thousand years to come up with this invention.  ![](media/fast-potter-wheel2.png)    
+The fast potter wheel, you can turn it with your feet and you both hands to form the clay, they had this sine the new kingdom of Egypt - some 3500 years ago, it took a thousand years to come up with this invention.  ![](media/fast-potter-wheel2.png)    
 
 - Next stage: the clay is still wet, it has lots of water in it. You can now decorate the pot, scratch something into the clay ![](media/decorated-pot.jpg)
 
@@ -799,7 +799,6 @@ even today you have people who work like this. This picture is not from long ago
   Now you need to be careful - if the clay dries too much, then the pot will shrink. In the summer you have to put it into the shade, for several days.
 
 - Next stage: Firing: put the pot into the fire, so that it gets hard. But you need to turn on the heat slowly - there is still some water in the clay that needs to turn into steam. Again there are several methods to fire the pottery:
-
     - an open fire, put some wood into the pot,  
 
        ![](media/open-fire-pottery.jpg) - even used today, in Mali.
