@@ -772,25 +772,24 @@ This is how pottery is made, wikipedia tells us a lot about pottery in ancient E
     - make the clay dry, break the clay into very small pieces and remove small stones and dirt with a sift.
     - put the clay in water, now you have to wait and remove the dirty water, do so again and again.
 
-    later you need to add some stuff, to make it easier to form the clay. This is called stuff is called temper - it can be made out of bones, out of coal, out of sandstone 
-    now comes an important part: you need to remove all the air bubbles from that block before using the clay. You can get an explosion without this step - the air bubbles will grow when heated, so that your pot will explode in the fire! You have to be very careful, also this step takes a lot of time, knead the clay again and again.
+    later you need to add some stuff, to make it easier to form the clay. This is called stuff is called temper - it can be made out of bones, out of coal, out of sandstone now comes an important part: you need to remove all the air bubbles from that block before using the clay. You can get an explosion without this step - the air bubbles will grow when heated, so that your pot will explode in the fire! You have to be very careful, also this step takes a lot of time, knead the clay again and again.
 
-        ![](media/kneading-clay.jpg)
+![](media/kneading-clay.jpg)
 
 - next you need to form the pot from the wet clay, again lots of possibilities.
     - Form it by hand. If you make a pot on your own then you will most likely use this method.
 
-        ![](media/hand-shaping-clay.png) 
+![](media/hand-shaping-clay.png) 
 
         even today you have people who work like this. This picture is not from long ago, this is near the Amazon river in south America.
 
     - use a rotating base, like this one, this is a very early method, it was even used before the time of the pharaos, some six thousand years ago!  
 
-        ![](media/rotating-base-shaping-clay.jpg)
+![](media/rotating-base-shaping-clay.jpg)
 
     - or you can use a slow potter wheel. You need one hand to turn the wheel, and you have to use your other hand to form the clay.
 
-        ![](media/slow-wheel-shaping-clay.jpg)
+![](media/slow-wheel-shaping-clay.jpg)
 
         This is an important tool, you can use that in a small factory. In a factory each person does only a single small part of the process, one person is preparing the clay, the other is forming and so on. You can make many many pots this way, when many people are working togather like this, this is called mass production. They had it since the Old Kingdom of Egypt - some 4600 years ago, when the pyramids where built! 
 
@@ -1111,7 +1110,7 @@ Next comes the Ubaid period (some 8500 to 5800 years ago), now people start to d
 
 ![](media/levee.jpg)
 
-You need to build big walls around the main river, so that the river doesn't change it's course and the water should not spill over. That's a lot of work!
+You need to build big walls around the main river, so that the water does not spill over. Also a big river can change it's course - the way that it is flowing. You can't have that with agriculture. Building that kind of thing means a lot of work!
 Then you build smaller canals that get their water from the big canal. These also need to be reparied.
 
 - Someone has to organize people for all this work. Some people say it all started with the temples.
