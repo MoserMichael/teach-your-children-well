@@ -1112,7 +1112,7 @@ Each clay token is several centimeters big, and the number of scratches mean a n
 
 ![](media/clay-tokens.jpeg)
 
-A temple has to count the number of things that it gets/stores. A trader is a man who travels to far a way places, he brings stuff from far away and needs to exchange that for something of value, so that he has something to bring back. A trader needs to count the number of things that he receives.
+A temple has to count the number of things that it gets/stores. A trader is a man who travels to far a way places, he brings stuff from far away and needs to exchange that for something of value, so that he has something to bring back. A trader needs to count the number of things that he receives. You can also find these tokens in the bigger houses of the chiefs.
 
 The form of the token may tell us what is counted
  - flat disk mean measures of grain
