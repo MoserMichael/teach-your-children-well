@@ -2,13 +2,13 @@
 New project: I should focus more on my kids, instead of posting stupid stuff into social networks (or instead of coding up other useless stuff) "teach your children well" Let's try... 
 
 It is relatively easy for me to dig up something of interest on "the internet", maybe i will succeed at teaching my kids on how to do that.
-The trick is basically to keep digging.
+The trick is to keep digging, basically speaking.
 
 --
 
 One reason: our local schools are kind of, depressing. Also we have the summer vacations, so there is no choice: i must make an effort to keep my home front busy...
 
-One thing that is especially depressing: teachers seem to be upset by questions. That means many of them are not quite pushing kids to inquire about things. 
+One thing that is especially depressing: teachers seem to be upset by questions. That means: many of them are not quite pushing kids to inquire about things. 
 
 --
 
