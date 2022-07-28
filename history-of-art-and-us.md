@@ -1109,6 +1109,11 @@ Next comes the Ubaid period (some 8500 to 5800 years ago), now people start to d
 
 - The fields don't get enough rain, so you need to bring the water from the river. It starts to get complicated - they need to build canals and dams. Now that is a lot of work, many people need to dig these canals. Also you have to repair them a lot - that's also a lot of work. 
 
+![](media/levee.jpg)
+
+You need to build big walls around the main river, so that the river doesn't change it's course and the water should not spill over. That's a lot of work!
+Then you build smaller canals that get their water from the big canal. These also need to be reparied.
+
 - Someone has to organize people for all this work. Some people say it all started with the temples.
 
 You see the first big temples built in the city of Eridu: 
