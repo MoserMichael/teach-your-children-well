@@ -8,9 +8,9 @@ The trick is to keep digging, basically speaking.
 
 That's what we got right now:
 
-[something about art history - and lots of other things](history-of-arts-and-us.md)
-[something about the Bauhaus school of design](bauhaus-design.md)
-[Some stuff of interest](pop-science-and-other-stuff.md)
+- [something about art history - and lots of other things](https://github.com/MoserMichael/teach-your-children-well/blob/master/history-of-art-and-us.md)
+- [something about the Bauhaus school of design](https://github.com/MoserMichael/teach-your-children-well/blob/master/bauhaus-design.md)
+- [Some stuff of interest](https://github.com/MoserMichael/teach-your-children-well/blob/master/pop-science-and-other-stuff.md)
 
 --
 
