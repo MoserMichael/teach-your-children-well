@@ -1201,7 +1201,8 @@ For example they found lots of bowls of the same time and shape - at the mining 
 
 (found lots of information here: https://belleten.gov.tr/tam-metin/61/eng https://www.thoughtco.com/clay-tokens-mesopotamian-writing-171673 )
  
-You see that things are getting complicated - there are many systems that need to work together for all this to work! But then it all stops when the weather turns bad with the 5.9k event. But we will see a continuation in few hundred years, with the Sumerian civilization.
+You see that things are getting complicated - there are many systems that need to work together for all this to work! But then it all stops when the weather turns bad with the 5.9k event.  https://en.wikipedia.org/?title=5.9_kiloyear_event
+But we will see a continuation in few hundred years, with the Sumerian civilization.
 
 Now they still didn't invent writing, so that scientists have to guess about a lot of details. 
 
