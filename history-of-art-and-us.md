@@ -880,6 +880,8 @@ The dogs were the first domesticated animals, and I think that people would not 
 I think that has to do with one of the theories: that wolfs got near to people - to get what is left over, and that people got near wolfs - to learn from hunting them.  The other theory also says, that the outcast wolf got nearer to us - that means it was his initiative, kind of.
 In the end that's kind of a joke, but I am not sure. When I walk out our dog Nella, then she always knows where to go. Maybe the dogs/wolfs had a plan? Who knows, they can't talk...
 
+https://www.youtube.com/watch?v=7DwmrQr11eo&t=621s Here is a funny story - I am sending the interesting part - where they author is having a discussion with a chief from the ice age. The funny story is that the dogs were the first, and then people would domesticate other animals. However the first domesticated animal would have been very difficult, that would be something new!
+
 --
 
 Some sixty years ago scientists managed to domesticate wild foxes. A domesticated fox wags its tail and likes to be with us, just like dogs. It took some twenty to thirty generations of foxes. At each generation they choose the foxes who are most friendly, these foxes will be the fathers and mothers of the next generation of foxes. This is called selective breeding.
@@ -909,6 +911,17 @@ That is of course rubbish, but he managed to convince the communist party bosses
 
 All the geneticists were in deep trouble from this point, until the death of stalin. 
 https://en.wikipedia.org/wiki/Lysenkoism
+
+Dolev is asking a question: "Lysenko said that you can change plants by changing their environment - by educating the plants" Isn't that what Darwin is saying? Aren't you explaining natural selection? Also aren't the plants mutating and only successful adaptations would survive?
+
+There is a difference between Lamarck and Darwin.
+
+Lamarck said - an organism can learn something - and their offsprings will inherit that. https://en.wikipedia.org/wiki/Lamarckism
+Darwin says - if you are born with the right traits, and these traits can help you with surviving, then you will give these traits to your kids, and they have a better chance to go on, etc.
+
+The funny thing is: Darwin once thought that Lamarck has point. But that is not true.
+
+https://en.wikipedia.org/wiki/Vernalization Some seeds of wheat have to be put in the cold, for some time. This helps them to grow/flower. Now Lysenko said that these seeds have learned something, and that the next generation will have the same traits - that's what Lamark would have said. But it didn't work.
 
 --
 
@@ -1037,6 +1050,9 @@ Also, you sometimes get girl cats with three colors, but boy cats can't be like 
 
 There are lots of possibilities....
 
+Did you know that you can tell where a giraffe comes from - all by looking at the pattern of it's skin?
+![](media/giraffes-by-area.jpg) from here: https://earthlymission.com/regional-giraffe-patterns-throughout-africa/
+
 --
 
 People from a long time ago had some idea of all this, you can read it in the Bible!
@@ -1049,7 +1065,23 @@ Now Jacob worked a lot of years caring for the animals, and he probably knew som
 That's the way we have a Jewish people, because we wouldn't have one if Jacob would not have found anything to eat...
 You see: a long long time ago these were very important things to a lot of people! People cared about this stuff!
 
+
 --
+
+Dolev: (About the giraffes) that is gorgeous! As if they have different imprints.
+
+They say there are regional differences, they don't say why.
+
+I was surprised when I first came to Israel: pigeons look different in Israel and in Germany!
+
+In Berlin they are bigger, and the color is a little bit different: https://www.exberliner.com/berlin/berlin-pigeons/
+
+And our pigeons look slightly different https://www.shutterstock.com/video/clip-8297344-closeup-shot-pigeon-walking-on-floor-israel
+
+There is an interesting things about islands in the sea: animals on islands are often smaller than on a continent! https://en.wikipedia.org/wiki/Insular_dwarfism
+Even big dinosaurs were smaller on islands!
+
+----------
 
 Another important thing: you can keep a lot of grains in places of storage. This gives you a big advantage: 
  - you don't have to be hungry, even if there is one bad harvest. You still have something to eat!
@@ -1064,7 +1096,7 @@ Still living in cities has a lot of risks
 ---
 
 Now 8200 years ago the weather changed, it became drier for many years, that's called the 8.2k event  https://en.wikipedia.org/wiki/8.2-kiloyear_event
-That's the point when people left the big city of Çatalhöyük, but people still lived in smaller groups - they didn't die out.
+That's the point when people left the city of Çatalhöyük, but people still lived in smaller villages - they didn't die out.
 It took about a hundred years for the climate to get better! Progress took a big break.
 
 The weather is relatively good for a long long time, from 8200 years ago to 6200 years ago it gets better again. 
@@ -1072,7 +1104,7 @@ That's when we see some progress!
 
 By the way: once every 1500-2000 years there is a big change in the weather, it is getting cold for a few years, or even up to a hundred years. That's a hard time for civilization.
 
-See this table from wikipedia (i edited the notes a bit)
+See this table from wikipedia (i changed the notes a bit)
 
 https://en.wikipedia.org/wiki/Bond_event#List
 
@@ -1082,7 +1114,7 @@ No |Time | Time G(AD, BC) |Gap from previous event|Notes
 0	≈ −0.5 ka	≈ 1500 AD	900 years	See Little Ice Age[12] (The Mongolian empire dies, lots of antisemitism in Europe - they are blaming it on the Jews, Nasty witch hunts)
 1	≈ −1.4 ka	≈ 600 AD	1400 years	See Migration Period[12] and Late Antique Little Ice Age (the Western Roman empire has a hard time and dies)
 2	≈ −2.8 ka	≈ 800 BC	1400 years	See Iron Age Cold Epoch.  https://en.wikipedia.org/wiki/Iron_Age_Cold_Epoch
-                                        Bronze age collapses somewhere around 1200-1150BC, what about the weather? https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse
+                                        Bronze age collapses somewhere around 1200-1150BC, what about the weather? https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse (spoiler - it did have a role, but you need more than one thing to kill a bronze age state)
 3	≈ −4.2 ka	≈ 2200 BC	1700 years	See 4.2-kiloyear event; collapse of the Akkadian Empire and the end of the Egyptian Old Kingdom.
 4	≈ −5.9 ka	≈ 3900 BC	2300 years	Sahara desert reforms by 3500–3000 BC, Ubaid culture ends? Early Bronze Age begins ~3300 BC.
 5	≈ −8.2 ka	≈ 6200 BC	1200 years	See 8.2-kiloyear event (people leave Çatalhöyük)
@@ -1091,13 +1123,15 @@ No |Time | Time G(AD, BC) |Gap from previous event|Notes
 8	≈ −11.1 ka	≈ 9100 BC	---	Transition from the Younger Dryas to the Boreal.[17]
 ```
 
-Next comes the Ubaid period (some 8500 to 5800 years ago), now people start to do something new in Mesopotamia (that is Greek and means the land between the rivers; Meso - in the middle; Potamoi - river in Greek) Now we see a very complicated culture!
+Next comes the Ubaid period (some 8500 to 5800 years ago), it is called like this, because archeologist found the first stuff at a place called Tel-Ubaid in Iraq. https://en.wikipedia.org/wiki/Ubaid_period
 
-- The fields don't get enough rain, so you need to bring the water from the river. It starts to get complicated - they need to build canals and dams. Now that is a lot of work, many people need to dig these canals. Also you have to repair them a lot - that's also a lot of work. 
+now people start to do something new in Mesopotamia (that is Greek and means the land between the rivers; Meso - in the middle; Potamoi - rivers in Greek) Now we see a very complicated culture!
+
+- The fields don't get enough rain in south Iraq, so you need to bring the water from the river. It starts to get complicated - they need to build canals and dams. Now that is a lot of work, many people need to dig these canals. Also you have to repair them a lot - that's also a lot of work. 
 
 ![](media/levee.jpg)
 
-You need to build big walls around the main river, so that the water does not spill over. Also a big river can change it's course - the way that it is flowing. You can't have that with agriculture. Building that kind of thing means a lot of work!
+You need to build big walls around the main river, so that the water does not spill over. Also a big river can change it's course - the river can change the way that it is flowing. You can't have that with agriculture. Building that kind of thing means a lot of work!
 Then you build smaller canals that get their water from the big canal. These also need to be reparied.
 
 - Someone has to organize people for all this work. Some people say it all started with the temples.
@@ -1129,21 +1163,24 @@ Later you get cylinder seal impressions like this one:
 
 ![](media/cylinder-seal-impression.png)
 
-How do you make an impression like this? You take a cylinder made out of stone or metal and roll it over the clay. Here is a seal from much later - but it's the same idea.
+How do you make an impression like this? You take a cylinder made out of stone or metal and roll it over the clay. The cylinder has a form, and you then see a picture left in the clay! Here is a seal from much later - but it's the same idea.
 
 ![](media/cylinder-seal-form.jpeg)
 
 Seals are used by important people who have something to say. A seal imprint tell us "this item is now under under my responsibility and that's me, look at the picture!", it is like writing a name under a document, a signature!
-It's a big deal: it means that the Ubaid culture/civilization had a lot more social differences then previous civilization at Çatalhöyük.
+It's a big deal: it means that the Ubaid culture/civilization the rich and important ones were different from the rest of the people.
+Not like at Çatalhöyük.
 
 - seals and tokens are combined: you take a few tokens, put them into a small pot, or clay ball - the clay ball contains a message. Then you sign the clay ball with your seal - the seal tells you that the message is real, and that it has not been faked!
 
-- People start to live in bigger cities, with several thousand people, cities like Eridu and early Uruk. Now these cities didn't have big walls around them. That means they didn't have to defend themselves. I think that is very important (will tell later).
+- People start to live in a number of cities, with some four to seven thousand people: cities like Eridu and early Uruk. Now these cities didn't have big walls around them. That means they didn't have to defend themselves. I think that is very important (will tell later).
 
-- you need better tools for working the land, someone has to build ploughs, sickles, pots for storing grain. People start to specialize - do only one thing.
+- you need better tools for working the land, someone has to build ploughs, sickles, pots for storing grain. 
 
 Here are some tools used for agriculture - made of clay and then put into fire so that it gets hard (like pottery)
 ![](media/ubaid-sickle.jpg)
+
+People start to specialize - they work all day in only one area, they do what they have learned to do. Someone is a potter, someone is working in the field, someone is weaving clothes, they do that all day!
 
 - trade: you start to bring stuff from far away places, also some places specialize at doing the stuff that they are good at!
 
@@ -1152,13 +1189,13 @@ South Mesopotamia is good at making food: they make grain, pots, clothes
 North Mesopotamia is good at making metals: they make copper and tools out of copper. Copper is the first metal used by people, it is a bit soft and melts at lower temperatures - it is easier to work with copper. But you still need to heat that stuff to 1100C, that's very very hot!
 The northern town of Değirmentepe was mining copper, so that they have something to trade. That's specialization - you need to bring in food from other places!
 
-- some people have more to say than others. You see that some houses are bigger than others - the rich guys live here. Still there is not a big difference between the rich and the poor. Still they don't find any exotic materials or goods that are created only for the very rich. Also they didn't see a big difference in the graves for dead - no big difference in the gifts that they put in a grave. 
+- some people have more to say than others. You see that some houses are bigger than others - the chief lives here. Still there is not a very big difference between the rich and the poor. Still they don't find any exotic materials or goods that are created only for the very rich. Also they didn't see a big difference in the graves for dead - no big difference in the gifts that they put in a grave. 
 
 - Pottery: this time we got pottery around! You need pots and jars to store things in, and to move them from place to place. 
 
 ![](media/ubaid-vase.jpg)
 
-They also invent the potters wheel, at some stage there are mass produced pots and bowls. That means they already had factories, where each one was doing just a small part in making the product - that's how many people work together. They can make a lot of pottery this way. An interesting thing: these mass produced items don't have any decoration.
+    They also invent the potters wheel, at some stage there are mass produced pots and bowls. That means they already had factories, where each one was doing just a small part in making the product - that's how many people work together. They can make a lot of pottery this way. An interesting thing: these mass produced items don't have any decoration. There is no time for that!
 
 For example they found lots of bowls of the same time and shape - at the mining city of Değirmentepe. That may be a way to give the same amount of food to each of the workers who worked at the mine.
 
@@ -1168,9 +1205,9 @@ You see that things are getting complicated - there are many systems that need t
 
 Now they still didn't invent writing, so that scientists have to guess about a lot of details. 
 
-An interesting thing: they cities of this period were populated for some 1200 years, without breaks. The archiologists didn't find signs of wars - in other places they often find layers when the cities was destroyed and later rebuild, this is a sign of a war. Bbut they don't find this with the Ubaid period towns ! Also the cylinder ceal impression do not show weapons, or scenes of war (but you get that in the next culture - this time had a lot of wars) Is it possible that the cities of this period did not fight wars against one another? Lots of open questions.
+An interesting thing: they cities of this period were populated for some 1200 years, without breaks. The archiologists didn't find signs of wars - in other places they often find layers when the cities was destroyed and later rebuild, this is a sign of a war. Bbut they don't find this with the Ubaid period towns ! Also the cylinder ceal impression do not show weapons, or scenes of war (but you get a lot of that in the next culture) Is it possible that the cities of this period did not fight wars against one another? Lots of open questions.
 
-Also they didn't find city walls, a city wall has two functions; one is to keep the enemy out of the city, it is for defence.  The other role is to keep your own people from running away. They didn't have that!
+Also they didn't find city walls, a city wall has two functions; one is to keep the enemy out of the city, it is for defending a city.  The other role is to keep your own people from running away. They didn't have that!
 
 There is a theory of Hydraulic civilizations - these are complex cultures that need a complicated system of canals.
 The canals must bring all the water for agriculture. The theory says, that these cultures are very centralized, they all have a king who can tell everyone what to do.
