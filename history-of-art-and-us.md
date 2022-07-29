@@ -1195,7 +1195,7 @@ The northern town of Değirmentepe was mining copper, so that they have somethin
 
 ![](media/ubaid-vase.jpg)
 
-    They also invent the potters wheel, at some stage there are mass produced pots and bowls. That means they already had factories, where each one was doing just a small part in making the product - that's how many people work together. They can make a lot of pottery this way. An interesting thing: these mass produced items don't have any decoration. There is no time for that!
+They also invent the potters wheel, at some stage there are mass produced pots and bowls. That means they already had factories, where each one was doing just a small part in making the product - that's how many people work together. They can make a lot of pottery this way. An interesting thing: these mass produced items don't have any decoration. There is no time for that!
 
 For example they found lots of bowls of the same time and shape - at the mining city of Değirmentepe. That may be a way to give the same amount of food to each of the workers who worked at the mine.
 
