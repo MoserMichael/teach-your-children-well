@@ -16,9 +16,9 @@ These were painted during the ice age, when half of Europe was under a big block
 
 Then at 00:19 you are in painting that is just like the painting on the walls of a pyramid in ancient Egypt (from 5000-2300 years ago)
 Egypt was one of the first places with cities and one of the first languages that wrote things down. 
-History starts where we can find books what people wrote at the time, everything before that is the time before history - pre-history.
+History starts, when we can find books. Books that people people wrote at the same time. Everything before that is the time before history - pre-history.
 
-At 00:30 you get into a painting from ancient Greece - you see a lot of ornaments; this is the culture that tells us how to think. They taught us philosophy and mathematics, and critical thinking - that's when you ask questions why things are the way they are.
+At 00:30 you get into a painting from classical Greece, from some 2400 years ago. You see a lot of ornaments; this is the culture that tells us how to think. They taught us philosophy and mathematics, and critical thinking - that's when you ask questions why things are the way they are.
 The Jews were also good at critical thinking - the prophets would ask the kings of Israel questions, and even challenged them - they would tell the king if he did something bad!
 
 at 00:44 you are in a mosaic, that is a picture that is made from very little stones, they like these in ancient Rome (2500-1600 years ago)
