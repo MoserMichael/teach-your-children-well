@@ -1163,15 +1163,26 @@ Later you get cylinder seal impressions like this one:
 
 ![](media/cylinder-seal-impression.png)
 
+
 How do you make an impression like this? You take a cylinder made out of stone or metal and roll it over the clay. The cylinder has a form, and you then see a picture left in the clay! Here is a seal from much later - but it's the same idea.
 
 ![](media/cylinder-seal-form.jpeg)
+
+That's the cylinder seal of queen Puabi from 4600 years ago https://en.wikipedia.org/wiki/Puabi (Who found the seal? Leonard Woolley - an archaeologist who inspired the Indiana Jones movies! Cool dude! https://www.nationalgeographic.com/history/article/150514-indiana-jones-archaeology-exhibit-national-geographic-museum
+ )
 
 Seals are used by important people who have something to say. A seal imprint tell us "this item is now under under my responsibility and that's me, look at the picture!", it is like writing a name under a document, a signature!
 It's a big deal: it means that the Ubaid culture/civilization the rich and important ones were different from the rest of the people.
 Not like at Çatalhöyük.
 
 - seals and tokens are combined: you take a few tokens, put them into a small pot, or clay ball - the clay ball contains a message. Then you sign the clay ball with your seal - the seal tells you that the message is real, and that it has not been faked!
+
+Actually we have something similar, in our time: 
+Digital signatures!! Lets say there is a picture of me. 
+I want to make sure, that people know my real picture, and that everyone knows that this picture has not been faked. 
+Now I can make a digital signature of the picture, and everyone else can check if the signature was made by me. 
+That's like an imprint of a cylinder seal on a pot of clay with tokens - the same principle! 
+In our time the technology of digital signatures is used in lots of areas: electronic books, digital television, voting systems. I can tell you more about it in another lesson, if you want.
 
 - People start to live in a number of cities, with some four to seven thousand people: cities like Eridu and early Uruk. Now these cities didn't have big walls around them. That means they didn't have to defend themselves. I think that is very important (will tell later).
 
