@@ -1243,6 +1243,7 @@ Also cities got ten times bigger - the city of Uruk had some fifty thousand peop
 It also becomes harder to rule over a big number of people.
 
 ---
+(the next section is probably not very educational, won't send that to my kids...)
 
 Here is a song by Randy Newman - he is the artist who wrote and sang all the songs in the "Toy Story" movies. He wrote:
 
