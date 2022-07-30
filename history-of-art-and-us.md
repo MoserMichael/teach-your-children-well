@@ -1172,7 +1172,7 @@ That's the cylinder seal of queen Puabi from 4600 years ago (from the Sumerian c
  )
 Queen Puabi also had some jewels, made of gold:
 
-![](media/queen-puabi-jewelry.jpg)
+![](media/queen-puabi-jewels.png)
 
 Seals are used by important people who have something to say. A seal imprint tell us "this item is now under under my responsibility and that's me, look at the picture!", it is like writing a name under a document, a signature!
 It's a big deal that we found these seals: it means that the rich and important ones were different from the rest of the people.
