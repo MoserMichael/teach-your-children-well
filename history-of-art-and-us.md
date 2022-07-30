@@ -1172,8 +1172,8 @@ That's the cylinder seal of queen Puabi from 4600 years ago https://en.wikipedia
  )
 
 Seals are used by important people who have something to say. A seal imprint tell us "this item is now under under my responsibility and that's me, look at the picture!", it is like writing a name under a document, a signature!
-It's a big deal: it means that the Ubaid culture/civilization the rich and important ones were different from the rest of the people.
-Not like at Çatalhöyük.
+It's a big deal that we found these seals: it means that the rich and important ones were different from the rest of the people.
+Not like at Çatalhöyük, they had more equality.
 
 - seals and tokens are combined: you take a few tokens, put them into a small pot, or clay ball - the clay ball contains a message. Then you sign the clay ball with your seal - the seal tells you that the message is real, and that it has not been faked!
 
