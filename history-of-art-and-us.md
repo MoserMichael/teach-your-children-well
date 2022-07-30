@@ -1168,9 +1168,9 @@ How do you make an impression like this? You take a cylinder made out of stone o
 
 ![](media/cylinder-seal-form.jpeg)
 
-That's the cylinder seal of queen Puabi from 4600 years ago https://en.wikipedia.org/wiki/Puabi (Who found the seal? Leonard Woolley - an archaeologist who inspired the Indiana Jones movies! Cool dude! https://www.nationalgeographic.com/history/article/150514-indiana-jones-archaeology-exhibit-national-geographic-museum
+That's the cylinder seal of queen Puabi from 4600 years ago (from the Sumerian culture, that was a bit later) https://en.wikipedia.org/wiki/Puabi (Who found the seal? Leonard Woolley - an archaeologist who inspired the Indiana Jones movies! Cool dude! https://www.nationalgeographic.com/history/article/150514-indiana-jones-archaeology-exhibit-national-geographic-museum
  )
-Queen Puabi also had this jewels, made of gold:
+Queen Puabi also had some jewels, made of gold:
 
 ![](media/queen-puabi-jewelry.jpg)
 
