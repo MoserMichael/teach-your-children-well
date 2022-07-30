@@ -1170,6 +1170,9 @@ How do you make an impression like this? You take a cylinder made out of stone o
 
 That's the cylinder seal of queen Puabi from 4600 years ago https://en.wikipedia.org/wiki/Puabi (Who found the seal? Leonard Woolley - an archaeologist who inspired the Indiana Jones movies! Cool dude! https://www.nationalgeographic.com/history/article/150514-indiana-jones-archaeology-exhibit-national-geographic-museum
  )
+Queen Puabi also had this jewels, made of gold:
+
+![](media/queen-puabi-jewelry.jpg)
 
 Seals are used by important people who have something to say. A seal imprint tell us "this item is now under under my responsibility and that's me, look at the picture!", it is like writing a name under a document, a signature!
 It's a big deal that we found these seals: it means that the rich and important ones were different from the rest of the people.
