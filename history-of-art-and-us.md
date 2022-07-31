@@ -1242,7 +1242,7 @@ The Ubaid culture had some tricks: Gil Stein says there were two centers of powe
  - The chief can play tricks: they tell us about an example from modern Irak, in our time - but from the same place. The Chief is administrating the land of the religious leader. He gives some grain/money for keeping up the temple, but he can keep the rest for himself. Now this sponsorship also gives the chief some authority: he can now call all the other tribesmen and tell them to work on the land owned by the religious leader. In Hebrew this is called 'a combination' (kombina)
 
 Now the Ubaid culture had a lot of 'soft power' they had could pursuade the northern towns to join their culture, without war! They see that the culture in these northern areas changes from an older culture - the Halaf culture) to the Ubaid culture, again without signs of war and destruction.
-The author of the article says, that it is possible that people worked for the temple, for the common good, but not because someone forced them to do so!
+It can be, that people worked for the temple, for the common good of everyone, not because someone forced them to do so!
 
 In any case, we know much more about the next culture, the Sumerians. That's because the Sumerians learned how to write! We have to guess less with the Sumerian culture, because the Sumerian culture has it's own voice - the things they wrote down.
 Also cities got ten times bigger - the city of Uruk had some fifty thousand people, they had to get ten times more food for them!
