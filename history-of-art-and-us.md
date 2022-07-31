@@ -1127,19 +1127,25 @@ Next comes the Ubaid period (some 8500 to 5800 years ago), it is called like thi
 
 now people start to do something new in Mesopotamia (that is Greek and means the land between the rivers; Meso - in the middle; Potamoi - rivers in Greek) Now we see a very complicated culture!
 
-- The fields don't get enough rain in south Iraq, so you need to bring the water from the river. It starts to get complicated - they need to build canals and dams. Now that is a lot of work, many people need to dig these canals. Also you have to repair them a lot - that's also a lot of work. 
+- The fields don't get enough rain there, so you need to bring the water from the river. It starts to get complicated - they need to build complicated canals. Now that is a lot of work, many people need to dig these canals. Also you have to repair them a lot - that's also a lot of work. 
 
 ![](media/levee.jpg)
 
 You need to build big walls around the main river, so that the water does not spill over. Also a big river can change it's course - the river can change the way that it is flowing. You can't have that with agriculture. Building that kind of thing means a lot of work!
 Then you build smaller canals that get their water from the big canal. These also need to be reparied.
 
-- Someone has to organize people for all this work. Some people say it all started with the temples.
+![](media/canal2.jpg)
+
+You need gates between the bigger canal and smaller canals; They opened the gates and the small canals get more water
+
+You even have a minecraft version - to learn about water management from six thousand years ago! https://education.minecraft.net/en-us/worlds/mesopotamia
+
+- Someone has to organize people for all this work, you need a lot of workers. Some people say it all started with the temples.
 
 You see the first big temples built in the city of Eridu: 
 ![](media/Eridu_temple_7.png)
 
-- You have buildings for storing grain - granaries. These are often stored near temples. Even at Çatalhöyük they had special rooms for storing grain, they also found strange figures of animals - it is possible that this is a sign of a temple and that it all started with temples. 
+- You have buildings for storing grain - granaries. These are near temples. Even at Çatalhöyük they had special rooms for storing grain, they also found strange figures of animals - it is possible that this is a sign of a temple and that it all started with temples. 
 
 - They now need to count things, these are tokens made of clay. 
 Each clay token is several centimeters big, and the number of scratches mean a number. 
@@ -1203,9 +1209,9 @@ South Mesopotamia is good at making food: they make grain, pots, clothes
 North Mesopotamia is good at making metals: they make copper and tools out of copper. Copper is the first metal used by people, it is a bit soft and melts at lower temperatures - it is easier to work with copper. But you still need to heat that stuff to 1100C, that's very very hot!
 The northern town of Değirmentepe was mining copper, so that they have something to trade. That's specialization - you need to bring in food from other places!
 
-- some people have more to say than others. You see that some houses are bigger than others - the chief lives here. Still there is not a very big difference between the rich and the poor. Still they don't find any exotic materials or goods that are created only for the very rich. Also they didn't see a big difference in the graves for dead - no big difference in the gifts that they put in a grave. 
+- some people have more to say than others. You see that some houses are bigger than others - the chief lives here. Still there is no big difference between the rich and the poor. Still they don't find any exotic materials or goods that are created only for the very rich. Also they didn't see a big difference in the graves for the dead - no big difference in the gifts that they put in a grave. 
 
-- Pottery: this time we got pottery around! You need pots and jars to store things in, and to move them from place to place. 
+- Pottery: this time we got pottery! You need pots and jars to store things in, and to move them from place to place. 
 
 ![](media/ubaid-vase.jpg)
 
@@ -1216,11 +1222,11 @@ For example they found lots of bowls of the same time and shape - at the mining 
 (found lots of information here: https://belleten.gov.tr/tam-metin/61/eng https://www.thoughtco.com/clay-tokens-mesopotamian-writing-171673 )
  
 You see that things are getting complicated - there are many systems that need to work together for all this to work! But then it all stops when the weather turns bad with the 5.9k climate event.  https://cof.quantumfuturegroup.org/events/5370
-But we will see a continuation in few hundred years, with the Sumerian civilization.
+But we will see the next series, in a few hundred years, with the Sumerian civilization.
 
 Now they still didn't invent writing, so that scientists have to guess about a lot of details. 
 
-An interesting thing: they cities of this period were populated for some 1200 years, without breaks. The archiologists didn't find signs of wars - in other places they often find layers when the cities was destroyed and later rebuild, this is a sign of a war. Bbut they don't find this with the Ubaid period towns ! Also the cylinder ceal impression do not show weapons, or scenes of war (but you get a lot of that in the next culture) Is it possible that the cities of this period did not fight wars against one another? Lots of open questions.
+An interesting thing: they cities of this period were populated for some 1200 years, without breaks. The archiologists didn't find signs of wars - in other places they often find layers when the cities was destroyed and later rebuild, this is a sign of a war. But they don't find this with the Ubaid period towns ! Also the cylinder ceal impression do not show weapons, or scenes of war (but you get a lot of that in the next culture) Is it possible that the cities of this period did not fight wars against one another? Lots of open questions.
 
 Also they didn't find city walls, a city wall has two functions; one is to keep the enemy out of the city, it is for defending a city.  The other role is to keep your own people from running away. They didn't have that!
 
