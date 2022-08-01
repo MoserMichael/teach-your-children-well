@@ -1265,3 +1265,5 @@ But you won't find a live one no matter where you look
 
 The song is written about the Indians in America. I think that the song is also about other cultures, who didn't know how to write (or who did know that, just that we can't understand what they wrote). Here is the song: "The great nations of europe" :: https://www.youtube.com/watch?v=q3hMA76mBGE
 
+.. and you won't hear that song in a "Toy Story" movie either ...
+
