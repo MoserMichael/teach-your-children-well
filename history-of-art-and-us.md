@@ -1231,18 +1231,20 @@ An interesting thing: they cities of this period were populated for some 1200 ye
 Also they didn't find city walls, a city wall has two functions; one is to keep the enemy out of the city, it is for defending a city.  The other role is to keep your own people from running away. They didn't have that!
 
 There is a theory of Hydraulic civilizations - these are complex cultures that need a complicated system of canals.
-The canals must bring all the water for agriculture. The theory says, that these cultures are very centralized, they all have a king who can tell everyone what to do.
-They need this in order to get the workers needed for building these canals, it's a lot of work to build and keep them!
-Everyone has to do what the king says, otherwise he will not get water for his field, no questions asked. The theory says that these cultures are always despotic - they have a central ruler who can do whatever he wants. The king often counts as a god or is a relative of one. Now i read a few articles, but it does not seem to be the case here.
+The canals must bring all the water for agriculture. The theory says, that these cultures are very centralized. They must have a king who can tell everyone what to do.
+They need this in order to get the workers needed for building these big canals, it's a lot of work to build and keep them!
+Everyone has to do what the king says, otherwise he will not get water for his field, no questions asked. The theory says that these cultures are always despotic - they have a central ruler who can do whatever he wants. The king often counts as a god or is a relative of one. Now i read a few articles, but it does not seem to be the case with the Ubaid culture.
 
-Here is an interesting article, it kind of gives an answer: http://www.columbia.edu/itc/anthropology/v3922/pdfs/stein_gil.pdf
+Here is an interesting article, it tries to gives an answer: http://www.columbia.edu/itc/anthropology/v3922/pdfs/stein_gil.pdf
 The Ubaid culture had some tricks: Gil Stein says there were two centers of power: the temple and the chief of the tribe. 
  - The family of the chief is often a big one. They have big families, and they can tell their family members to work on the common canal. This gives the family of the chief a lot of weight.
- - Land owned by the temple is a kind of common land. The granaries kept by the temple are a kind of insurance - in bad times a person can get some grain from there. This gives a lot of authority to the temple: they can tell the people to work this temple land, it's kind of a common land.
+ - Land owned by the temple is a kind of common land. The granaries kept by the temple are very important - in bad times a person can get some of the stored grain. This gives a lot of authority to the temple: they can tell the people to work this temple land, it's kind of a common land.
  - The chief can play tricks: they tell us about an example from modern Irak, in our time - but from the same place. The Chief is administrating the land of the religious leader. He gives some grain/money for keeping up the temple, but he can keep the rest for himself. Now this sponsorship also gives the chief some authority: he can now call all the other tribesmen and tell them to work on the land owned by the religious leader. In Hebrew this is called 'a combination' (kombina)
 
 Now the Ubaid culture had a lot of 'soft power' they had could pursuade the northern towns to join their culture, without war! They see that the culture in these northern areas changes from an older culture - the Halaf culture) to the Ubaid culture, again without signs of war and destruction.
 It can be, that people worked for the temple, for the common good of everyone, not because someone forced them to do so!
+
+But I don't understand the following: In the Sumerian and Babylonian culture they had a big problem: People from the mountains, who don't live in cities would make war against them. One can gain a lot by attacking cities, you can get a lot of stuff from looting the cities. If this is true, then they would need to have a big army, and there would be a chance of defeat, meaning layers of destruction. A big army would mean that they could force people to do stuff against their will - meaning despotism would be a thing.
 
 In any case, we know much more about the next culture, the Sumerians. That's because the Sumerians learned how to write! We have to guess less with the Sumerian culture, because the Sumerian culture has it's own voice - the things they wrote down.
 Also cities got ten times bigger - the city of Uruk had some fifty thousand people, they had to get ten times more food for them!
