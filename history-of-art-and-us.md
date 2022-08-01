@@ -484,7 +484,7 @@ Noam Chomsky is a linguist - a scientist who studies language. He says that we l
 He says that some kind of general grammar rules are built right into our brains, and that this explains why we are learning so fast.
 
 He also says that language developed suddenly, as a kind of mutation. 
-A friend of mine, who is very religious actually likes this - he says that this similar to the Bible and how God created man in seven days!
+A friend of mine, who is very religious actually likes this - he says that this similar to the Bible and how God created language, all of a sudden!
 (all that despite the fact that Noam Chomsky doesn't believe in God at all)
 What i learn from this is that there are very different kind of ways on how to look at things!
 
