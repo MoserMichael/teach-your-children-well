@@ -1267,3 +1267,176 @@ The song is written about the Indians in America. I think that the song is also 
 
 .. and you won't hear that song in a "Toy Story" movie either ...
 
+----
+
+A short short break: let's talk about digital signatures. That's a bit like the method of signing a clay jar with a cylinder seal.
+There is a difference: our digital signatures are using math and is using a computer.
+But there is a common thing: they both try to solve the problem of trust by means of technology. 
+And that's a very old problem, people thought about it some six or seven thousand years ago!
+
+![](media/cylinder-seal-form.jpeg)
+
+Digital certificates are used in all sort of things: Digital money like bitcoin and ethereal, voting system, you are also using that when you buy stuff online!
+
+Let's first talk about encryption and decryption:
+
+In simple systems you are using the same key for encrypting and decrypting a message.
+Let's say you use a substitution cipher - the key is the way how you swap letters: 
+for example swap A with the letter Z, B with the letter Y, C with the letter X, and so on.
+Now the same method/key is used to decrypt the message. 
+That has a problem: if you have caught the guy who has encrypted the message, then you can beat him with a stick and force him to tell you how to read this message, and all other messages that were encrypted in the same way! 
+This method has a name, it is called rubber-hose cryptanalysis (a rubber-hose is a hard stick made of rubber, that hurts a lot!) : https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
+
+That's why they invented asymmetric encryption - here you have two totally different keys, one is used for encryption, and the other is used for decryption.
+One of the keys is public - everyone can know them, the other one is privet - it is a big secret.
+
+Now lets create such a pair of keys with the openssl program, from the command prompt. (here they tell you haw to install it on windows: hhttps://wiki.openssl.org/index.php/Binaries )
+
+This command is creating the private key (and the public key) - it puts them into file ```privkey-ID.pem```
+This private key file is your cylinder seal, your digital identity, your preccccious ring.
+
+```
+openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:2048  -out privkey-ID.pem -text
+```
+
+Lets look at the parts of this command, each part has something to say:
+
+```
+openssl - that's the name of the program that does cyptogrphic stuff
+genpkey  - that's the name of the action, we want to create a private key
+-algorithm RSA - tells what kind of key is created, by the RSA algorithm
+-pkeyopt rsa_keygen_bits:2048  - tells you that the private key will have 2048 bits (the more bits there are in the key, the harder it is to break the encrypted message)
+```
+
+Now lets get the public key with the following command. The public key will be in file ```pubkey-ID.pem ```  You can give the public key to everyone, who needs to interact wiht your digitial identity.
+
+```
+openssl pkey -in privkey-ID.pem -out pubkey-ID.pem -pubout
+```
+
+Lets look at the parts of this command, each part has something to say:
+
+```
+openssl - that's the name of the program that does cyptogrphic stuff
+pkey - we want to do do something with the private/public key
+-in privkey-ID.pem  - the output file, it will the the private ke
+-pubout - show the public key part
+```
+
+Now let's use the public key to encrypt the message - you give this public key to everyone who can send a message to you. If they catch him, then they can't get the other part that is needed to decrypt other messages that were encrypted with the same key!
+
+let make a text file with a secret message - and put the text into the file ```message_to_send.txt```
+
+```
+echo "Attack at dawn" >message_to_send.txt
+```
+
+Now let's encrypt the file with the public key!
+
+```
+openssl rsautl -encrypt -inkey pubkey-ID.pem -pubin -in message_to_send.txt -out encrypted.bin
+```
+
+The encrypted file is something binary, no way to know what it means, without the private key (the decryption key)
+
+
+That's a hexadecimal dump, it shows what is in a binary file, which is not text:
+
+```
+hexdump -C encrypted.bin
+00000000  b8 c9 e1 00 c5 c7 22 7b  b5 e3 91 80 94 e7 be be  |......"{........|
+00000010  41 41 3a df 96 97 1b 69  90 bc b7 94 af 41 af c7  |AA:....i.....A..|
+00000020  07 97 5b 42 bd c4 18 f2  3b 78 fd 92 12 a5 2f a9  |..[B....;x..../.|
+00000030  69 45 42 d3 26 0b d4 58  5b 29 16 e0 35 c1 a5 92  |iEB.&..X[)..5...|
+00000040  bf 25 7e 3c 6d 4f 03 ea  11 65 90 db 0d fd be f1  |.%~<mO...e......|
+00000050  c6 12 97 9d 16 ac c0 52  30 25 b7 46 d7 21 03 59  |.......R0%.F.!.Y|
+00000060  bc 31 5a 0e 91 ff 63 db  e5 0d 04 07 a8 90 5d 1b  |.1Z...c.......].|
+00000070  67 64 11 de d0 d3 c1 80  db 7c 45 c1 b8 cf ec 99  |gd.......|E.....|
+00000080  39 fc 33 39 90 1d 94 5b  dc ce 53 49 2f 95 74 82  |9.39...[..SI/.t.|
+00000090  ba e3 26 d0 cc b6 20 51  63 7d 39 7f 77 e6 44 c2  |..&... Qc}9.w.D.|
+000000a0  dd d7 a0 7a 0b 19 67 29  d1 5a cd 3a b2 f1 75 39  |...z..g).Z.:..u9|
+000000b0  f5 fb 92 b5 fc 0f 29 0d  09 e7 70 35 c3 72 11 99  |......)...p5.r..|
+000000c0  13 b0 d9 02 a1 df 40 95  79 d2 45 c5 4f 36 68 8c  |......@.y.E.O6h.|
+000000d0  a0 4b 60 25 40 09 c4 cd  66 8d c5 2d e2 f6 cd bc  |.K`%@...f..-....|
+000000e0  39 f1 58 1b 87 f9 9e b4  41 fc 37 78 70 ae 70 5e  |9.X.....A.7xp.p^|
+000000f0  a2 a1 55 bb 01 29 71 0b  03 a1 c2 89 dd 27 fb 1a  |..U..)q......'..|
+00000100
+
+```
+
+Now let's decrypt the thing with the private key, only those who have it can decrypt and read the original message!
+
+```
+openssl rsautl -decrypt -inkey privkey-ID.pem  -in encrypted.bin
+lets attack at dawn
+```
+
+Now lets create a Digital signature: let's say that I have a picture of me: me.jpeg - I wan't to say that this is my picture, not a fake one.
+
+Now I take my picture as input (file ```me.jpeg```) and use the private key (file privkey-ID.pem) - that's my digital cylinder seal, to create the digital signature ```sign.sha256``` 
+The digital signitare is a file. It prooves that the image my image, it's like an imprint of the cylinder seal
+
+The signature is in the file ```sign.sha256```
+
+```
+openssl dgst -sha256 -sign privkey-ID.pem  -out sign.sha256 me.jpeg
+```
+
+What happened behind the scenes? 
+
+First we take the picture file ```me.jpeg``` as create a number that stands for the image.
+
+here we create a sha512 digest of the text 123456 - the result is a number that is 1024 bits long (that's 128 bytes 1024/8=128 )
+
+```
+echo '123456' | openssl dgst -sha512
+1caced6fca2237153d65adfb0f3dbe33b9375e9eb6df17c379f80cd37deb6e6a70159c7e898576db568b871ca1c2ffd1a2cc3205f1b50be5396096335fc29c40
+```
+
+Now we just add the digit 7 to the text, and we get a totally different value!
+
+```
+echo '1234567' | openssl dgst -sha512
+a6e0dd4375374d5a37c8395d86e6e0b4baa8ba56da30a7193a6eea4022855477fdf90ee00685ef57f134a649fc2ac08e712fc525e975ce23a88ba0ef0f0d742e
+```
+
+This is done on purpose: you have a very very small chance, that two different input files will result in the same number!
+You can learn more about message digests in this video: https://www.youtube.com/watch?v=DMtFhACPnTY (also Computerphile is a nice channel for learning about computers! https://www.youtube.com/user/Computerphile )
+
+
+The second step is that this large number is encrypted with your precious private key (the cylinder seal) to produce the digital certificate as a result (the imprint of the cylinder seal on the clay tablet)
+This step makes sure, that no one has changed this number, you will see why this is needed.
+Note the difference - we encrypt with the private key (our big secrect), previously we encrypted with the public key! 
+That's because we want everyone to check on us, they can do that only with the public key.
+
+Everyone who has both the picture and the public key can now check, if the picture was signed by me (only I have the private key)
+
+They 
+- first decrypt the digest with the public key, so they have the original digest.
+- they also compute the digest from the picture
+- if these two values match, then the picture was signed by me!
+
+In one step that is:
+
+```
+openssl dgst -sha256 -verify pubkey-ID.pem -signature sign.sha256 me.jpeg
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
