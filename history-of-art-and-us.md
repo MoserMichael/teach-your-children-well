@@ -1270,7 +1270,7 @@ The song is written about the Indians in America. I think that the song is also 
 ----
 
 A short short break: let's talk about digital signatures. That's a bit like the method of signing a clay jar with a cylinder seal.
-There is a difference: our digital signatures are using math and is using a computer.
+There is a difference: our digital signatures are using math and are using a computer.
 But there is a common thing: they both try to solve the problem of trust by means of technology. 
 The problem is: here is a message. Now I am sending this message to someone else who is far away. Now how can he know, that this message is from me?
 And that's a very old problem, people thought about it some six or seven thousand years ago, that's before the invention of writing!
