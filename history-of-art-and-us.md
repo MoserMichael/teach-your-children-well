@@ -1285,8 +1285,8 @@ In simple systems you are using the same key for encrypting and decrypting a mes
 Let's say you use a substitution cipher - the key is the way how you swap letters: 
 for example swap A with the letter Z, B with the letter Y, C with the letter X, and so on.
 Now the same method/key is used to decrypt the message. 
-That has a problem: if you have caught the guy who has encrypted the message, then you can beat him with a stick and force him to tell you how to read this message, and all other messages that were encrypted in the same way! 
-This method has a name, it is called rubber-hose cryptanalysis (a rubber-hose is a hard stick made of rubber, that hurts a lot!) : https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
+That has a problem: if you have caught the guy who has encrypted the message, then you can beat him with a stick and force him to tell you the key. Now you can read this message, and all other messages that were encrypted in the same way! 
+This method has a name, it is called rubber-hose cryptanalysis, because you beat the information out with a stick. (a rubber-hose is a hard stick made of rubber, that one hurts a lot!) : https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
 
 That's why they invented asymmetric encryption - here you have two totally different keys, one is used for encryption, and the other is used for decryption.
 One of the keys is public - everyone can know them, the other one is privet - it is a big secret.
