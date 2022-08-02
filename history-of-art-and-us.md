@@ -1294,7 +1294,7 @@ One of the keys is public - everyone can know them, the other one is private - i
 Now lets create such a pair of keys with the openssl program, from the command prompt. (here they tell you haw to install it on windows: hhttps://wiki.openssl.org/index.php/Binaries )
 
 This command is creating the private key (and the public key) - it puts them into file ```privkey-ID.pem```
-This private key file is your cylinder seal, your digital identity, your preccccious ring.
+This private key file is your cylinder seal, your digital identity, your preccccious ring. You keep it just for yourself!
 
 ```
 openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:2048  -out privkey-ID.pem -text
