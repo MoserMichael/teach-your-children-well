@@ -1277,7 +1277,7 @@ And that's a very old problem, people thought about it some six or seven thousan
 
 ![](media/cylinder-seal-form.jpeg)
 
-Digital certificates are used in all sort of things: Digital money like bitcoin and ethereal, voting system, you are also using that when you buy stuff online!
+Digital certificates are used in all sort of things: Digital money like bitcoin and ethereum, voting system, you are also using that when you buy stuff online!
 
 Let's first talk about encryption and decryption:
 
