@@ -1289,7 +1289,7 @@ That has a problem: if you have caught the guy who has encrypted the message, th
 This method has a name, it is called rubber-hose cryptanalysis, because you beat the information out with a stick. (a rubber-hose is a hard stick made of rubber, that one hurts a lot!) : https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis
 
 That's why they invented asymmetric encryption - here you have two totally different keys, one is used for encryption, and the other is used for decryption.
-One of the keys is public - everyone can know them, the other one is privet - it is a big secret.
+One of the keys is public - everyone can know them, the other one is private - it is a big secret.
 
 Now lets create such a pair of keys with the openssl program, from the command prompt. (here they tell you haw to install it on windows: hhttps://wiki.openssl.org/index.php/Binaries )
 
@@ -1309,7 +1309,7 @@ genpkey  - that's the name of the action, we want to create a private key
 -pkeyopt rsa_keygen_bits:2048  - tells you that the private key will have 2048 bits (the more bits there are in the key, the harder it is to break the encrypted message)
 ```
 
-Now lets get the public key with the following command. The public key will be in file ```pubkey-ID.pem ```  You can give the public key to everyone, who needs to interact wiht your digitial identity.
+Now lets get the public key with the following command. The public key will be in file ```pubkey-ID.pem ```  You can give the public key to everyone, who needs to interact with your digitial identity.
 
 ```
 openssl pkey -in privkey-ID.pem -out pubkey-ID.pem -pubout
@@ -1365,7 +1365,7 @@ hexdump -C encrypted.bin
 
 ```
 
-Now let's decrypt the thing with the private key, only those who have it can decrypt and read the original message!
+Now let's decrypt the thing with the private key, only I can decrypt and read the original message, as I didn't give the private key to anyone else!
 
 ```
 openssl rsautl -decrypt -inkey privkey-ID.pem  -in encrypted.bin
@@ -1375,9 +1375,9 @@ lets attack at dawn
 Now lets create a Digital signature: let's say that I have a picture of me: me.jpeg - I wan't to say that this is my picture, not a fake one.
 
 Now I take my picture as input (file ```me.jpeg```) and use the private key (file privkey-ID.pem) - that's my digital cylinder seal, to create the digital signature ```sign.sha256``` 
-The digital signitare is a file. It prooves that the image my image, it's like an imprint of the cylinder seal
+The digital signature is a file. It proves that the image my image, it's like an imprint of the cylinder seal
 
-The signature is in the file ```sign.sha256```
+The resulting signature is in the file ```sign.sha256```
 
 ```
 openssl dgst -sha256 -sign privkey-ID.pem  -out sign.sha256 me.jpeg
@@ -1387,14 +1387,16 @@ What happened behind the scenes?
 
 First we take the picture file ```me.jpeg``` as create a number that stands for the image.
 
-here we create a sha512 digest of the text 123456 - the result is a number that is 1024 bits long (that's 128 bytes 1024/8=128 )
+An example:
+
+here we create a sha512 digest of the text `123456` - the result is a number that is 1024 bits long (that's 128 bytes 1024/8=128 )
 
 ```
 echo '123456' | openssl dgst -sha512
 1caced6fca2237153d65adfb0f3dbe33b9375e9eb6df17c379f80cd37deb6e6a70159c7e898576db568b871ca1c2ffd1a2cc3205f1b50be5396096335fc29c40
 ```
 
-Now we just add the digit 7 to the text, and we get a totally different value!
+Now we just add the digit 7 to the text, and we get a totally different value of the digest!
 
 ```
 echo '1234567' | openssl dgst -sha512
@@ -1407,22 +1409,23 @@ You can learn more about message digests in this video: https://www.youtube.com/
 
 The second step is that this large number is encrypted with your precious private key (the cylinder seal) to produce the digital certificate as a result (the imprint of the cylinder seal on the clay tablet)
 This step makes sure, that no one has changed this number, you will see why this is needed.
-Note the difference - we encrypt with the private key (our big secrect), previously we encrypted with the public key! 
-That's because we want everyone to check on us, they can do that only with the public key.
+Note the difference - we encrypt with the private key (our big secret), previously we encrypted with the public key! 
+That's because we want everyone to check on us, they can only do that with the public key.
 
 Everyone who has both the picture and the public key can now check, if the picture was signed by me (only I have the private key)
 
-They 
-- first decrypt the digest with the public key, so they have the original digest.
+Here is the steps they have to do: 
+- first decrypt the encrypted digest with the public key, so they have the original digest. Now they can be sure that no one changed this number!
 - they also compute the digest from the picture
 - if these two values match, then the picture was signed by me!
 
-In one step that is:
+That is called 'verification of a signature', it is done in one step:
 
 ```
 openssl dgst -sha256 -verify pubkey-ID.pem -signature sign.sha256 me.jpeg
 ```
 
+Now we have learned about something completely different. Isn't that cool?
 
 
 
