@@ -31,7 +31,7 @@ show_divisors()
 
 print("""
 ===
-This program shows each number betweeen 1..100 and it's divisors, The output is sorted by the number of divisors.
+This program shows each number between 1..100 and it's divisors, The output is sorted by the number of divisors.
 
 60 - the smallest number between 1..100 with 10 divisors
 100 - has only 7 divisors.
