@@ -1477,7 +1477,7 @@ However we seem to have more works of art from Egypt - they have built some grea
 
 Some common things between Egypt and Mesopotamia: things start to get big. Cities get ten times larger than in the previous age - tens of thousand or even hundreds of thousand of people life in Ur - in Mesopotamia, and in Thebes - the big city of lower Egypt.
 
-The city of Ur may have looked like this, the big temple/ziggurat is at the center.
+The city of Ur may have looked like this, the big temple/ziggurat is at the center. That may be the place where Abraham broke the idols!
 
 ![](media/ziggurat-ur.jpg)
 
