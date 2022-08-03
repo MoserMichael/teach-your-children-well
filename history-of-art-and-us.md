@@ -1447,7 +1447,7 @@ However the Sumerians and Egyptians didn't start from zero - they continued with
 
 Both cultures invented their own form of writing, so now these cultures have their own voice, we also know a lot more about these cultures!
 
-Mesopotamians scrateched signs on clay tablets 
+Mesopotamians scratched signs on clay tablets 
 
 Here is the sign for head - first it looked like a drawing, in later times it got more abstract, but it got easier to write down!
 
