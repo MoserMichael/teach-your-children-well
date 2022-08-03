@@ -1428,6 +1428,75 @@ openssl dgst -sha256 -verify pubkey-ID.pem -signature sign.sha256 me.jpeg
 Now we have learned about something completely different. Isn't that cool?
 
 
+---03/08/22 00:47:25----------------------
+
+What happened after the 5.9 kiloyear event, when the weather was bad for a hundred years? https://en.wikipedia.org/wiki/Bond_event#5.9_kiloyear_event 
+
+Africa had some big changes: the Sahara used to be a green place with lots of grass and animals - then it turned into a dessert. People who lived in the Sahara had to go to to other places - some of them go to the Nile river, with lots of water. That's were we have Egypt. https://en.wikipedia.org/wiki/African_humid_period
+
+Some of the art from the Sahara looks similar to early Egyptian art - from the time of the early Pharaos! 
+
+![](media/egypt-art.png) https://youtu.be/GtFiVcU6THw?t=631
+
+But other scientists say, that Egypt got many ideas from Mesopotamia/middle east.
+
+The next season of civilization starts a few hundred years later, that was about 5300 years ago, and it goes on until 4200 years ago https://en.wikipedia.org/wiki/4.2-kiloyear_event 
+
+Now you get the Sumerian culture in Mesopotamia, and in Egypt we get the Old Kingdom - the age of the first Pharaos, who united Egypt into a single country.
+However the Sumerians and Egyptians didn't start from zero - they continued with the knowledge from the previous season!
+
+Both cultures invented their own form of writing, so now these cultures have their own voice, we also know a lot more about these cultures!
+
+Mesopotamians scrateched signs on clay tablets 
+
+Here is the sign for head - first it looked like a drawing, in later times it got more abstract, but it got easier to write down!
+
+![](media/SAG.svg)
+
+Egypt had hieroglyphs - these were written on papyrus scrolls.
+
+![](media/Rhind_Mathematical_Papyrus.jpeg)
+
+Thats the Rhind Papurus - it's about mathematics https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus
+
+Some interesting facts:
+
+They found a board game from 4500 years ago, luckily they also found the instructions for the game, again on a clay tablet.
+Look at the The Royal game of Ur - looks like fun! https://www.youtube.com/watch?v=WZskjLq040I&t=82s (this link skips the introduction)
+
+They even had a notation of music, notes from some 3400 years ago - also on clay tables
+    https://www.openculture.com/2014/07/the-oldest-song-in-the-world.html
+    Here they played the musics, from these notes! 
+    https://www.youtube.com/watch?v=9c-hmFN610g
+
+King David also made music with a Lyre!
+
+It seems that we have more written texts from Mesopotamia - clay tables can get really hard and survive for a lot of time. Also: if the library with tablets burns down because of a fire, then the tablets become very hard and last longer. Papyrus scrolls are harder to keep that long, also they burn quite well, unfortunately.
+
+However we seem to have more works of art from Egypt - they have built some great monuments in stone, whereas Mesopotamia was building everything out of clay bricks - these don't last for quite as long.
+
+Some common things between Egypt and Mesopotamia: things start to get big. Cities get ten times larger than in the previous age - tens of thousand or even hundreds of thousand of people life in Ur - in Mesopotamia, and in Thebes - the big city of lower Egypt.
+
+The city of Ur may have looked like this, the big temple/ziggurat is at the center.
+
+![](media/ziggurat-ur.jpg)
+
+Egypt had these big pyramids, the big ones were built 4500 years ago. They had free people working there, not slaves - it was a big honor to work at this site. 
+
+![](media/pyramids.jpeg)
+
+You may think it was a waste to build these? Maybe that is not the case.
+Building these huge pyramids may have had the same role as all the other megalithic structures that we see all over the word. Maybe they brought the people of north and south Egypt together. (I think that was very clever: they didn't have these in Mesopotamia - and all city states there were fighting against each other, bitterly)
+
+
+Now any organization has a big problem, when it grows ten times it's size: you can even see that today, with high tech companies.
+The problem is that these companies no longer know how to make decisions: anything that worked when the company was smaller stops working!
+In a small company could make a meeting, where everyone could say something? In a large company there are many more managers, no one can keep track if everybody says something!
+Also look at schools: the teachers have a big problem with very big classes - how do you keep all the kids listening? What happens when someone asks a question? It is much harder to teach in a big class compared to a small class (Now you should value your summer school, where you can ask questions - you never had it so good ;-) )
+
+You see that everything is different, this time. They got a thing called the state, and had to invent laws and other rules - and they had to write them down and keep people who would enforce them!
+
+------
 
 
 
