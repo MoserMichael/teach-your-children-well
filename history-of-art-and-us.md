@@ -1477,6 +1477,15 @@ However we seem to have more works of art from Egypt - they have built some grea
 
 Some common things between Egypt and Mesopotamia: things start to get big. Cities get ten times larger than in the previous age - tens of thousand or even hundreds of thousand of people life in Ur - in Mesopotamia, and in Thebes - the big city of lower Egypt.
 
+Now any organization has a big problem, when it grows ten times it's size: you can even see that today, with high tech companies.
+The problem is that these companies no longer know how to make decisions: anything that worked when the company was smaller stops working!
+In a small company could make a meeting, where everyone could say something? In a large company there are many more managers, no one can keep track if everybody says something!
+Also look at schools: the teachers have a big problem with very big classes - how do you keep all the kids listening? What happens when someone asks a question? It is much harder to teach in a big class compared to a small class (Now you should value your summer school, where you can ask questions - you never had it so good ;-) )
+
+You see that everything is different, this time. They got a thing called the state, and had to invent laws and other rules - and they had to write them down and keep people who would enforce them! That would mean - to check if the rules are followed and to punish everyone who does not follow the rules.
+
+--
+
 The city of Ur may have looked like this, the big temple/ziggurat is at the center. That may be the place where Abraham broke the idols!
 
 ![](media/ziggurat-ur.jpg)
@@ -1494,13 +1503,6 @@ The space race was not only a weapon in the cold war between the USA and the Sov
 Look at any of the TV series for pre-school kids: they all have an episode about Christmas and an episode about going to the moon. Going to space was the same kind of exercise for building a common cultural identity: like Çatalhöyük, Stonehenge, the great Pyramids.
 You need to start with building this at a very young age... Some things seem to be the same, in the words of King Salomon in the Bible: That which has been is that which shall be; and that which has been done is that which shall be done: and there is no new thing under the sun.
 In Hebrew: מַה שֶּׁהָיָה הוּא שֶׁיִּהְיֶה, וּמַה שֶּׁנַּעֲשָׂה הוּא שֶׁיֵּעָשֶׂה, וְאֵין כָּל חָדָשׁ תַּחַת הַשָּׁמֶשׁ.
-
-Now any organization has a big problem, when it grows ten times it's size: you can even see that today, with high tech companies.
-The problem is that these companies no longer know how to make decisions: anything that worked when the company was smaller stops working!
-In a small company could make a meeting, where everyone could say something? In a large company there are many more managers, no one can keep track if everybody says something!
-Also look at schools: the teachers have a big problem with very big classes - how do you keep all the kids listening? What happens when someone asks a question? It is much harder to teach in a big class compared to a small class (Now you should value your summer school, where you can ask questions - you never had it so good ;-) )
-
-You see that everything is different, this time. They got a thing called the state, and had to invent laws and other rules - and they had to write them down and keep people who would enforce them!
 
 ------
 
