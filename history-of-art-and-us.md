@@ -916,7 +916,7 @@ Dolev is asking a question: "Lysenko said that you can change plants by changing
 
 There is a difference between Lamarck and Darwin.
 
-Lamarck said - an organism can learn something - and their offsprings will inherit that. https://en.wikipedia.org/wiki/Lamarckism
+Lamarck said - an organism can learn something - and their kids will have what the parents learned in their life, that their offsprings will inherit what their parents have learned. https://en.wikipedia.org/wiki/Lamarckism
 Darwin says - if you are born with the right traits, and these traits can help you with surviving, then you will give these traits to your kids, and they have a better chance to go on, etc.
 
 The funny thing is: Darwin once thought that Lamarck has point. But that is not true.
