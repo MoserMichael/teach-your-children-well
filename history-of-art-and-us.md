@@ -1500,8 +1500,10 @@ Building these huge pyramids may have had the same role as all the other megalit
 I think you even have that today - look at the space race in the twentieth century. Ask any Russian and any American: Who has send the first man to space? the Russian will answer proudly - that was us! Who has send the first man to the moon - the American will answer proudly: that's us, of course!
 The space race was not only a weapon in the cold war between the USA and the Soviet Union, it was a tool for building a feeling of being "us" and feeling of being part of something bing - a collective identity. 
 
-Look at any of the TV series for pre-school kids: they all have an episode about Christmas and an episode about going to the moon. Going to space was the same kind of exercise for building a common cultural identity: like Çatalhöyük, Stonehenge, the great Pyramids.
-You need to start with building this at a very young age... Some things seem to be the same, in the words of King Salomon in the Bible: That which has been is that which shall be; and that which has been done is that which shall be done: and there is no new thing under the sun.
+Look at any of the TV series for pre-school kids: they all have an episode about Christmas and an episode about going to the moon. 
+You need to start with building this sense of being "us" at a very young age... 
+
+Also: some things seem to be the same, in the words of King Salomon in the Bible: That which has been is that which shall be; and that which has been done is that which shall be done: and there is no new thing under the sun.
 In Hebrew: מַה שֶּׁהָיָה הוּא שֶׁיִּהְיֶה, וּמַה שֶּׁנַּעֲשָׂה הוּא שֶׁיֵּעָשֶׂה, וְאֵין כָּל חָדָשׁ תַּחַת הַשָּׁמֶשׁ.
 
 ------
