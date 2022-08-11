@@ -1508,9 +1508,9 @@ In Hebrew: מַה שֶּׁהָיָה הוּא שֶׁיִּהְיֶה, וּמַה
 
 ------
 
-Europe discovered the old cultures of Egypt and Mesopotamia some two hundred hears ago. That's the time, when Europe entered it's time of big changes - the age of steam and steel. I think that digging up stuff from a very long time ago helped people to understand the big changes in their own life time.
+Europe discovered the old cultures of Egypt and Mesopotamia some two hundred hears ago. That's  when Europe entered it's time of big changes - the age of steam and steel. I think that digging up stuff from a very long time ago helped people to understand the big changes in their own life time, and also the other way round.
 
-The steam engine allowed us to use a lot of energy - at any place. You just need to move the coal and make a fire. The fire heats up a big closed pot with water, the water turns into steam and the steam engine is using that to turn the big wheel around and around!
+The steam engine allowed us to use a lot of energy - at any place. You just need to move the coal and make a fire. The fire heats up a big closed pot with water, the water turns into steam and the steam engine is using that pressure to turn the big wheel around and around!
 
 ![](media/steam-engine.jpeg)
 
@@ -1526,7 +1526,7 @@ Later they used these to build trains, this is a train from around 1870 - it is 
 
 ![](media/DR_22_032.jpg)
 
-That picture is from 1964 - that was six years before I was born. I even travelled on a steam powered train as a kid, in East Germany, in the nineteen eighties. That's not that long long ago - that was just some forty years ago! They already had better engines, but they kept the steam engine for a long long time, as they had a lot of coal at the place.
+That picture is from 1964 - that was six years before I was born. I even travelled on a steam powered train as a kid, in East Germany, in the nineteen eighties. That's not that long ago - that was just some forty years ago! They already had better engines, but they kept the steam engine for a long long time, as they had a lot of coal at the place.
 
 They built some some really big things made out of steel and iron:
 
