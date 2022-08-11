@@ -1522,7 +1522,7 @@ The long sticks at the roof were turning, then this movement was passed to the m
 
 ![](media/7802_Bradley_Manor_Lokomotive.jpg)
 
-Later they used these to build trains, this is a train from around 1870 - it is not the first train.
+Later they used steam engines to build train, this is a train from around 1870 - it is not the first train.
 
 ![](media/DR_22_032.jpg)
 
