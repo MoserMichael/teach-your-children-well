@@ -1546,7 +1546,7 @@ Now take 90-95% copper and 10-5% tin, heat them up with the same fire at the sam
 
 Bronze is much harder than copper or tin, so you can use it to make weapons and tools.
 
-This is a plough from Egypt. They use it to dig up the earth before planting, so that the plants can grow better. It needs a bit of bronze. https://en.wikipedia.org/wiki/Ard_(plough)#History
+This is a plough from Egypt. They use it to dig up the earth before planting, so that the plants can grow better. A plough with a piece of bronze is much better than one made of wood - it can be used for a long time. https://en.wikipedia.org/wiki/Ard_(plough)#History
 ![](media/egypt-ard.jpg)
 
 This is a bronze axe from Egypt
