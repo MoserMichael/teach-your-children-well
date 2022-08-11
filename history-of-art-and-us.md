@@ -835,7 +835,7 @@ She is asking an interesting question: do people think the same in all languages
 
 Dolev is asking a question: But they could see the moon at night, why do they feel bad when they don't see the sun?
 
-That's right! But with the sun there is something that you can know for sure: is in the morning it is in the east, and in the evening it is in the west.
+That's right! But with the sun there is something that you can know for sure: in the morning it is in the east, and in the evening it is in the west.
 But the moon is walking around the sky in complicated ways, and it is more difficult to tell the direction by looking at the moon.
 People who life in Europe have the northern star - you can find a star that is always in the north, but the sky to the south of the equator is looking very different, i am not sure if they have such a star in Australia. 
 Also Professor Boroditsky says that the concept of time is also connected to where the sun is - at least for the Kuuk Thaayorre people.
