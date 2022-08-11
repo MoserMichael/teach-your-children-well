@@ -1526,7 +1526,7 @@ Later they used these to build trains, this is a train from around 1870 - it is 
 
 ![](media/DR_22_032.jpg)
 
-that picture is from 1964 - that was six years before I was born. I even travelled on a steam powered train as a kid, in East Germany, in the nineteen seventies. That's not long that long ago - that was just some forty years ago! They kept the steam engine for a long time, as they had a lot of coal at the place.
+that picture is from 1964 - that was six years before I was born. I even travelled on a steam powered train as a kid, in East Germany, in the nineteen eighties. That's not long that long ago - that was just some forty years ago! They kept the steam engine for a long time, as they had a lot of coal at the place.
 
 And you some really big things made out of steel and iron:
 
