@@ -1510,11 +1510,11 @@ In Hebrew: מַה שֶּׁהָיָה הוּא שֶׁיִּהְיֶה, וּמַה
 
 Europe discovered the old cultures of Egypt and Mesopotamia some two hundred hears ago. That's the time, when Europe entered it's time of big changes - the age of steam and steel. I think that digging up stuff from very a very long time ago helped people to understand the big changes in their own life time.
 
-The steam engine allowed us to use a lot of energy - at any place. You just need to move the coal and make a fire. The fire heats up a big pot with water, the water turns into steam and the steam engine turns that into movement!
+The steam engine allowed us to use a lot of energy - at any place. You just need to move the coal and make a fire. The fire heats up a big closed pot with water, the water turns into steam and the steam engine is using that to turn the big wheel around and around!
 
 ![](media/steam-engine.jpeg)
 
-This power was first used to drive machines that help with making clothes
+This power was first used to drive machines for making clothes
 
 ![](media/line-shaft-steam.jpg)
 
@@ -1522,11 +1522,11 @@ The long sticks at the roof were turning, then this movement was passed to the m
 
 ![](media/7802_Bradley_Manor_Lokomotive.jpg)
 
-Later they used these to build trains, I even travelled on a steam powered train as a kid, in East Germany, in the nineteen eightees. That's not long that long ago - that was just some fourty years ago! They kept the steam engine for a long time, as they had a lot of coal at the place.
+Later they used these to build trains, this is a train from around 1870 - it is not the first train.
 
 ![](media/DR_22_032.jpg)
 
-that picture is from 1964 - that was six years before I was born.
+that picture is from 1964 - that was six years before I was born. I even travelled on a steam powered train as a kid, in East Germany, in the nineteen seventies. That's not long that long ago - that was just some forty years ago! They kept the steam engine for a long time, as they had a lot of coal at the place.
 
 And you some really big things made out of steel and iron:
 
@@ -1538,12 +1538,12 @@ Like the Eiffel tower
 
 Or the Brooklyn Bridge in New York
 
-Back to five thousand years ago: the big changes came because of a new material Bronze:
+Back to five thousand years ago: the big changes came because of a new material called Bronze:
 
 We already talked about copper, that is a metal, and it is a bit soft.
 There is another metal - tin, it is much softer than copper.
 Now take 90-95% copper and 10-5% tin, heat them up with the same fire at the same place, and you get a new material - bronze.
-Bronze is much harder than copper, so you can make weapons with it.
+Bronze is much harder than copper, so you can use it to make weapons and tools.
 
 This is a bronze axe from Egypt
 ![](media/Egypt-bronze-age-axe.jpg)
