@@ -1526,13 +1526,13 @@ Later they used these to build trains, this is a train from around 1870 - it is 
 
 ![](media/DR_22_032.jpg)
 
-that picture is from 1964 - that was six years before I was born. I even travelled on a steam powered train as a kid, in East Germany, in the nineteen eighties. That's not that long long ago - that was just some forty years ago! They already had better engines, but they kept the steam engine for a long long time, as they had a lot of coal at the place.
+That picture is from 1964 - that was six years before I was born. I even travelled on a steam powered train as a kid, in East Germany, in the nineteen eighties. That's not that long long ago - that was just some forty years ago! They already had better engines, but they kept the steam engine for a long long time, as they had a lot of coal at the place.
 
-And you some really big things made out of steel and iron:
+They built some some really big things made out of steel and iron:
 
 ![](media/Caricature_Gustave_Eiffel.png)
 
-Like the Eiffel tower in 1889
+Like the Eiffel tower in 1889, the tower is much bigger than the pyramids!
 
 ![](media/Brooklyn_Bridge_Manhattan.jpg)
 
@@ -1567,9 +1567,14 @@ You can also get copper in Cyprus - in Greece, or in Turkey - at the Taurus moun
 
 Now finding tin is a big problem - there is less of it, and you need to go to much longer distances in order to find tin. You need to go to the mountains of Afghanistan, Spain, Turkey, England - they found Cooper from England in far away Mesopotamia!
 
-So you need to have a big system for organizing the trading at long distances - you need to make stuff to give people in far away places that they want, so as to get tin in return. You need big ships to move over the sea and caravans to move the stuff through deserts, you need to get the money for all this, somehow, you need to make sure that no one will take all this from you, while you are travelling. You need even more details for all this to work! 
+So you need to have a big system for organizing this trading over long distances: you need to make stuff to give people in far away places, stuff that they want, so as to get the tin in return. You need big ships to move over the sea and caravans to move the stuff through deserts, you need to get the money for all this, somehow, you need to make sure that no one will take all this from you, while you are travelling. You need even more details for all this to work! 
 
-A system is like a big machine - you need a lot of parts that work together. 
+They found a lot of stuff under the see, near Turkey https://en.wikipedia.org/wiki/Uluburun_shipwreck
+It comes from a ship that sank in a storm. The museum in the city of Bodrum tries to show you how this ship looked like:
+
+![](media/Turkey-Bodrum-shipwreck.jpg)
+
+You can't have all this trading at long distances without a big system. A system is like a big machine - you need a lot of parts that work together. 
 
 
 
