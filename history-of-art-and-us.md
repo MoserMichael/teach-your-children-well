@@ -1510,7 +1510,7 @@ In Hebrew: מַה שֶּׁהָיָה הוּא שֶׁיִּהְיֶה, וּמַה
 
 Europe discovered the old cultures of Egypt and Mesopotamia some two hundred hears ago. That's the time, when Europe entered it's time of big changes - the age of steam and steel. I think that digging up stuff from very a very long time ago helped people to understand the big changes in their own life time.
 
-The steam engine allowed us to use a lot of energy - at any place. You just need to move the coal and make a fire - the steam engine will turn that into movement!
+The steam engine allowed us to use a lot of energy - at any place. You just need to move the coal and make a fire. The fire heats up a big pot with water, the water turns into steam and the steam engine turns that into movement!
 
 ![](media/steam-engine.jpeg)
 
@@ -1528,7 +1528,7 @@ Later they used these to build trains, I even travelled on a steam powered train
 
 that picture is from 1964 - that was six years before I was born.
 
-Amd you some really big things made out of steel and iron:
+And you some really big things made out of steel and iron:
 
 ![](media/Caricature_Gustave_Eiffel.png)
 
