@@ -1508,7 +1508,7 @@ In Hebrew: מַה שֶּׁהָיָה הוּא שֶׁיִּהְיֶה, וּמַה
 
 ------
 
-Europe discovered the old cultures of Egypt and Mesopotamia some two hundred hears ago. That's the time, when Europe entered it's time of big changes - the age of steam and steel. I think that digging up stuff from very a very long time ago helped people to understand the big changes in their own life time.
+Europe discovered the old cultures of Egypt and Mesopotamia some two hundred hears ago. That's the time, when Europe entered it's time of big changes - the age of steam and steel. I think that digging up stuff from a very long time ago helped people to understand the big changes in their own life time.
 
 The steam engine allowed us to use a lot of energy - at any place. You just need to move the coal and make a fire. The fire heats up a big closed pot with water, the water turns into steam and the steam engine is using that to turn the big wheel around and around!
 
@@ -1542,8 +1542,12 @@ Back to five thousand years ago: the big changes came because of a new material 
 
 We already talked about copper, that is a metal, and it is a bit soft.
 There is another metal - tin, it is much softer than copper.
-Now take 90-95% copper and 10-5% tin, heat them up with the same fire at the same place, and you get a new material - bronze.
-Bronze is much harder than copper, so you can use it to make weapons and tools.
+Now take 90-95% copper and 10-5% tin, heat them up with the same fire at the same place, and the two become liquid and mix. Then wait until this mixture gets colder, so that it turns hard again. Now you get a new material - bronze.
+
+Bronze is much harder than copper or tin, so you can use it to make weapons and tools.
+
+This is a plough from Egypt. They use it to dig up the earth before planting, so that the plants can grow better. It needs a bit of bronze. https://en.wikipedia.org/wiki/Ard_(plough)#History
+![](media/egypt-ard.jpg)
 
 This is a bronze axe from Egypt
 ![](media/Egypt-bronze-age-axe.jpg)
@@ -1558,12 +1562,12 @@ And these are bronze swords from Greece
 And they could kill people at a distance, with bows and arrows. The arrows must have a arrow head made of bronze. This picture is from the kingdom of Akkadia, in northern Iraq.
 
 The big deal is to get these metals - you need to travel a lot.
-You can dig up copper from under the ground in some places. You can find it in Timna, in Israel https://en.wikipedia.org/wiki/Timna_Valley#Copper_mining - some 9000 years ago they were digging up copper at that place!
-or in Cyprus - in Greece, or in Turkey - at the Taurus mountains.
+You can dig up copper from under the ground in some places. You can find it in Timna, in Israel https://en.wikipedia.org/wiki/Timna_Valley#Copper_mining - some 9000 years ago they were already digging up copper at that place!
+You can also get copper in Cyprus - in Greece, or in Turkey - at the Taurus mountains, and in other places.
 
-Now finding tin is a big problem - you find less of it, and you need to for much longer distances to find tin. You need to go to the mountains of Afghanistan, Spain, Turkey, England - they found Cooper from England in far away Mesopotamia!
+Now finding tin is a big problem - there is less of it, and you need to go to much longer distances in order to find tin. You need to go to the mountains of Afghanistan, Spain, Turkey, England - they found Cooper from England in far away Mesopotamia!
 
-So you need to have a big system for organizing the trading at long distances - you need to make stuff for trading, you need big ships to move over the sea and caravans to move the stuff through deserts, you need to get the money for all this, somehow, you need even more details for all this to work! 
+So you need to have a big system for organizing the trading at long distances - you need to make stuff to give people in far away places that they want, so as to get tin in return. You need big ships to move over the sea and caravans to move the stuff through deserts, you need to get the money for all this, somehow, you need to make sure that no one will take all this from you, while you are travelling. You need even more details for all this to work! 
 
 A system is like a big machine - you need a lot of parts that work together. 
 
