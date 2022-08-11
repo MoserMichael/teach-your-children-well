@@ -1532,11 +1532,11 @@ And you some really big things made out of steel and iron:
 
 ![](media/Caricature_Gustave_Eiffel.png)
 
-Like the Eiffel tower
+Like the Eiffel tower in 1889
 
 ![](media/Brooklyn_Bridge_Manhattan.jpg)
 
-Or the Brooklyn Bridge in New York
+Or the Brooklyn Bridge in New York - built in 1883
 
 Back to five thousand years ago: the big changes came because of a new material called Bronze:
 
