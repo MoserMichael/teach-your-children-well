@@ -1565,7 +1565,7 @@ The big deal is to get these metals - you need to travel a lot.
 You can dig up copper from under the ground in some places. You can find it in Timna, in Israel https://en.wikipedia.org/wiki/Timna_Valley#Copper_mining - some 9000 years ago they were already digging up copper at that place!
 You can also get copper in Cyprus - in Greece, or in Turkey - at the Taurus mountains, and in other places.
 
-Now finding tin is a big problem - there is less of it, and you need to go to much longer distances in order to find tin. You need to go to the mountains of Afghanistan, Spain, Turkey, England - they found Cooper from England in far away Mesopotamia!
+Now finding tin is a big problem - there is less of it, and you need to go to much longer distances in order to find tin. You need to go to the mountains of Afghanistan, Spain, Turkey, England - they found tin from England in far away Mesopotamia!
 
 So you need to have a big system for organizing this trading over long distances: you need to make stuff to give people in far away places, stuff that they want, so as to get the tin in return. You need big ships to move over the sea and caravans to move the stuff through deserts, you need to get the money for all this, somehow, you need to make sure that no one will take all this from you, while you are travelling. You need even more details for all this to work! 
 
