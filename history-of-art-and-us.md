@@ -1508,9 +1508,9 @@ In Hebrew: מַה שֶּׁהָיָה הוּא שֶׁיִּהְיֶה, וּמַה
 
 ------
 
-Europe discovered the old cultures of Egypt and Mesopotamia some two hundred hears ago. That's  when Europe entered it's time of big changes - the age of steam and steel. I think that digging up stuff from a very long time ago helped people to understand the big changes in their own life time, and also the other way round.
+Europe discovered the old cultures of Egypt and Mesopotamia some two hundred hears ago. That's  when Europe entered it's time of big changes - the age of steam and steel. I think that digging up stuff from a very long time ago helped people to understand the big changes in their own life time.
 
-The steam engine allowed us to use a lot of energy - at any place. You just need to move the coal and make a fire. The fire heats up a big closed pot with water, the water turns into steam and the steam engine is using that pressure to turn the big wheel around and around!
+The steam engine allowed us to use a lot of energy. You just need to move the coal and make a fire. The fire heats up a big closed pot with water, the water turns into steam and the steam engine is using that pressure to turn the big wheel around and around!
 
 ![](media/steam-engine.jpeg)
 
@@ -1526,7 +1526,7 @@ Later they used steam engines to build train, this is a train from around 1870 -
 
 ![](media/DR_22_032.jpg)
 
-That picture is from 1964 - that was six years before I was born. I even travelled on a steam powered train as a kid, in East Germany, in the nineteen eighties. That's not that long ago - that was just some forty years ago! They already had better engines, but they kept the steam engine for a long long time, as they had a lot of coal at the place.
+That picture is from 1964 - that was six years before I was born. I even travelled on a steam powered train as a kid, in East Germany, in the nineteen eighties. That's not that long ago - that was just some forty years ago! They already had better engines, but they kept the steam engine for a long long time, as they had a lot of coal at the place. (just like in "Thomas & Friends")
 
 They built some some really big things made out of steel and iron:
 
@@ -1562,12 +1562,12 @@ And these are bronze swords from Greece
 And they could kill people at a distance, with bows and arrows. The arrows must have a arrow head made of bronze. This picture is from the kingdom of Akkadia, in northern Iraq.
 
 The big deal is to get these metals - you need to travel a lot.
-You can dig up copper from under the ground in some places. You can find it in Timna, in Israel https://en.wikipedia.org/wiki/Timna_Valley#Copper_mining - some 9000 years ago they were already digging up copper at that place!
+You can dig up copper from under the ground in many places places. You can find it in Timna, in Israel https://en.wikipedia.org/wiki/Timna_Valley#Copper_mining - some 9000 years ago they were already digging up copper at that place!
 You can also get copper in Cyprus - in Greece, or in Turkey - at the Taurus mountains, and in other places.
 
-Now finding tin is a big problem - there is less of it, and you need to go to much longer distances in order to find tin. You need to go to the mountains of Afghanistan, Spain, Turkey, England - they found tin from England in far away Mesopotamia!
+Now finding tin is a bigger problem - there is less of it, and you need to go to much longer distances in order to find tin. You need to go to the mountains of Afghanistan, Spain, Turkey, England - they found tin from England in a sword from Mesopotamia, one that was made thousands of years ago!
 
-So you need to have a big system for organizing this trading over long distances: you need to make stuff to give people in far away places, stuff that they want, so as to get the tin in return. You need big ships to move over the sea and caravans to move the stuff through deserts, you need to get the money for all this, somehow, you need to make sure that no one will take all this from you, while you are travelling. You need even more details for all this to work! 
+So you need to have a big system for organizing trade over long distances: you need to make stuff that you can give people in far away places, stuff that they want - so that they will give you the tin in return. You need big ships to move over the sea and caravans to move the stuff through deserts, you need to get the money for all this, somehow, you need to make sure that no one will take this expensive stuff from you, while you are travelling. You need even more details for all this to work! 
 
 They found a lot of stuff under the see, near Turkey https://en.wikipedia.org/wiki/Uluburun_shipwreck
 It comes from a ship that sank in a storm. The museum in the city of Bodrum tries to show you how this ship looked like:
