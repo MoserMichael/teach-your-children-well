@@ -548,12 +548,12 @@ Now people had more time, as they didn't have to hunt and gather all day! Huntin
 
 You see interesting things in the paintings - there are more humans around, and they draw them in more detail!
 
-This woman is sitting or dancing ![](media/Femme-gavure.jpeg) -  painting from a famous site, Tassili n'Ajjer, in the land of Algieria.
+This woman is sitting or dancing ![](media/Femme-gavure.jpeg) -  painting from a famous site, Tassili n'Ajjer, in the land of Algeria.
 
 It takes a long time until people start to plant their food, that is called agriculture. It takes some more years, you only get there three to five thousand years after that!
 
 Something very happens in art, people start to build big monuments made out of big stones, maybe these are temples? 
-(this kind of art is alled Megalithic - Mega means big, lithic means a thing made from stone)
+(this kind of art is called Megalithic - Mega means big, lithic means a thing made from stone)
 
 Göbekli Tepe in Turkey ![](media/goebleki-tepe.jpeg) from 10.000 years ago!
 
@@ -1507,6 +1507,69 @@ Also: some things seem to be the same, in the words of King Salomon in the Bible
 In Hebrew: מַה שֶּׁהָיָה הוּא שֶׁיִּהְיֶה, וּמַה שֶּׁנַּעֲשָׂה הוּא שֶׁיֵּעָשֶׂה, וְאֵין כָּל חָדָשׁ תַּחַת הַשָּׁמֶשׁ.
 
 ------
+
+Europe discovered the old cultures of Egypt and Mesopotamia some two hundred hears ago. That's the time, when Europe entered it's time of big changes - the age of steam and steel. I think that digging up stuff from very a very long time ago helped people to understand the big changes in their own life time.
+
+The steam engine allowed us to use a lot of energy - at any place. You just need to move the coal and make a fire - the steam engine will turn that into movement!
+
+![](media/steam-engine.jpeg)
+
+This power was first used to drive machines that help with making clothes
+
+![](media/line-shaft-steam.jpg)
+
+The long sticks at the roof were turning, then this movement was passed to the machines at the floor through these long bands. That's a very dangerous way to work!
+
+![](media/7802_Bradley_Manor_Lokomotive.jpg)
+
+Later they used these to build trains, I even travelled on a steam powered train as a kid, in East Germany, in the nineteen eightees. That's not long that long ago - that was just some fourty years ago! They kept the steam engine for a long time, as they had a lot of coal at the place.
+
+![](media/DR_22_032.jpg)
+
+that picture is from 1964 - that was six years before I was born.
+
+Amd you some really big things made out of steel and iron:
+
+![](media/Caricature_Gustave_Eiffel.png)
+
+Like the Eiffel tower
+
+![](media/Brooklyn_Bridge_Manhattan.jpg)
+
+Or the Brooklyn Bridge in New York
+
+Back to five thousand years ago: the big changes came because of a new material Bronze:
+
+We already talked about copper, that is a metal, and it is a bit soft.
+There is another metal - tin, it is much softer than copper.
+Now take 90-95% copper and 10-5% tin, heat them up with the same fire at the same place, and you get a new material - bronze.
+Bronze is much harder than copper, so you can make weapons with it.
+
+This is a bronze axe from Egypt
+![](media/Egypt-bronze-age-axe.jpg)
+
+That's a Khopesh - a bronze sword from old Egypt 
+![](media/khopesh-egypt.jpg)
+
+And these are bronze swords from Greece
+![](media/Mycenaean_swords_recostruction.jpg)
+
+![](media/Akkadia-victory-stele-archers.jpg)
+And they could kill people at a distance, with bows and arrows. The arrows must have a arrow head made of bronze. This picture is from the kingdom of Akkadia, in northern Iraq.
+
+The big deal is to get these metals - you need to travel a lot.
+You can dig up copper from under the ground in some places. You can find it in Timna, in Israel https://en.wikipedia.org/wiki/Timna_Valley#Copper_mining - some 9000 years ago they were digging up copper at that place!
+or in Cyprus - in Greece, or in Turkey - at the Taurus mountains.
+
+Now finding tin is a big problem - you find less of it, and you need to for much longer distances to find tin. You need to go to the mountains of Afghanistan, Spain, Turkey, England - they found Cooper from England in far away Mesopotamia!
+
+So you need to have a big system for organizing the trading at long distances - you need to make stuff for trading, you need big ships to move over the sea and caravans to move the stuff through deserts, you need to get the money for all this, somehow, you need even more details for all this to work! 
+
+A system is like a big machine - you need a lot of parts that work together. 
+
+
+
+
 
 
 
