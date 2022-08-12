@@ -1532,8 +1532,7 @@ The steam engine allowed us to use a lot of energy. You just need to move the co
 
 The next picture shows you how it worked:
 
-![](media/steam-engine.png)
-
+![](media/steam-engine.gif)
 
 This power was first used to drive machines for making clothes
 
