@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=hscu7cc1_2Y
 You have robot Eve and robot Wall-E, they both go through paintings.
 Each of these paintings is coming from a different time:
 
-First you have the paintings on the walls of caves (caves are like big holes in mountains and people lived there) That was some 60000 years ago.
+First you have the paintings on the walls of caves (caves are like big holes in mountains and people lived there) That was some 40000 years ago.
 These were painted during the ice age, when half of Europe was under a big block of ice. These are the first examples of big art, paintings that are very big, on the walls of caves - that's where we got culture from, and some people say that language came from this time.
 
 Then at 00:19 you are in painting that is just like the painting on the walls of a pyramid in ancient Egypt (from 5000-2300 years ago)
@@ -1484,6 +1484,22 @@ Also look at schools: the teachers have a big problem with very big classes - ho
 
 You see that everything is different, this time. They got a thing called the state, and had to invent laws and other rules - and they had to write them down and keep people who would enforce them! That would mean - to check if the rules are followed and to punish everyone who does not follow the rules.
 
+Dolev says: I think they had papyrus scrolls in the library of Alexandria
+
+Me-answering: yes, but they all burned down, when the arabs took Alexandria. https://en.wikipedia.org/wiki/Library_of_Alexandria#Arabic_sources_on_Muslim_invasion0
+
+Their leader said: "If those books are in agreement with the Quran, we have no need of them; and if these are opposed to the Quran, destroy them."
+
+Dolev says: I know, that's quite upsetting. Maybe the scrolls had a lot of information that made them mad?
+
+Me-answering: That's an interesting question, it is hard to know what people thought when they wrote them down. Who could write things down? Only few people knew how to write, writing was a difficult thing and you had to learn it for many years. Those who could write would work for the state. But there are interesting episodes when they do tell about what people thought. We will talk about it later.
+
+For example there was king Urukagina in the city of Lagash. https://en.wikipedia.org/wiki/Urukagina
+He made a lot of changes: he made the first laws ever, and wanted to help normal people.
+for example the tablets say that he made changes, so that "The widow and the orphan were no longer at the mercy of the powerful man"
+An orphan is a child who has no father and mother, a widow is a woman who was married to a man who died later.
+Here is a lecture on cuneiform writing - it is very difficult, some signs are words - like hieroglyphs. Some signs are syllables, but without vowels - like in Hebrew writing. but sometimes different signs mean the same thing - and it all changed a lot during the three thousand years, when they used cuneiform. https://www.youtube.com/watch?v=PfYYraMgiBA
+
 --
 
 The city of Ur may have looked like this, the big temple/ziggurat is at the center. That may be the place where Abraham broke the idols!
@@ -1508,11 +1524,16 @@ In Hebrew: מַה שֶּׁהָיָה הוּא שֶׁיִּהְיֶה, וּמַה
 
 ------
 
-Europe discovered the old cultures of Egypt and Mesopotamia some two hundred hears ago. That's  when Europe entered it's time of big changes - the age of steam and steel. I think that digging up stuff from a very long time ago helped people to understand the big changes in their own life time.
+Europe discovered the old cultures of Egypt and Mesopotamia some two hundred hears ago. That's when Europe had it's time of big changes - the age of steam and steel. I think that digging up stuff from a very long time ago helped people to understand the big changes in their own life time.
 
 The steam engine allowed us to use a lot of energy. You just need to move the coal and make a fire. The fire heats up a big closed pot with water, the water turns into steam and the steam engine is using that pressure to turn the big wheel around and around!
 
 ![](media/steam-engine.jpeg)
+
+The next picture shows you how it worked:
+
+![](media/steam-engine.png)
+
 
 This power was first used to drive machines for making clothes
 
@@ -1567,7 +1588,7 @@ You can also get copper in Cyprus - in Greece, or in Turkey - at the Taurus moun
 
 Now finding tin is a bigger problem - there is less of it, and you need to go to much longer distances in order to find tin. You need to go to the mountains of Afghanistan, Spain, Turkey, England - they found tin from England in a sword from Mesopotamia, one that was made thousands of years ago!
 
-So you need to have a big system for organizing trade over long distances: you need to make stuff that you can give people in far away places, stuff that they want - so that they will give you the tin in return. You need big ships to move over the sea and caravans to move the stuff through deserts, you need to get the money for all this, somehow, you need to make sure that no one will take this expensive stuff from you, while you are travelling. You need even more details for all this to work! 
+So you need to have a big system for organizing trade over long distances: you need to make stuff that you can give people in far away places, stuff that they want - so that they will give you the tin and copper in return. You need big ships to move over the sea and caravans to move the stuff through deserts, you need to get the money for all this, somehow, you need to make sure that no one will take this expensive stuff from you, while you are travelling. You need even more details for all this to work! 
 
 They found a lot of stuff under the see, near Turkey https://en.wikipedia.org/wiki/Uluburun_shipwreck
 It comes from a ship that sank in a storm. The museum in the city of Bodrum tries to show you how this ship looked like:
