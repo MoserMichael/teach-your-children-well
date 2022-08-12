@@ -1538,7 +1538,7 @@ This power was first used to drive machines for making clothes
 
 ![](media/line-shaft-steam.jpg)
 
-The long sticks at the roof were turning, then this movement was passed to the machines at the floor through these long bands. That's a very dangerous way to work!
+The long sticks at the top were turning, then this movement was passed to the machines at the floor through these long bands. That's a very dangerous way to work!
 
 ![](media/7802_Bradley_Manor_Lokomotive.jpg)
 
