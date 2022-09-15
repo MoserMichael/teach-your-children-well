@@ -1620,6 +1620,7 @@ The second festival was in fall, during the month of Tashrity(Tishrei) - that's 
 That sounds very similar to the Jewish festivals of Pesach and Rosh Hashanah, even the names of months are the same, we got a very similar calendar as in Babylon - after returning from Babylonian captivity!! https://en.wikipedia.org/wiki/Babylonian_calendar#Months 
 
 Now lets look at the calendars:
+-------------------------------
 
 In Egypt they had a calendar that describes the movement of the earth around the sun. It takes the earth some 365 days to turn around the sun, but you need to add a leap day, as the days don't add up exactly to describe the movement of the earth around the sun.
 Now In Egypt a week had ten days, a month had 30 days (three weeks for a month). Four months make a season (60 days for a season), They had four seasons, now that makes 360 days per year. This means that had to add another five days of festivals at the end of the year (another party!)
@@ -1628,9 +1629,9 @@ As you know, that keeps getting out of sync, because you will have to add an ext
 If you make a photograph with a long exposure then you see how the stars are moving around the northern star.
 ![movement of the stars around Polaris](media/polaris.jpg)
 
-You see that the stars keep disappearing and can't be seen for some time. This happens quite regularly, as the stars are very far away from the sun. One star that was important in Egypt was Sirius - it is the brightest star in the sky (actually these are two stars, a very big Sirius-A star and a very small and hot Sirius-B star. These stars turn around each other, but they didn't know that in ancient Egypt) 
+You see that the stars keep disappearing from the skyline. During some days you can't see a star at all! This happens quite regularly, as the stars are very far away from the sun. One star that was important in Egypt was Sirius - it is the brightest star in the sky (actually these are two stars, a very big Sirius-A star and a very small and hot Sirius-B star. These stars turn around each other, but they didn't know that in ancient Egypt) 
 
-The star of Sirius is this bright star in the constellation of 'The great dog' (Canis Major in Greek) - and it appears again - the next full moon after that will be the festival of Opet. These tricks help them to fix up the leap year problem!
+The star of Sirius is this very bright star in the constellation of 'The great dog' (Canis Major in Greek) - and it appears again - the next full moon after that will be the festival of Opet. These tricks help them to ignore the leap year problem!
 ![Canis Major](media/CanisMajorCC.jpg) 
 
 It seems that the Egyptians didn't care that their calendar got out of sync, as long as they knew when to have the festival and when to plant the crops! (i think that is very strange...)
@@ -1646,6 +1647,7 @@ Once again you need to track the movement of the stars, to get it right. The Iku
 ![](media/PegasusCC.jpg) 
 
 Star tables:
+------------
 
 The Egyptian priests had to track the movement of the stars in the sky. They had a kind of clock that can tell the time of year, if you know how to track the stars.
 
@@ -1655,16 +1657,18 @@ Here you have a big table. The horizontal line is the time of year. You divide t
 
 Now the vertical line is dividing the night into twelve equal length hours. 
 
-Each square of the table has the name of a star in it: you the name of a star, that is rising during that hour of the night for this week of the year.
-During the next week that same star is rising an hour later, and so on, until the star disappears from the sky.
+Each square of the table has the name of a star in it: Look at the column - it's the week of the year, look at the row - it's the hour of the night, when the star named by the square appears in the sky!
+During the next week that same star is rising an hour later, and so on, until the star disappears from the sky - that's why the stars keep shifting right in the table.
 
-
-How did they know the hour of the night? With water clocks!
+How did they know the hour of the night? With a water clock!
 
 ![](media/egypt-water-clock.jpg)
 
 You fill the big bowl with water, and there is a hole in the bowl. You know the hour of the night by looking at the level of the water in the bowl.
-(Now how did they adjust for different lengths of the night during the year? I don't know...)
+Now how did they adjust for different lengths of the night during the year? You see different rows of marks, each row is used during a different time of the year.
+
+So now it gets a bit cicular: you need to know the time of the year, in order to know what the current our of the night is. And you use this information to get the current date - from the star table.
+I don't quite know how all of this worked together, but some priests in ancient Egypt had a lot of fun with all of this...
 
 
 
