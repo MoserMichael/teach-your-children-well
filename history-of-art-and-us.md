@@ -1670,6 +1670,8 @@ Now how did they adjust for different lengths of the night during the year? You 
 So now it gets a bit cicular: you need to know the time of the year, in order to know what the current our of the night is. And you use this information to get the current date - from the star table.
 I don't quite know how all of this worked together, but some priests in ancient Egypt had a lot of fun with all of this...
 
+There is a youtube lecture here, maybe you manage to understand more than me... https://www.youtube.com/watch?v=Ak07dI-TALU
+ 
 
 
 
