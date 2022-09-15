@@ -1601,13 +1601,13 @@ You can't have all this trading at long distances without a big system. A system
 
 One very important thing during the bronze age was to have big parties (no one could dig canals the whole year through!). That's one of the reason of having a calendar, it tells you when you should have a festival!
 
-In Egypt they had the [Opet festival](https://en.wikipedia.org/wiki/Opet_Festival) , it was a religious festival and it happened during the flooding of the river Nile. Here the Pharaoh is having a ritual marriage to the main god Amun-Re, that's a kind of renewal that happened each year.
+In Egypt they had the [Opet festival](https://en.wikipedia.org/wiki/Opet_Festival) , it was a religious festival and it happened during the flooding of the river Nile. Here the Pharaoh was having a ritual marriage to the main god Amun-Re, that's a kind of renewal that happened each year.
 
 A lot of a land around the river Nile is under water when the flooding happens, and there is not much that you can do. Sometimes the party would go on for a long time, under Pharaoh Tutmose III the festival lasted 11 days, during the time of Pharaoh Ramses III they partied for 24 days!
 
 ![Columns of the temple of Karnak](media/temple-of-karnak-columns.jpg)
 
-That party was at the very big temple of Karnak, but they also had a party in all of Egypt
+Pharaoh would have his party at the temple of Karnak (see the picture, it was a very big building), but they also had a party in all of Egypt.
 
 The river Nile is getting a lot of water between the months of May and August, these are the months when there is a lot of rain in central Africa, where the Nile is getting it's water from. That's the time in Africa, when it is raining for the whole day! This rain season is called the Monsoon season.
 
@@ -1617,7 +1617,7 @@ Mesopotamia and later Babylon had two big festivals, both with the same name - t
 One festival was during spring, during the month of Nissan, that's when they start to plant barley seeds. The spring festival was also a kind of renewal - the king of Babylon receives his right to rule from the priests of the god marduk. The festival took twelve days, and you didn't have to work at three of these days! During this time the king would tell about changes in his government, announce treaties with other states or announce that some political prisoners are now free.
 The second festival was in fall, during the month of Tashrity(Tishrei) - that's when the religious year starts again.
 
-That sounds very similar to the Jewish festivals of Pesach and Rosh Hashanah, even the names of months are the same, we got a very similar calendar as in Babylon - after returning from Babylonian captivity!! https://en.wikipedia.org/wiki/Babylonian_calendar#Months 
+That sounds very similar to the Jewish festivals of Pesach and Rosh Hashanah, even the names of months are the same, we got a very similar calendar as in Babylon - after returning from Babylonian captivity!! See the table here: https://en.wikipedia.org/wiki/Babylonian_calendar#Months 
 
 Now lets look at the calendars:
 -------------------------------
@@ -1667,8 +1667,8 @@ How did they know the hour of the night? With a water clock!
 You fill the big bowl with water, and there is a hole in the bowl. You know the hour of the night by looking at the level of the water in the bowl.
 Now how did they adjust for different lengths of the night during the year? You see different rows of marks, each row is used during a different time of the year.
 
-So now it gets a bit cicular: you need to know the time of the year, in order to know what the current our of the night is. And you use this information to get the current date - from the star table.
-I don't quite know how all of this worked together, but some priests in ancient Egypt had a lot of fun with all of this...
+So now it gets a bit cicular: you need to know the time of the year, in order to know what the current hour of the night is. And you use this information to get the current date - from the star table.
+I don't quite know how all of this worked in detail, but some priests in ancient Egypt had a lot of fun with all of this...
 
 There is a youtube lecture here, maybe you manage to understand more than me... https://www.youtube.com/watch?v=Ak07dI-TALU
  
