@@ -1601,7 +1601,7 @@ You can't have all this trading at long distances without a big system. A system
 
 One very important thing during the bronze age was to have big parties (no one could dig canals the whole year through!). That's one of the reason of having a calendar, it tells you when you should have a festival!
 
-In Egypt they had the [Opet festival](https://en.wikipedia.org/wiki/Opet_Festival) , it was a religious festival and it happened during the flooding of the river Nile. Here the Pharaoh is having a ritual marriage to the main god Amun-Re, that's a king of renewal that happened each year.
+In Egypt they had the [Opet festival](https://en.wikipedia.org/wiki/Opet_Festival) , it was a religious festival and it happened during the flooding of the river Nile. Here the Pharaoh is having a ritual marriage to the main god Amun-Re, that's a kind of renewal that happened each year.
 
 A lot of a land around the river Nile is under water when the flooding happens, and there is not much that you can do. Sometimes the party would go on for a long time, under Pharaoh Tutmose III the festival lasted 11 days, during the time of Pharaoh Ramses III they partied for 24 days!
 
