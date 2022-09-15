@@ -1597,6 +1597,86 @@ It comes from a ship that sank in a storm. The museum in the city of Bodrum trie
 You can't have all this trading at long distances without a big system. A system is like a big machine - you need a lot of parts that work together. 
 
 
+---10/09/22 13:30:08----------------------
+
+One very important thing during the bronze age was to have big parties (no one could dig canals the whole year through!). That's one of the reason of having a calendar, it tells you when you should have a festival!
+
+In Egypt they had the [Opet festival](https://en.wikipedia.org/wiki/Opet_Festival) , it was a religious festival and it happened during the flooding of the river Nile. Here the Pharaoh is having a ritual marriage to the main god Amun-Re, that's a king of renewal that happened each year.
+
+A lot of a land around the river Nile is under water when the flooding happens, and there is not much that you can do. Sometimes the party would go on for a long time, under Pharaoh Tutmose III the festival lasted 11 days, during the time of Pharaoh Ramses III they partied for 24 days!
+
+![Columns of the temple of Karnak](media/temple-of-karnak-columns.jpg)
+
+That party was at the very big temple of Karnak, but they also had a party in all of Egypt
+
+The river Nile is getting a lot of water between the months of May and August, these are the months when there is a lot of rain in central Africa, where the Nile is getting it's water from. That's the time in Africa, when it is raining for the whole day! This rain season is called the Monsoon season.
+
+![](media/River_Nile_map.svg)
+
+Mesopotamia and later Babylon had two big festivals, both with the same name - the Akitu festival.
+One festival was during spring, during the month of Nissan, that's when they start to plant barley seeds. The spring festival was also a kind of renewal - the king of Babylon receives his right to rule from the priests of the god marduk. The festival took twelve days, and you didn't have to work at three of these days! During this time the king would tell about changes in his government, announce treaties with other states or announce that some political prisoners are now free.
+The second festival was in fall, during the month of Tashrity(Tishrei) - that's when the religious year starts again.
+
+That sounds very similar to the Jewish festivals of Pesach and Rosh Hashanah, even the names of months are the same, we got a very similar calendar as in Babylon - after returning from Babylonian captivity!! https://en.wikipedia.org/wiki/Babylonian_calendar#Months 
+
+Now lets look at the calendars:
+
+In Egypt they had a calendar that describes the movement of the earth around the sun. It takes the earth some 365 days to turn around the sun, but you need to add a leap day, as the days don't add up exactly to describe the movement of the earth around the sun.
+Now In Egypt a week had ten days, a month had 30 days (three weeks for a month). Four months make a season (60 days for a season), They had four seasons, now that makes 360 days per year. This means that had to add another five days of festivals at the end of the year (another party!)
+
+As you know, that keeps getting out of sync, because you will have to add an extra day for each leap year, but they didn't have a leap year in ancient Egypt. But there is a workaround, if you know how to look at the stars! Most stars keep moving around the sky, except for Polaris - that's the northern star.
+If you make a photograph with a long exposure then you see how the stars are moving around the northern star.
+![movement of the stars around Polaris](media/polaris.jpg)
+
+You see that the stars keep disappearing and can't be seen for some time. This happens quite regularly, as the stars are very far away from the sun. One star that was important in Egypt was Sirius - it is the brightest star in the sky (actually these are two stars, a very big Sirius-A star and a very small and hot Sirius-B star. These stars turn around each other, but they didn't know that in ancient Egypt) 
+
+The star of Sirius is this bright star in the constellation of 'The great dog' (Canis Major in Greek) - and it appears again - the next full moon after that will be the festival of Opet. These tricks help them to fix up the leap year problem!
+![Canis Major](media/CanisMajorCC.jpg) 
+
+It seems that the Egyptians didn't care that their calendar got out of sync, as long as they knew when to have the festival and when to plant the crops! (i think that is very strange...)
+
+In Babylon they had a calendar by tracking the moon. The moon rotates around the earth, and that takes 29.53 days. Each day the sun shines on the moon under a different angle, that's why the image of the moon keeps growing bigger, until you get a full moon. And then it keeps growing smaller.
+
+![](media/Moon_phases.jpg) 
+
+Now once in a while you need to add a leap month (like Adar II) in order to keep this synchronized with the cycle of the earth around the sun. Somehow this system worked better then the Egyptian calendar, which got out of sync because of the missing leap year business.
+
+Once again you need to track the movement of the stars, to get it right. The Iku star in the constellation of Pegasus would rise, that's when you can have the spring festival of Akitu!
+
+![](media/PegasusCC.jpg) 
+
+Star tables:
+
+The Egyptian priests had to track the movement of the stars in the sky. They had a kind of clock that can tell the time of year, if you know how to track the stars.
+
+![](media/star-table.png)
+
+Here you have a big table. The horizontal line is the time of year. You divide the year into months, each month is divided into three weeks.
+
+Now the vertical line is dividing the night into twelve equal length hours. 
+
+Each square of the table has the name of a star in it: you the name of a star, that is rising during that hour of the night for this week of the year.
+During the next week that same star is rising an hour later, and so on, until the star disappears from the sky.
+
+
+How did they know the hour of the night? With water clocks!
+
+![](media/egypt-water-clock.jpg)
+
+You fill the big bowl with water, and there is a hole in the bowl. You know the hour of the night by looking at the level of the water in the bowl.
+(Now how did they adjust for different lengths of the night during the year? I don't know...)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
