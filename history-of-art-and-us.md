@@ -1603,13 +1603,13 @@ One very important thing during the bronze age was to have big parties (no one c
 
 In Egypt they had the [Opet festival](https://en.wikipedia.org/wiki/Opet_Festival) , it was a religious festival and it happened during the flooding of the river Nile. Here the Pharaoh was having a ritual marriage to the main god Amun-Re, that's a kind of renewal that happened each year.
 
-A lot of a land around the river Nile is under water when the flooding happens, and there is not much that you can do. Sometimes the party would go on for a long time, under Pharaoh Tutmose III the festival lasted 11 days, during the time of Pharaoh Ramses III they partied for 24 days!
+A lot of a land around the river Nile is under water, when the river Nile is carrying more water - during the flood season. During this time you can't do much work in the fields, so there is a lot of time for festivals! Sometimes the party would go on for a long time: under Pharaoh Tutmose III the Opet festival lasted 11 days, during the time of Pharaoh Ramses III they partied for 24 days!
 
 ![Columns of the temple of Karnak](media/temple-of-karnak-columns.jpg)
 
-Pharaoh would have his party at the temple of Karnak (see the picture, it was a very big building), but they also had a party in all of Egypt.
+Pharaoh would have his party at the temple of Karnak (see these big columns? That was a big building project during the new kingdom, when they stopped building pyramids), but they also had a party in all the other parts of Egypt.
 
-The river Nile is getting a lot of water between the months of May and August, these are the months when there is a lot of rain in central Africa, where the Nile is getting it's water from. That's the time in Africa, when it is raining for the whole day! This rain season is called the Monsoon season.
+The river Nile is getting a lot of water between the months of May and August, these are the months when there is a lot of rain in central Africa. The water of the Nile comes from the mountains and the Victoria lake - that is the second largest lake in the world! Also between May and August it is raining a lot in these parts of Africa, it is often raining for the whole day! This rain season is called the Monsoon season.
 
 ![](media/River_Nile_map.svg)
 
@@ -1625,16 +1625,24 @@ Now lets look at the calendars:
 In Egypt they had a calendar that describes the movement of the earth around the sun. It takes the earth some 365 days to turn around the sun, but you need to add a leap day, as the days don't add up exactly to describe the movement of the earth around the sun.
 Now In Egypt a week had ten days, a month had 30 days (three weeks for a month). Four months make a season (60 days for a season), They had four seasons, now that makes 360 days per year. This means that had to add another five days of festivals at the end of the year (another party!)
 
-As you know, that keeps getting out of sync, because you will have to add an extra day for each leap year, but they didn't have a leap year in ancient Egypt. But there is a workaround, if you know how to look at the stars! Most stars keep moving around the sky, except for Polaris - that's the northern star.
+The Egyptian calendar keeps getting out of step with the real year, we now avoid this by adding an extra day for each leap year, but they didn't have a leap year in ancient Egypt! But there is a workaround, if you know how to look at the stars! Most stars keep moving around the sky, except for Polaris - that's the northern star.
 If you make a photograph with a long exposure then you see how the stars are moving around the northern star.
 ![movement of the stars around Polaris](media/polaris.jpg)
 
-You see that the stars keep disappearing from the skyline. During some days you can't see a star at all! This happens quite regularly, as the stars are very far away from the sun. One star that was important in Egypt was Sirius - it is the brightest star in the sky (actually these are two stars, a very big Sirius-A star and a very small and hot Sirius-B star. These stars turn around each other, but they didn't know that in ancient Egypt) 
+You see that the stars keep disappearing from the skyline. During some days you can't see a star at all! This happens quite regularly, as the stars are very far away from the sun.
+
+Each one of the stars appears in the sky, and for the next 70 nights it will stay visible, Then the star will disappear and stay invisible for the next 90 nights. After that the star will appear again.
+
+One star that was important in Egypt was Sirius - it is the brightest star in the sky (actually these are two stars, a very big Sirius-A star and a very small and hot Sirius-B star. These stars turn around each other, but they didn't know that in ancient Egypt) 
 
 The star of Sirius is this very bright star in the constellation of 'The great dog' (Canis Major in Greek) - and it appears again - the next full moon after that will be the festival of Opet. These tricks help them to ignore the leap year problem!
 ![Canis Major](media/CanisMajorCC.jpg) 
 
-It seems that the Egyptians didn't care that their calendar got out of sync, as long as they knew when to have the festival and when to plant the crops! (i think that is very strange...)
+It seems that the Egyptians didn't care that their calendar got out of sync, as long as they knew when to have the festival and when to plant the crops!  
+
+<!--
+There are other calendars that get out of sync: the Hijri calendar is the Islamic religious calendar (it came much later than the Egyptian calendar). It is a lunar calendar, but they don't add an extra lunar month, so that sometimes the festival of Ramadan is during summer - and sometimes it is during winter. Still they need to look at other calendars, for other purposes.
+//-->
 
 In Babylon they had a calendar by tracking the moon. The moon rotates around the earth, and that takes 29.53 days. Each day the sun shines on the moon under a different angle, that's why the image of the moon keeps growing bigger, until you get a full moon. And then it keeps growing smaller.
 
@@ -1649,51 +1657,89 @@ Once again you need to track the movement of the stars, to get it right. The Iku
 Star tables:
 ------------
 
-The Egyptian priests had to track the movement of the stars in the sky. They had a kind of clock that can tell the time of year, if you know how to track the stars.
+The Egyptian priests had to follow the movement of the stars in the sky. They had a kind of clock that can tell the time of year, if you know how to look at the stars!
+
+Remember the cycle: each star appears in the sky, will stay visible for the next 90 nights, then the same star disappears and will stay invisible for the next 70 nights, then it reappears again.
+Now the sky stays visible: it will appear in the sky at a slightly different time: after ten days the same sky will appear in the sky at a different hour of the night.
+
+The Egyptians picked a set of stars to track through the whole year, this group of star is called the Decans, now they all summed it up in a table:
 
 ![](media/star-table.png)
 
 Here you have a big table. The horizontal line is the time of year. You divide the year into months, each month is divided into three weeks.
 
-Now the vertical line is dividing the night into twelve equal length hours. 
+Now the vertical line is dividing the night into twelve hours of equal length.
 
 Each square of the table has the name of a star in it: Look at the column - it's the week of the year, look at the row - it's the hour of the night, when the star named by the square appears in the sky!
-During the next week that same star is rising an hour later, and so on, until the star disappears from the sky - that's why the stars keep shifting right in the table.
+During the next week that same star is rising an hour later, and so on, until the star disappears from the sky - that's why the stars keep shifting in the table. 
 
 How did they know the hour of the night? With a water clock!
 
 ![](media/egypt-water-clock.jpg)
 
-You fill the big bowl with water, and there is a hole in the bowl. You know the hour of the night by looking at the level of the water in the bowl.
-Now how did they adjust for different lengths of the night during the year? You see different rows of marks, each row is used during a different time of the year.
+You fill the big bowl with water, and there is a hole in the bottom of the bowl. The water is slowly falling out of the bows. Now you look at the level of the water as it appears on the marks drawn in the bows, there is a mark for each hour of the night. Now you can tell the hour of the night by looking at the text written right near the mark that you can see right above the water!
 
-So now it gets a bit cicular: you need to know the time of the year, in order to know what the current hour of the night is. And you use this information to get the current date - from the star table.
-I don't quite know how all of this worked in detail, but some priests in ancient Egypt had a lot of fun with all of this...
+But the nights are not of the same length, a night in winter is longer than in summer. They fixed that: you can see different rows of marks, each row is used during a different time of the year.
+
+So now it gets a bit circular: you need to know the time of the year, in order to know what the current hour of the night is. And you use this information to get the current date - from the star table.
+I don't quite know how all of this worked in detail, but some priests in ancient Egypt had a lot of fun with all of this
+
+By the way: all this had a lot of religious meaning in Egypt - when a star disappeared from the sky it would 'go into the underworld/hell' and when it appears in the sky again it would be 'reborn'.
 
 There is a youtube lecture here, maybe you manage to understand more than me... https://www.youtube.com/watch?v=Ak07dI-TALU
  
+-------
 
+Now lets look at the number system that was in use:
 
+In Egypt they kept counting to ten, but they had different signs for every power of ten, they had a special sign for a hundred and another sign for one thousand.
+If you want to say two hundred then just draw two signs for one hundred.
 
+Wikipedia is explaining this in a picture.
 
+![](media/egyptian-numerals.png) 
 
+Now the whole thing gets complicated, when you want to have fractions, like one half or one third - so people tried to avoid these situations. You can look at it here, I didn't understand the concept of fractions... https://en.wikipedia.org/wiki/Egyptian_numerals 
 
+Now what about Babylonia? Here they didn't count to ten, they counted to sixty! 
 
+![](media/sumerian-numbers.png)
 
+Actually we still have a bit of that today, you have sixty seconds in a minute, sixty minutes in an hour. You have 360 degrees in a circle. (all because the Babylonians were experts in astronomy, and astronomy had something to do with measuring time and space)
 
+Why sixty? We can guess:
 
+Maybe because of the lunar calendar, a lunar month is 29 years long, so the closes round number is thirty, two months are about sixty days.
 
+Now there is a better reason, I have written a small program, it takes all the numbers between one and one hundred, for each number it shows which other numbers can divide the given number, without a fraction.
 
+Sixty is the smallest number between one and one hundred that can be divided by seven numbers - 2, 3, 4, 5, 6, 10, 12, 15, 20, 30
 
+That's very practical - you can avoid fractions in lots of situations. Lets say that take a loan of sixty shekel (the unit of money in Babylonia was the Shekel, just like in Israel, today. What a coincidence!)
+Now after a year I have to add a tenth of that sum to what I owe you - you get 10% interest rate. No problem, sixty divides by ten. So you have more possibilities to use that number system without dealing with fractions!
 
+What about numbers that are bigger than sixty? There was a clever trick (that's the first time the trick was used, and we still use it today).
 
+What if you want to show the number sixty five? Now that's 60 * 1 + 5 so they would write it as 
 
+![](media/65-kuneiform.png)
 
+Actually that is quite similar to what we are doing now, with the base of ten: 65 = 6 * 10 + 5
 
+Now lets write the number of seconds in one day: that's 
 
+NumberOfSecondsInAMinute * NumberOfMinutesInAnHour * NumberOfHoursInADay = 
+60 * 60 * 24  + 0 * 60 + 0 = 86400 
 
+Now we learn about a new kuneiform symbol - that would be what we have for zero in a decimal system, a placeholder!
 
+![Babylonian zero](media/Babylonian_0.png)  - that is zero, but only for the purpose of writing the number 
 
+[seconds in hour - kuneiform](media/seconds-in-hour.png)
+
+Now that zero is only a place holder, it is not a number - that's for good reasons.
+
+The classical Greek philosophers and mathematicians were very afraid of the concept of zero as a number, all by itself - and for good reasons... (but that is part of the next lesson)
 
 
 
