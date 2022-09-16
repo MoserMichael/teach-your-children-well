@@ -1622,14 +1622,15 @@ That sounds very similar to the Jewish festivals of Pesach and Rosh Hashanah, ev
 Now lets look at the calendars:
 -------------------------------
 
-In Egypt they had a calendar that describes the movement of the earth around the sun. It takes the earth some 365 days to turn around the sun, but you need to add a leap day, as the days don't add up exactly to describe the movement of the earth around the sun.
-Now In Egypt a week had ten days, a month had 30 days (three weeks for a month). Four months make a season (60 days for a season), They had four seasons, now that makes 360 days per year. This means that had to add another five days of festivals at the end of the year (another party!)
+In Egypt they had a calendar that describes the movement of the earth around the sun. It takes the earth some 365 days and one quarter day to turn around the sun. If you do it right, then you need to add a leap day, as the days don't add up exactly to describe the movement of the earth around the sun.
+Now In Egypt a week had ten days, a month had 30 days (three weeks for a month). Four months make a season (60 days for a season), They had four seasons, now that makes 360 days per year. This means that they had to add another five days of festivals at the end of the year (another party!)
+But they didn't know about leap years
 
 The Egyptian calendar keeps getting out of step with the real year, we now avoid this by adding an extra day for each leap year, but they didn't have a leap year in ancient Egypt! But there is a workaround, if you know how to look at the stars! Most stars keep moving around the sky, except for Polaris - that's the northern star.
 If you make a photograph with a long exposure then you see how the stars are moving around the northern star.
 ![movement of the stars around Polaris](media/polaris.jpg)
 
-You see that the stars keep disappearing from the skyline. During some days you can't see a star at all! This happens quite regularly, as the stars are very far away from the sun.
+You see that the stars keep disappearing from the skyline. During some days you can't see some of the stars at all! This happens quite regularly, as the stars are very far away from the sun.
 
 Each one of the stars appears in the sky, and for the next 70 nights it will stay visible, Then the star will disappear and stay invisible for the next 90 nights. After that the star will appear again.
 
@@ -1660,7 +1661,7 @@ Star tables:
 The Egyptian priests had to follow the movement of the stars in the sky. They had a kind of clock that can tell the time of year, if you know how to look at the stars!
 
 Remember the cycle: each star appears in the sky, will stay visible for the next 90 nights, then the same star disappears and will stay invisible for the next 70 nights, then it reappears again.
-Now the sky stays visible: it will appear in the sky at a slightly different time: after ten days the same sky will appear in the sky at a different hour of the night.
+Now the star stays visible: it will appear in the sky at a slightly different time: after ten days the same sky will appear in the sky at a different hour of the night.
 
 The Egyptians picked a set of stars to track through the whole year, this group of star is called the Decans, now they all summed it up in a table:
 
@@ -1677,14 +1678,14 @@ How did they know the hour of the night? With a water clock!
 
 ![](media/egypt-water-clock.jpg)
 
-You fill the big bowl with water, and there is a hole in the bottom of the bowl. The water is slowly falling out of the bows. Now you look at the level of the water as it appears on the marks drawn in the bows, there is a mark for each hour of the night. Now you can tell the hour of the night by looking at the text written right near the mark that you can see right above the water!
+You fill the big bowl with water, and there is a hole in the bottom of the bowl. The water is slowly falling out of the bowl. Now you look at the level of the water as it appears on the marks drawn in the bowl, there is a special mark for each hour of the night. Now you can tell the hour of the night by looking at the text written right near the mark that you can see right above the water!
 
 But the nights are not of the same length, a night in winter is longer than in summer. They fixed that: you can see different rows of marks, each row is used during a different time of the year.
 
 So now it gets a bit circular: you need to know the time of the year, in order to know what the current hour of the night is. And you use this information to get the current date - from the star table.
 I don't quite know how all of this worked in detail, but some priests in ancient Egypt had a lot of fun with all of this
 
-By the way: all this had a lot of religious meaning in Egypt - when a star disappeared from the sky it would 'go into the underworld/hell' and when it appears in the sky again it would be 'reborn'.
+By the way: all this had a lot of religious meaning in Egypt - when a star disappeared from the sky it would 'go into the underworld/hell' and when it appears in the sky again it would be 'reborn'. (that's how they did propaganda during the bronze age...)
 
 There is a youtube lecture here, maybe you manage to understand more than me... https://www.youtube.com/watch?v=Ak07dI-TALU
  
