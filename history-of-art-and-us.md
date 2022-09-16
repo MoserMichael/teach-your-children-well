@@ -1226,7 +1226,7 @@ But we will see the next series, in a few hundred years, with the Sumerian civil
 
 Now they still didn't invent writing, so that scientists have to guess about a lot of details. 
 
-An interesting thing: they cities of this period were populated for some 1200 years, without breaks. The archiologists didn't find signs of wars - in other places they often find layers when the cities was destroyed and later rebuild, this is a sign of a war. But they don't find this with the Ubaid period towns ! Also the cylinder ceal impression do not show weapons, or scenes of war (but you get a lot of that in the next culture) Is it possible that the cities of this period did not fight wars against one another? Lots of open questions.
+An interesting thing: they cities of this period were populated for some 1200 years, without breaks. The archeologists didn't find signs of wars - in other places they often find layers when the cities was destroyed and later rebuild, this is a sign of a war. But they don't find this with the Ubaid period towns ! Also the cylinder ceal impression do not show weapons, or scenes of war (but you get a lot of that in the next culture) Is it possible that the cities of this period did not fight wars against one another? Lots of open questions.
 
 Also they didn't find city walls, a city wall has two functions; one is to keep the enemy out of the city, it is for defending a city.  The other role is to keep your own people from running away. They didn't have that!
 
@@ -1514,7 +1514,7 @@ You may think it was a waste to build these? Maybe that is not the case.
 Building these huge pyramids may have had the same role as all the other megalithic structures that we see all over the word. Maybe they brought the people of north and south Egypt together. (I think that was very clever: they didn't have these in Mesopotamia - and all city states there were fighting against each other, bitterly)
 
 I think you even have that today - look at the space race in the twentieth century. Ask any Russian and any American: Who has send the first man to space? the Russian will answer proudly - that was us! Who has send the first man to the moon - the American will answer proudly: that's us, of course!
-The space race was not only a weapon in the cold war between the USA and the Soviet Union, it was a tool for building a feeling of being "us" and feeling of being part of something bing - a collective identity. 
+The space race was not only a weapon in the cold war between the USA and the Soviet Union, it was a tool for building a feeling of being "us" and feeling of being part of something big - a collective identity. 
 
 Look at any of the TV series for pre-school kids: they all have an episode about Christmas and an episode about going to the moon. 
 You need to start with building this sense of being "us" at a very young age... 
