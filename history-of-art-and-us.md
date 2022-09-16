@@ -1731,11 +1731,17 @@ Now lets write the number of seconds in one day: that's
 NumberOfSecondsInAMinute * NumberOfMinutesInAnHour * NumberOfHoursInADay = 
 60 * 60 * 24  + 0 * 60 + 0 = 86400 
 
-Now we learn about a new kuneiform symbol - that would be what we have for zero in a decimal system, a placeholder!
+Now we learn about a new cuneiform symbol - that would be what we have for zero in a decimal system, a placeholder!
 
 ![Babylonian zero](media/Babylonian_0.png)  - that is zero, but only for the purpose of writing the number 
 
-[seconds in hour - kuneiform](media/seconds-in-hour.png)
+Back to our number:
+
+60 * 60 * 24  + 0 * 60 + 0 = 86400 
+
+In cuneiform that's written as:
+
+![seconds in hour - cuneiform](media/seconds-in-hour.png)
 
 Now that zero is only a place holder, it is not a number - that's for good reasons.
 
