@@ -1752,6 +1752,80 @@ Now that zero is only a place holder, it is not a number - that's for good reaso
 
 The classical Greek philosophers and mathematicians were very afraid of the concept of zero as a number, all by itself - and for good reasons... (but that is part of the next lesson)
 
+However they used the Babylonian number system in Greece too. Alexander conquered the Persian empire in 334BC, after that the Greek learned a lot from Babylonian mathematics and astronomy. Now they also used the Babylonian number system, just because it was much better than what they had!
+
+The problem with zero
+---------------------
+
+Some stuff here is taken from a book by "Zero: The Biography of a Dangerous Idea" by Charles Seife, I am trying to retell some of it.
+
+We know about the natural numbers, 1,2,3,.... Now 0 is the number right before 1 - it describes the amount of ... nothing.
+
+In ancient Egypt they did have a concept of zero, but just as a baseline, Today we measure the height in geography as 'meters above the sea level', where the 'sea level' is zero, as the baseline.
+
+![](media/egypt-zero.gif) That is the symbol for zero, Even the great pyramids had this on their lowest level, it's their baseline, the lowest level of the pyramid. 
+
+The Egyptians didn't use this symbol when they did math. The Babylonian zero was only a placeholder, it was not used as a number that denotes nothing. For good reason:
+
+Multiplying any number with zero gives zero, lets see why.
+
+We have the rule of associativity: a * (b + c) = a * b + a * c
+
+For example: 2 * (3 + 5) = 2 * 3 + 2 * 5 = 6 + 10 = 16
+
+Now lets have: a * b =  a * (b + 0) = a * b + b * 0
+                
+               a * b = a * b + b * 0
+
+That means:  b * 0 = 0 - anything else would have broken the rules.
+
+That's a big deal: 
+
+Lets take the line of numbers  1..2..3..4..5..6...  
+
+Imagine that the line of numbers is a rubber band, if we multiply each of the numbers by three then that's as if we stretch this rubber band by three times!
+
+3..6..9..12..15..24.....
+
+Now if we multiply this infinite rubber band of of numbers then everything collapses into just one point - zero.
+As if all the numbers fell into a black hole, just like this!
+
+Now that's still nothing - division by zero brings total chaos into the kingdom of numbers.
+
+Now lets assume 2 * 3 = 6 The inverse of multiplication is division: 2 = 6 / 3
+
+Let's assume that zero plays by the same rule
+
+2 * 0 = 0  so therefore 2 = 0 / 0
+
+3 * 0 = 0  so therefore 3 = 0 / 0
+
+4 * 0 = 0  so therefore 4 = 0 / 0
+
+So any number is zero divided by zero. You can't have this chaos! Therefore the only way is to forbid this.
+You are not allowed to divide by zero - it brings total chaos into the world of numbers, that' even worse than a black hole!!!
+
+The book gives an example of a big warship, that's a ship almost as big as a city - and it stopped moving at all.
+Because some important computer program stopped working - the program divided by zero, and that kills any computer program! Dividing by zero is not allowed!!!
+Some say that the ship had to be pulled by another ship, because it could not move on its own, and they didn't know how to fix the problem with the computer https://medium.com/dataseries/when-smart-ships-divide-by-zer0-uss-yorktown-4e53837f75b2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
