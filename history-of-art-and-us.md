@@ -1634,6 +1634,10 @@ You see that the stars keep disappearing from the skyline. During some days you 
 
 Each one of the stars appears in the sky, and for the next 70 nights it will stay visible, Then the star will disappear and stay invisible for the next 90 nights. After that the star will appear again.
 
+This dancing of the stars happens, because the axis of the earth is on an angle relative to the movement of the earth around the sun. Because of this we see a slightly different picture of the sky, as the earth is travelling around the sun. This angle is also causing the different seasons of the year, because we get different amounts of sunlight, when we look at the sun under a small angle (summer time) and under a big angle (winter time).
+
+![](media/EarthTilt.png)
+
 One star that was important in Egypt was Sirius - it is the brightest star in the sky (actually these are two stars, a very big Sirius-A star and a very small and hot Sirius-B star. These stars turn around each other, but they didn't know that in ancient Egypt) 
 
 The star of Sirius is this very bright star in the constellation of 'The great dog' (Canis Major in Greek) - and it appears again - the next full moon after that will be the festival of Opet. These tricks help them to ignore the leap year problem!
