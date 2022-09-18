@@ -1787,7 +1787,7 @@ Imagine that the line of numbers is a rubber band, if we multiply each of the nu
 
 3..6..9..12..15..24.....
 
-Now if we multiply this infinite rubber band of of numbers then everything collapses into just one point - zero.
+Now if we multiply this infinite rubber band of numbers by zero then everything collapses into just one point - zero.
 As if all the numbers fell into a black hole, just like this!
 
 Now that's still nothing - division by zero brings total chaos into the kingdom of numbers.
@@ -1805,8 +1805,11 @@ Let's assume that zero plays by the same rule
 So any number is zero divided by zero. You can't have this chaos! Therefore the only way is to forbid this.
 You are not allowed to divide by zero - it brings total chaos into the world of numbers, that' even worse than a black hole!!!
 
+(or in other words: if you just stepped into a black hole, then there is no way out :-) )
+
 The book gives an example of a big warship, that's a ship almost as big as a city - and it stopped moving at all.
 Because some important computer program stopped working - the program divided by zero, and that kills any computer program! Dividing by zero is not allowed!!!
+
 Some say that the ship had to be pulled by another ship, because it could not move on its own, and they didn't know how to fix the problem with the computer https://medium.com/dataseries/when-smart-ships-divide-by-zer0-uss-yorktown-4e53837f75b2 
 
 
