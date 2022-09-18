@@ -1693,9 +1693,9 @@ By the way: all this had a lot of religious meaning in Egypt - when a star disap
 
 There is a youtube lecture here, maybe you manage to understand more than me... https://www.youtube.com/watch?v=Ak07dI-TALU
  
--------
 
-Now lets look at the number system that was in use:
+Now lets look at the number systems
+-----------------------------------
 
 In Egypt they kept counting to ten, but they had different signs for every power of ten, they had a special sign for a hundred and another sign for one thousand.
 If you want to say two hundred then just draw two signs for one hundred.
