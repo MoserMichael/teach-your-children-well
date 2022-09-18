@@ -1,0 +1,139 @@
+https://en.wikipedia.org/wiki/Akitu
+
+    spring festival, first day of Nisan (celebrate the sowing of barley)
+    They would feast for twelve days (?)
+
+THE BABYLONIAN NEW YEAR FESTIVAL: NEW INSIGHTS FROM THE CUNEIFORM TEXTS AND THEIR BEARING ON OLD TESTAMENT STUDY
+by KAREL VAN DER TOORN
+
+    Sumerian Akitu festival - had two per year! (also stars were used to find the exact date, just like with Opet in Egypt - the Iku star in constellation of Pegasus would have to rise!!!)
+
+        - had it in Nisan (opening of the civil year)
+        - had it in Tashrity (opening of the religious year)
+    
+        = Nisan festival
+            - 4th Nisan - King went to temple of Nabu to receive sceptre of kingship
+              Then king goes to hometome of Nabu - to bring the image to Babylon
+            - 5th Nisan: king submitted to a test at the temple of marduk.
+              The priest slapped the king on his face (sign of accusation) and the king pleaded non guilty!
+               /king was marginal for a moment, then he was restored into his position/
+           - 8th Nisan - the other gods gather to escort the god marduk into his temple.
+           - 11th Nisan - final gathering of gods
+
+           (all of these days were public holidays, non working days)
+           Political decisions: king proclaims appointments in his administration, treaties, succession announcements, amnesties of political prisoners
+
+           "The Nisan ceremonies are a divine ratification of the royal mandate, annually renewed"
+
+    Says the Hebrew festival had also an element of this: processions of King Salomon and David to the temple!  
+
+https://en.wikipedia.org/wiki/Opet_Festival
+
+    Opet festival - during the flooding of the Nile (second month during the season of Akhet)
+
+        “Opet began on II Akhet 15 under Thutmose III and lasted 11 days (Sethe 1907: 824, line 10); by the beginning of the reign of Ramesses III, the festival stretched over 24 days.” 
+
+They also had lots of other festivals! https://ancientegyptonline.co.uk/festivalcalendar/ 
+
+https://ancientegyptonline.co.uk/calendar/
+
+    Says they first had a lunar calendar in pre dynastic Egypt!
+
+    Later the rising of Sirius + next new moon was the start of the New year. (Astronomical alignment to keep lunar and solar year in Sync!)
+    (Sirius is the biggest star in the sky, the big one in the constellation of Canis Major (big dog in Greek) https://en.wikipedia.org/wiki/Canis_Major ) 
+
+https://www.youtube.com/watch?v=Ak07dI-TALU
+
+Astronomical timekeeping in ancient Egypt
+
+    two words/types of eternity - one for linear, one for cyclical progression (similar to how we categorize the world?)
+
+    Early calendars are an attempt of combining observations on the cyclical lunar and solar year (these two are a bit out of step, so you need to fudge)
+
+    
+    Egypt three seasons (according to Solar calendar). 
+        each season with four months of 30 days.
+        four seasons make 360 days, they added five extra festival days, to make it 365
+
+        Seasons:
+            Akhet - Nile flooding season
+            Peret - growth season
+            Shemu - harvest season
+        
+        A week had ten days! (that's called a decade - confusing!!!)
+
+
+    How is an hour measured? (how to subdivide days) /
+        
+        Sun   - sun dials - for use during the day (15th century BC) Divided the day into 12 segments. Also: different hours can have different length!
+
+        Water - waterclocks. (15th century BC) A pot with water, it has a small hole so that water flows out, used to measure the hours during the night (12 hours for each night)
+                It divided the hours during the night! https://en.wikipedia.org/wiki/Water_clock#Egypt
+                The hours are of different length during the seasons, so they had different marks for each month of the year to measure that! (uniformity of length of hours is not a priority!)
+
+        Star clocks
+                    2000BC diagonal star clock/star table
+                    1300BC - text: "Fundamentals of the course of stars", describes the motion of stars, related to the year of the sun. 
+                             (text is carved into the ceiling in a room of the Osireion temple, so that the text is well preserved)
+                             Decans - list of 36 stars, each star in this group is visible during a different part of the year!
+                    1100BC - another star clock
+
+
+                    Most star clocks are coffins, with astronomical inscriptions on the inside (but not all of them)
+
+
+                   https://youtu.be/Ak07dI-TALU?t=1964 - that's how the star tables worked!
+                        - horizontal line: each month of a year is divided into three weeks (each week gets ten days)
+                          each week gets it's own column
+
+                        - vertical line: the night is divided into 12 hours.
+                        
+                        - now each cell of the table: star number N is rising during this our of the night for this particular week of the year!!
+
+                  The trick with the star table:
+                       Each of the stars do stuff fairly regularly:
+                        - they appear (Egyp. Tepet - star rise? first appearance after darkness: Mesut ?), are visible for ninety days, then they disappear (Shen Duat - descent into the underworld?) and stay invisible for 70 day
+                          The shift in the time of rising for a star after ten days is called Tepet
+                        - The trick of the star table was to divide the stars neatly, so that you have something to count for every time of the year! This group of stars tracked by the table is called decans (after ten -
+
+   Ancient Egyptian Astronomy Database
+   https://aea.physics.mcmaster.ca/index.php/en/
+
+Egyptian writing systems:
+
+    https://en.wikipedia.org/wiki/Egyptian_hieroglyphs
+    Oldest writing system, can be written in any direction!
+    Best suited for inscription in stones
+
+    Most scholars think that the idea of writing was adopted from Mesopotamia (they had some sort of proto-writing system from 8000 years ago, while Egyptian proto-writing systems appeared much later - in 4th millennium BC)
+    /or maybe independently developed, they don't know for sure/
+
+    Three types of glyphs
+        - Phonograms : phonetic reading (like a letter)
+        - logogram : (word or morpheme)
+        - ideogram : sign to help understanding/disambiguating the next symbol.
+
+        Now the same sign can take on any of these roles, depending on context!!!
+
+
+    https://en.wikipedia.org/wiki/Hieratic - the 'old' script used from third millenium BC (cursive writing system - meaning that adjacent letters were joined together)
+    writing from left to right.
+    (mainly used for sacral text and literature)
+    Signs are most often derived forms of Hieroglyphs (so that they are easier to write in ink)
+
+    https://en.wikipedia.org/wiki/Demotic_(Egyptian) - used mainly during the new kingdom
+    (mainly used for administrative, legal, commercial texts)
+    More alphabet based
+
+    
+https://en.wikipedia.org/wiki/Egyptian_numerals
+    It was a system of numeration based on multiples of ten, often rounded off to the higher power, written in hieroglyphs
+    It was not a positional system! (had hieroglyphs for 10, 100, 1000, 10000, 100000, 1000000 (or more)
+        - and they would stack them together
+
+    Had a hieroglyph for zero - as a baseline for things!
+
+    They had an alternative number system, based on Hieratic script
+        - separate numerals for multiples of 10 (10,200...900) then multiples of 1000, 10000, etc. 
+          each numeral mapped to a Hieratic letter.
+

@@ -1,0 +1,58 @@
+
+Charles Seife - Zero
+
+- fear of zero,
+
+- linked to fear of chaos:
+    Greeks: darkness is the mother of all things, from darkness sprang chaos
+    Jews: in the beginning there was chaos: Tohu va-bohu
+
+- a zero alone misbehaves:
+    number-a + another-number = number-b ; number-b != number-a
+    number-a + zero = number-a (unchanged!)
+
+    this violates axiom of archimedes: any-number * n , if n gets bigger then the product will exceed any other number!    
+- why does multiplication with zero result in zero?
+
+    because associativity:
+
+    a * (b + c) = a * b + b * c
+    
+    a * b = a * (b + 0)  because b = b + 0
+
+    now 
+    a * b = a * b + a * 0 
+
+    now therefore 
+
+    a * 0 = 0
+
+- Multiplication is like stretching the rubber band of numbers! multiply by two, and you stretch it two times!
+
+  Now multiply by zero, and all of the numbers collapse into a single point - zero!
+
+- the madness starts with division:
+
+    
+    if we allow for division by 0:
+
+        2 * 0 = 0 so 2 = 0 / 0 - because division is the inverse of multiplication
+
+        4 * 0 = 0  so 4 = 0 / 0 
+
+    And so it goes that any number equals any other number, which is not true!
+
+
+    The only way out is to forbid division by zero! You can't do it, it is not allowed!!!
+
+    The book gives an example of a big warship, that's a ship as big as a city - and it stopped moving at all.
+    Because some important computer program stopped working - the program divided by zero, and that kills any computer program! Dividing by zero is not allowed!!!
+    Some say that the ship had to be pulled by another ship, because it could not move on its own, and they didn't know how to fix the problem https://medium.com/dataseries/when-smart-ships-divide-by-zer0-uss-yorktown-4e53837f75b2 
+
+    You often can get very big errors in calculation, if you skip over division by zero, you can prove anything if you allow division by zero.
+
+
+Pythagoras didn't like zero
+    - he thought that everything in nature is ruled by numbers.
+
+
