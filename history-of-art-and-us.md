@@ -1827,7 +1827,7 @@ Achilles was a warrior, he was strong and could run very fast, the tortoise is a
 
 ![](media/achilles-and-tortoise.png) 
 
-Now the problem is that if you say that time and space are continuous then each time that Achilles is reaching the Tortoise, then the Tortoise has moved a little bit onward, so that Achilles will never reach the Tortoise. 
+Now the problem is that if you say that time and space are like a rubber band that can be stretched again and again, then the following happens: Each time that Achilles is reaching the Tortoise then the Tortoise has moved a little bit onward. This way Achilles will never reach the Tortoise!
 
 The Philosopher Xenon was the first to tell this story, and all the other Philosophers did not find a problem with the story. Xenon said: can you see? Any movement is impossible, we can't move! This is called a paradox: it is something that can't be, however you can explain why it can be by means of logic.
 
