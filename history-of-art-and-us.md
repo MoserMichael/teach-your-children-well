@@ -1827,16 +1827,17 @@ Achilles was a warrior, he was strong and could run very fast, the tortoise is a
 
 ![](media/achilles-and-tortoise.png) 
 
-Now the problem is that if you say that time and space are like a rubber band that can be stretched again and again, then the following happens: Each time that Achilles is reaching the Tortoise then the Tortoise has moved a little bit onward. This way Achilles will never reach the Tortoise!
+If you say that time and space are like a rubber band that can be stretched again and again, then the following happens: Each time that Achilles is reaching the Tortoise then the Tortoise has moved a little bit onward. This way Achilles will never reach the Tortoise!
 
-The Philosopher Xenon was the first to tell this story, and all the other Philosophers did not find a problem with the story. Xenon said: can you see? Any movement is impossible, we can't move! This is called a paradox: it is something that can't be, however you can explain why it can be by means of logic.
+The Philosopher Xenon was the first to tell this story, and all the other Philosophers did not find a problem with the story. Xenon said: can you see? Any movement is impossible, we can't move! This is called a paradox: it is something that can't be, however you can explain why it has to be.
 
-One philosopher who tried to solve this problem was Democritus: he said that time and space can't be divided again and again, at some point you have the smallest thing that can't be divided - the Atom. He would say that the race between Achilles and the Tortoise can't go on forever, because at some point you will reach the smallest unit of length and the tortoise can't divide the space even further.
+One philosopher who tried to solve this problem was Democritus: he said that time and space can't be divided again and again, at some point you have the smallest thing that can't be divided - the Atom. He would say that the race between Achilles and the Tortoise can't go on forever, because at some point you will reach the smallest unit of length and the tortoise can't divide the space even further. Interesting that idea of the atom seems to come as a result of trying to deal with Achilles and the tortoise!
 
 But in terms of logic and number the story of Xenon is all right! The philosophers say that numbers can grow on and on, they said that there is no number that is the biggest one, because you can always find a bigger one by adding a one to it. 
 
 Now they didn't like the idea of infinity - something that is bigger than every other numbers, and they didn't like the idea of zero as a number. Both of these ideas are related.
 
+Let's try to understand, why?
 
 <!--
 How did people start to think in terms of numbers?
