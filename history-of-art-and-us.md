@@ -1833,7 +1833,9 @@ The Philosopher Xenon was the first to tell this story, and all the other Philos
 
 One philosopher who tried to solve this problem was Democritus: he said that time and space can't be divided again and again, at some point you have the smallest thing that can't be divided - the Atom. He would say that the race between Achilles and the Tortoise can't go on forever, because at some point you will reach the smallest unit of length and the tortoise can't divide the space even further.
 
-But in terms of logic and number the story of Xenon is ok!
+But in terms of logic and number the story of Xenon is all right! The philosophers say that numbers can grow on and on, they said that there is no number that is the biggest one, because you can always find a bigger one by adding a one to it. 
+
+Now they didn't like the idea of infinity - something that is bigger than every other numbers, and they didn't like the idea of zero as a number. Both of these ideas are related.
 
 
 <!--
