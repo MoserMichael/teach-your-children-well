@@ -1757,11 +1757,11 @@ However they used the Babylonian number system in Greece too. Alexander conquere
 The problem with zero
 ---------------------
 
-Some stuff here is taken from a book by "Zero: The Biography of a Dangerous Idea" by Charles Seife, I am trying to retell some of it.
+Some stuff here is taken from a book by "Zero: The Biography of a Dangerous Idea" by Charles Seife, I am trying to retell some of it in simple words.
 
-We know about the natural numbers, 1,2,3,.... Now 0 is the number right before 1 - it describes the amount of ... nothing.
+We know about the natural numbers, These are the numbers 1,2,3,.... Now 0 is the number right before 1 - it describes the amount of ... nothing.
 
-In ancient Egypt they did have a concept of zero, but just as a baseline, Today we measure the height in geography as 'meters above the sea level', where the 'sea level' is zero, as the baseline.
+In ancient Egypt they did have a concept of zero, but just as a starting point, Today we measure the height in geography as 'meters above the sea level', where the 'sea level' is zero is the starting point, the baseline.
 
 ![](media/egypt-zero.gif) That is the symbol for zero, Even the great pyramids had this on their lowest level, it's their baseline, the lowest level of the pyramid. 
 
@@ -1783,7 +1783,7 @@ That's a big deal:
 
 Lets take the line of numbers  1..2..3..4..5..6...  
 
-Imagine that the line of numbers is a rubber band, if we multiply each of the numbers by three then that's as if we stretch this rubber band by three times!
+Imagine that the line of numbers is a band made of rubber that can be stretched, if we multiply each of the numbers by three then that's as if we make the rubber band three times longer, we stretch it by three times!
 
 3..6..9..12..15..24.....
 
@@ -1811,6 +1811,37 @@ The book gives an example of a big warship, that's a ship almost as big as a cit
 Because some important computer program stopped working - the program divided by zero, and that kills any computer program! Dividing by zero is not allowed!!!
 
 Some say that the ship had to be pulled by another ship, because it could not move on its own, and they didn't know how to fix the problem with the computer https://medium.com/dataseries/when-smart-ships-divide-by-zer0-uss-yorktown-4e53837f75b2 
+
+More problems with zero
+-----------------------
+
+Now you can divide one by a fraction, divide one by a half, and you get two. Divide one by one third and you get three.
+You can always find a smaller fraction, by dividing it by two, so if you divide the 1 by this even smaller fraction, then you get an even bigger number! Now that gives you something that is getting closer and closer towards infinity.
+
+![](media/graph-of-function-1-x.jpg)
+
+This is a graph of the values for 1 / x , on the horizontal axis you see the values of x, now the vertical axis is the resulting value of 1 / x
+
+Now you also get other problems - like the riddle of Achilles and the tortoise.
+Achilles was a warrior, he was strong and could run very fast, the tortoise is a very slow animal, but the turtoise said: lets make a race, but I am a bit slow, so you will have to give me a headstart.
+
+![](media/achilles-and-tortoise.png) 
+
+Now the problem is that if you say that time and space are continuous then each time that Achilles is reaching the Tortoise, then the Tortoise has moved a little bit onward, so that Achilles will never reach the Tortoise. 
+
+The Philosopher Xenon was the first to tell this story, and all the other Philosophers did not find a problem with the story. Xenon said: can you see? Any movement is impossible, we can't move! This is called a paradox: it is something that can't be, however you can explain why it can be by means of logic.
+
+One philosopher who tried to solve this problem was Democritus: he said that time and space can't be divided again and again, at some point you have the smallest thing that can't be divided - the Atom. He would say that the race between Achilles and the Tortoise can't go on forever, because at some point you will reach the smallest unit of length and the tortoise can't divide the space even further.
+
+But in terms of logic and number the story of Xenon is ok!
+
+
+<!--
+How did people start to think in terms of numbers?
+--------------------------------------------------
+We forgot to tell about another system of Numbers, this system of numbers was first invented by the Sumerians (that was the culture that came before the Babylonians), the Phoenicians had it, the Greeks had it and the Jews have the same number system.
+//-->
+
 
 
 
