@@ -1704,6 +1704,8 @@ Wikipedia is explaining this in a picture.
 
 ![](media/egyptian-numerals.png) 
 
+I like the sign for one million, it looks as if the guy is raising his hands and saying "that's too much!"
+
 Now the whole thing gets complicated, when you want to have fractions, like one half or one third - so people tried to avoid these situations. You can look at it here, I didn't understand the concept of fractions... https://en.wikipedia.org/wiki/Egyptian_numerals 
 
 Now what about Babylonia? Here they didn't count to ten, they counted to sixty! 
@@ -1712,7 +1714,7 @@ Now what about Babylonia? Here they didn't count to ten, they counted to sixty!
 
 Actually we still have a bit of that today, you have sixty seconds in a minute, sixty minutes in an hour. You have 360 degrees in a circle. (all because the Babylonians were experts in astronomy, and astronomy had something to do with measuring time and space)
 
-Why sixty? We can guess:
+Why sixty? We don't know for sure, but we can guess:
 
 Maybe because of the lunar calendar, a lunar month is 29 years long, so the closes round number is thirty, two months are about sixty days.
 
@@ -1750,9 +1752,7 @@ In cuneiform that's written as:
 
 Now that zero is only a place holder, it is not a number - that's for good reasons.
 
-The classical Greek philosophers and mathematicians were very afraid of the concept of zero as a number, all by itself - and for good reasons... (but that is part of the next lesson)
-
-However they used the Babylonian number system in Greece too. Alexander conquered the Persian empire in 334BC, after that the Greek learned a lot from Babylonian mathematics and astronomy. Now they also used the Babylonian number system, just because it was much better than what they had!
+The Greeks used the Babylonian number system. Alexander conquered the Persian empire in 334BC, after that the Greek learned a lot from Babylonian mathematics and astronomy. Now they also used the Babylonian number system, just because it was much better than what they had!
 
 The problem with zero
 ---------------------
@@ -1835,18 +1835,28 @@ One philosopher who tried to solve this problem was Democritus: he said that tim
 
 But in terms of logic and number the story of Xenon is all right! The philosophers say that numbers can grow on and on, they said that there is no number that is the biggest one, because you can always find a bigger one by adding a one to it. 
 
-Now they didn't like the idea of infinity - something that is bigger than every other numbers, and they didn't like the idea of zero as a number. Both of these ideas are related.
+Now they didn't like the idea of infinity - something that is bigger than every other numbers, and they didn't like the idea of zero as a number - a number that is smaller than any positive integer. Both of these numbers are related.
 
 Let's try to understand, why?
 
 <!--
 How did people start to think in terms of numbers?
 --------------------------------------------------
-We forgot to tell about another system of Numbers, this system of numbers was first invented by the Sumerians (that was the culture that came before the Babylonians), the Phoenicians had it, the Greeks had it and the Jews have the same number system.
-//-->
+
+The first person to think of mathematical proofs was Thales of Miletus https://en.wikipedia.org/wiki/Thales_of_Miletus
+
+He was a rich man who came from the Greek town of Miletus, which is in Ionia - now that is part of Anatolia in Turkey. By the way: In Israel Greece is known as  יוון - javan, this comes from the place name Ionia. 
+Now Thales of Miletus travelled a lot to places like Egypt and the Persian empire (Babylon), where he learned a lot about geometry. Here they knew a lot about calculating the volume of pyramids and other geometric objects like circles. That was very important, because how would you build something big without knowing how much material you would need to build that?
+
+Now Thales did something new - he says that you can proof complicated things from simple facts.
+For example you know that Socrates is a Man and that all man have to die, this means that you can say that Socrates will have to die - you just took two facts and combined them. That's the magic of logical thinking, and Thales used that to proof things in Geometry!
 
 
+We forgot to tell about another system of Numbers, this system of numbers was first invented by the Sumerians (that was the culture that came before the Babylonians), the Phoenicians had a similar one, the Greeks have one  and the Jews have the same number system.
 
+The trick is to have a letter for each number from one to ten, another number for each of the numbers 10, 20, 30, ... 90, and other letters for each number in the hundreds: 100, 200, 300, 400, 500 .... 900:
+
+==>
 
 
 
