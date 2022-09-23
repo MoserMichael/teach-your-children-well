@@ -1818,7 +1818,7 @@ More problems with zero
 Now you can divide one by a fraction, divide one by a half, and you get two. Divide one by one third and you get three.
 You can always find a smaller fraction, by dividing it by two, so if you divide the 1 by this even smaller fraction, then you get an even bigger number! Now that gives you something that is getting closer and closer towards infinity.
 
-![](media/graph-of-function-1-x.jpg)
+![](media/graph-of-funtion-1-x-take2.png)
 
 This is a graph of the values for 1 / x , on the horizontal axis you see the values of x, now the vertical axis is the resulting value of 1 / x
 
