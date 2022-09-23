@@ -1839,19 +1839,79 @@ Now they didn't like the idea of infinity - something that is bigger than every 
 
 Let's try to understand, why?
 
-<!--
 How did people start to think in terms of numbers?
 --------------------------------------------------
 
-The first person to think of mathematical proofs was Thales of Miletus https://en.wikipedia.org/wiki/Thales_of_Miletus
+The first person to think of mathematical proofs was Thales https://en.wikipedia.org/wiki/Thales_of_Miletus
 
-He was a rich man who came from the Greek town of Miletus, which is in Ionia - now that is part of Anatolia in Turkey. By the way: In Israel Greece is known as  יוון - javan, this comes from the place name Ionia. 
-Now Thales of Miletus travelled a lot to places like Egypt and the Persian empire (Babylon), where he learned a lot about geometry. Here they knew a lot about calculating the volume of pyramids and other geometric objects like circles. That was very important, because how would you build something big without knowing how much material you would need to build that?
+Thales came from the Greek town of Miletus, which is in Ionia - now that is part of Anatolia in Turkey. By the way: In Israel Greece is known as  יוון - javan, this name comes from the place name Ionia. These guys liked to travel!
+
+Now Thales had a lot of money, so he could travel to Egypt (traveling was expensive). In Egypt he learned a lot about geometry. The Egyptians knew a lot about calculating the volume of pyramids and other geometric objects. That was very important, because how would you build something big without knowing how many stones are needed to build the thing?
+
+![](media/pyramids.jpeg)
 
 Now Thales did something new - he says that you can proof complicated things from simple facts.
-For example you know that Socrates is a Man and that all man have to die, this means that you can say that Socrates will have to die - you just took two facts and combined them. That's the magic of logical thinking, and Thales used that to proof things in Geometry!
+For example you know that Socrates is a Man and that all man have to die, this means that you can say that Socrates will have to die - you just took two facts and combined them. That's the magic of logical thinking, and Thales used that to proof things in Geometry, this turns out to be a kind of superpower!
+
+He used this superpower to find the height of the great Pyramid. He did that by measuring the length of the shadow of the pyramid, also he looked at the shadow of a similar triangle and took its measure, then he calculated the height of the pyramid.
+
+![](media/pyramid-heights.jpeg)
+
+Let's learn a bit more about this trick:
+
+The first thing that Thales found is the following:  
+
+![](media/thales1.png) 
+
+If you cut an angle with three parallel lines A1-B1, A2-B2 A3-B3 (these three lines are parallel - they will never meet each other on the plane), 
+Thales noq says: if A1-A2 is equal to A2-A3  then B1-B2 is equal to B2-B3
+
+Lets prove that! 
+
+![](media/thales2.png)
+
+Now lets draw two lines B1-L and  B2-M these two lines are parallel to A1-A3. 
+
+1) Now we see that the angle B1 K B2 is equal to angle A1 A2 B2, also angle B2 M B2 is equal to angle A1 A3 B3 - because they are formed by parallel lines.     
+
+Now that's the reason by angle B1 K B2 is equal to angle B2 M B3 
+
+2) Also the segment B2 M is equal to B1 K - because they are equal to the parallel segments A1 A2 and A2 A3 (remember that was one of the conditions)
+
+3) Also angles K B1 B2 is equal to angle M B2 B3 - they are formed by parallel lines.
+
+Now we know if two triangles have a common side and two common angles with that side, then these triangles are equal, so we just proved that segment B1 B2 is equal to B2 B3
+
+Now that is used to prove the following: 
+
+![](media/thales3.png)
+
+If C B is parallel with C1 B1 then
+(A C1) / (A C) = (A B1) / (A B)
+
+You got the idea? This is what Thales used to measure the height of the pyramid! If you look at triangle formed by the pyramid and its shadow and at the triangle formed by the stick and its shadow then these are two similar triangles, if you know the length of the two shadows and the length of the stick, then you can find the length of the pyramid!
+
+Let's use the last statement to prove this one!
+
+![](media/thales3.png)
+
+Let's find a common divisor of length P, so that AC = P * n and  A C1 = P * m
 
 
+Then let's draw parallel lines through all of the points along the C line, where these points have a distance to A of P * x.
+
+![](media/thales5.png)
+
+Now on the other side, on the B you get a segment of line K that is formed by the smallest triangle.
+
+Now A B = n * k and A B1 = m * k
+
+We get the same proportions!
+
+(A B1) / (A B) = (m * k) / ( n * k) = m / n
+
+
+<!--
 We forgot to tell about another system of Numbers, this system of numbers was first invented by the Sumerians (that was the culture that came before the Babylonians), the Phoenicians had a similar one, the Greeks have one  and the Jews have the same number system.
 
 The trick is to have a letter for each number from one to ten, another number for each of the numbers 10, 20, 30, ... 90, and other letters for each number in the hundreds: 100, 200, 300, 400, 500 .... 900:
