@@ -1893,14 +1893,11 @@ You got the idea? This is what Thales used to measure the height of the pyramid!
 
 Let's use the last statement to prove this one!
 
-![](media/thales3.png)
-
 Let's find a common divisor of length P, so that AC = P * n and  A C1 = P * m
-
 
 Then let's draw parallel lines through all of the points along the C line, where these points have a distance to A of P * x.
 
-![](media/thales5.png)
+![](media/thales4.png)
 
 Now on the other side, on the B you get a segment of line K that is formed by the smallest triangle.
 
