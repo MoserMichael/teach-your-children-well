@@ -1802,7 +1802,7 @@ Let's assume that zero plays by the same rule
 
 4 * 0 = 0  so therefore 4 = 0 / 0
 
-So any number is zero divided by zero. You can't have this chaos! Therefore the only way is to forbid this.
+So any number is zero divided by zero. Also any number is equal to any other number! You can't have this chaos! Therefore the only way is to forbid this.
 You are not allowed to divide by zero - it brings total chaos into the world of numbers, that' even worse than a black hole!!!
 
 (or in other words: if you just stepped into a black hole, then there is no way out :-) )
@@ -1816,14 +1816,14 @@ More problems with zero
 -----------------------
 
 Now you can divide one by a fraction, divide one by a half, and you get two. Divide one by one third and you get three.
-You can always find a smaller fraction, by dividing it by two, so if you divide the 1 by this even smaller fraction, then you get an even bigger number! Now that gives you something that is getting closer and closer towards infinity.
+You can always find a smaller fraction, by dividing it by two, so if you divide the 1 by this even smaller fraction, then you get an even bigger number! Now dividing one by smaller and smaller numbers gives you something that is getting closer and closer towards infinity.
 
 ![](media/graph-of-funtion-1-x-take2.png)
 
 This is a graph of the values for 1 / x , on the horizontal axis you see the values of x, now the vertical axis is the resulting value of 1 / x
 
 Now you also get other problems - like the riddle of Achilles and the tortoise.
-Achilles was a warrior, he was strong and could run very fast, the tortoise is a very slow animal, but the turtoise said: lets make a race, but I am a bit slow, so you will have to give me a headstart.
+Achilles was a warrior/soldier, he was strong and could run very fast, the tortoise is a very slow animal, but the turtoise said: lets make a race - lets see who is faster, but I am a bit slow, so you will have to give me a headstart.
 
 ![](media/achilles-and-tortoise.png) 
 
@@ -1846,16 +1846,24 @@ The first person to think of mathematical proofs was Thales https://en.wikipedia
 
 Thales came from the Greek town of Miletus, which is in Ionia - now that is part of Anatolia in Turkey. By the way: In Israel Greece is known as  יוון - javan, this name comes from the place name Ionia. These guys liked to travel!
 
-Now Thales had a lot of money, so he could travel to Egypt (traveling was expensive). In Egypt he learned a lot about geometry. The Egyptians knew a lot about calculating the volume of pyramids and other geometric objects. That was very important, because how would you build something big without knowing how many stones are needed to build the thing?
+Now Thales had a lot of money, so he could travel to Egypt (traveling did cost a lot of money!). In Egypt he learned a lot about geometry. The Egyptians knew a lot about calculating the volume of pyramids and other geometric objects. That was very important, because how would you build something big without knowing how many stones are needed to build the thing?
 
 ![](media/pyramids.jpeg)
 
 Now Thales did something new - he says that you can proof complicated things from simple facts.
-For example you know that Socrates is a Man and that all man have to die, this means that you can say that Socrates will have to die - you just took two facts and combined them. That's the magic of logical thinking, and Thales used that to proof things in Geometry, this turns out to be a kind of superpower!
+For example: you know that Socrates is a Man and that all man have to die, this means that you can say that Socrates will have to die - you just took two facts and combined them. That's the magic of logical thinking, and Thales used that to proof things in Geometry, this turns out to be a kind of superpower!
 
 He used this superpower to find the height of the great Pyramid. He did that by measuring the length of the shadow of the pyramid, also he looked at the shadow of a similar triangle and took its measure, then he calculated the height of the pyramid.
 
 ![](media/pyramid-heights.jpeg)
+
+height-of-pyramid / shadow-of-pyramid = height-of-stick / shadow-of-stick = ratio
+
+height-of-pyramid = length-of-shadow-of-pyramid * ratio
+
+In the next lesson we will learn, how Thales proofed this. (that's will be important to understand why the Greeks liked ratios, some greek philosophers like Pythagoras thought that everything in the world is a ratio. Now zero breaks this concept, because you can't divide by zero! but we will get to that.
+
+----------
 
 Let's learn a bit more about this trick:
 
