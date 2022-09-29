@@ -1916,6 +1916,53 @@ We get the same proportions!
 (A B1) / (A B) = (m * k) / ( n * k) = m / n
 
 
+Fractions lead to the philosophers of Athens 
+--------------------------------------------
+
+This is a painting by Raphael, it was painted some two thousand years after Thales.
+This painting is very famous, it is the first painting that is using the tool of perspective.
+
+The picture is showing the Greek philosophers that came after Thales. 
+
+![](media/the-school-of-athens.jpeg)
+
+Pythagoras is the philosopher in the lower left corner, he lived right after Thales - and not far from where Thales left.
+
+![](media/pythagoras.jpeg)
+
+Pythagoras did think and do a lot of crazy things, he made up his own kind of religion. That was a bit dangerous - Pythagoras and his pupils had to move away from where they lived, they had to do so several times.
+
+Now Pythagoras is famous for having made a religion out of numbers, and especially fractions! 
+
+Pythagoras liked music: they had an instrument called the Lyre - it has seven strings. There is a course on youtube that teaches how to play that instrument! https://www.youtube.com/watch?v=1ShcYrFPlbw
+
+![](media/lyre.jpeg)
+
+The lyre is a bit like a guitar: You need to press on a part of the string, then you pluck the other end of the string. The string that is on the other part of the finger is making a sound, as it is vibrating up and down. These vibrations move the air around the string up and down - that's how a sound is made.
+
+Now you get different sounds. If the finger is leaving a short string then you get a note with a higher sound - the string is moving very fast. If you are leaving a longer string then you get a note that sounds lower.
+
+The sound of the string depends on the ratio between the length of the whole string and the length of the remaining string!
+
+Pythagoras said that everything in music is a number - think of the ratio of the whole string to the length of the part that is making the sound.
+Now Pythagoras also said that everything else is in the world a number! For example he said that the sun and all of the planets are turning around the same point - he said that they make music as they move - the music of the heaven (or the music of the spheres)
+
+All of this became very important - Plato was an important philosopher (actually you see him right in the middle of the picture of Raphael, Plato is the big guy in the middle!)
+Plato said that first came abstract ideas - and that everything that is real is only a shadow of an abstract idea. That's very similar to what Pythagoras said - as numbers and rules for numbers are abstract ideas. 
+
+Pythagoras made one of the first schools of philosopher - for a very long time people studied his philosophy but also other things like mathematics and geometry. At least a third of what is written in the big book on geometry by Euclid came from this school of philosophers!
+
+Now all of this world view breaks down with zero as a number - you can't divide by zero!
+There are even more problems - not every number can be written down as a ratio between two integers. The square root of two is not a rational number!
+Hippasus of Metapontum was the guy who proofed that, and Pythagoras and his friends didn't like it. Some say that they killed Hippasus, others say that he only had to go away - but it must have been very nasty, to say the least!
+
+
+
+
+
+
+
+
 <!--
 We forgot to tell about another system of Numbers, this system of numbers was first invented by the Sumerians (that was the culture that came before the Babylonians), the Phoenicians had a similar one, the Greeks have one  and the Jews have the same number system.
 
