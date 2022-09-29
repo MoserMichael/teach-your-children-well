@@ -1956,7 +1956,7 @@ Pythagoras made one of the first schools of philosopher - for a very long time p
 
 Now all of this world view breaks down with zero as a number - you can't divide by zero!
 There are even more problems - not every number can be written down as a ratio between two integers. The square root of two is not a rational number!
-Hippasus of Metapontum was the guy who proofed that, and Pythagoras and his friends didn't like it. Some say that they killed Hippasus, others say that he only had to go away - but it must have been very nasty, to say the least!
+Hippasus of Metapontum prooved that, and Pythagoras and his friends didn't like it at all. Some say that they killed Hippasus, others say that he only had to go away - but it must have been very nasty, to say the least!
 
 
 
