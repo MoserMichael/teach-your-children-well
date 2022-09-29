@@ -1926,7 +1926,7 @@ The picture is showing the Greek philosophers that came after Thales.
 
 ![](media/the-school-of-athens.jpeg)
 
-Pythagoras is the philosopher in the lower left corner, he lived right after Thales - and not far from where Thales left.
+Pythagoras is the philosopher in the lower left corner, he lived right after Thales - and not far from city of Miletus (that's  where Thales lived).
 
 ![](media/pythagoras.jpeg)
 
