@@ -1945,10 +1945,11 @@ Now you get different sounds. If the finger is leaving a short string then you g
 The sound of the string depends on the ratio between the length of the whole string and the length of the remaining string!
 
 Pythagoras said that everything in music is a number - think of the ratio of the whole string to the length of the part that is making the sound.
-Now Pythagoras also said that everything else is in the world a number! For example he said that the sun and all of the planets are turning around the same point - he said that they make music as they move - the music of the heaven (or the music of the spheres)
+Now Pythagoras also said that everything else in the world is also ruled by numbers! For example he said that the sun and all of the planets are turning around the same point in space.
+He said that the sun and the planets are making music as they move around this central point - that is the music of the heaven (or the music of the spheres in heaven - they didn't have a word for space)
 
-All of this became very important - Plato was an important philosopher (actually you see him right in the middle of the picture of Raphael, Plato is the big guy in the middle!)
-Plato said that first came abstract ideas - and that everything that is real is only a shadow of an abstract idea. That's very similar to what Pythagoras said - as numbers and rules for numbers are abstract ideas. 
+All of this became very important - Plato was an important philosopher (actually you see him right in the middle of the picture of Raphael, Plato is the guy right in the middle! (Funny that he isn't the biggest one in the picture)
+Plato said that the most important things in the world are abstract ideas - and that everything that is real is only a shadow of an abstract idea. That's very similar to what Pythagoras said - as numbers and rules for numbers are similar to abstract ideas. 
 
 ![](media/plato.png)
 
