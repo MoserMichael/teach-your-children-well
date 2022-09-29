@@ -1920,7 +1920,7 @@ Fractions lead to the philosophers of Athens
 --------------------------------------------
 
 This is a painting by Raphael, it was painted some two thousand years after Thales.
-This painting is very famous, it is the first painting that is using the tool of perspective.
+This painting is very famous, it is the first painting that is using the tool of perspective (things that are near to us are drawn bigger than things that are far away - these are drawn smaller, just like they do appear in the real world!)
 
 The picture is showing the Greek philosophers that came after Thales. 
 
