@@ -1950,6 +1950,8 @@ Now Pythagoras also said that everything else is in the world a number! For exam
 All of this became very important - Plato was an important philosopher (actually you see him right in the middle of the picture of Raphael, Plato is the big guy in the middle!)
 Plato said that first came abstract ideas - and that everything that is real is only a shadow of an abstract idea. That's very similar to what Pythagoras said - as numbers and rules for numbers are abstract ideas. 
 
+![](media/plato.png)
+
 Pythagoras made one of the first schools of philosopher - for a very long time people studied his philosophy but also other things like mathematics and geometry. At least a third of what is written in the big book on geometry by Euclid came from this school of philosophers!
 
 Now all of this world view breaks down with zero as a number - you can't divide by zero!
