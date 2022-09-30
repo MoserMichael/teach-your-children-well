@@ -1959,6 +1959,55 @@ Now all of this world view breaks down with zero as a number - you can't divide 
 There are even more problems - not every number can be written down as a ratio between two integers. The square root of two is not a rational number!
 Hippasus of Metapontum prooved that, and Pythagoras and his friends didn't like it at all. Some say that they killed Hippasus, others say that he only had to go away - but it must have been very nasty, to say the least!
 
+The proof that the square root of two is not a rational number 
+---------------------------------------------------------------
+
+This means that the square root of two can't be written as a fraction a / b where a and b are natural numbers. That was a dangerous truth, the friends of Pythagoras and the rest of the Greek philosophers didn't like that at all
+
+A very good proof is here - that's a great site for learning mathematics! Normally they like to skip over steps in mathematical proofs - they don't do that here!!! https://www.homeschoolmath.net/teaching/proof_square_root_2_irrational.php
+
+
+lets say that the square root of two can be written as a fraction a / b where a and be can't be written down as a product (can't be simplified), it can't be written as the product of two other numbers. The task is now to proof that this is not possible, then we found that the square root of two is not a rational number.
+
+square-root(2) = a / b ; lets square both sides of the equation
+
+
+2 = (a * a) / (b * b)
+
+2 * (b * b) = (a * a)
+
+This means that a * a is an even number - because you can write a * a as a product of two with another number!
+
+If a is not even then a * a is not even (adding a not even number to itself many times makes a not even number).
+So that means that a is an even number!
+
+So lets say that a = 2 * aa
+
+Now we know that 2 = (a * a) / (b * b)
+
+2 = (2 *aa) * (2 * aa) / (b * b) = (4 * aa * aa) / (b * b)
+
+2 = 4 * aa * aa / b * b
+
+1 = 2 * aa * aa / b * b 
+
+b * b = 2 * aa * aa
+
+Now we know that b is also an even number! 
+
+Now we found an error - if both a and b are even numbers, then they can be written as the product of two other numbers.
+
+if we found an error, then that means that two can't be written as a fraction of two natural numbers, it is irrational.
+
+
+
+
+
+
+
+
+
+
 
 
 
