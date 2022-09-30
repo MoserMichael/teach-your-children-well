@@ -1962,7 +1962,7 @@ Hippasus of Metapontum prooved that, and Pythagoras and his friends didn't like 
 The proof that the square root of two is not a rational number 
 ---------------------------------------------------------------
 
-This means that the square root of two can't be written as a fraction a / b where a and b are natural numbers. That was a dangerous truth, the friends of Pythagoras and the rest of the Greek philosophers didn't like that at all
+This means that the square root of two can't be written as a fraction a / b where a and b are natural numbers. That was a dangerous truth, the friends of Pythagoras didn't like that at all, as it would break the religion that their leader made up!
 
 A very good proof is here - that's a great site for learning mathematics! Normally they like to skip over steps in mathematical proofs - they don't do that here!!! https://www.homeschoolmath.net/teaching/proof_square_root_2_irrational.php
 
@@ -1973,7 +1973,7 @@ square-root(2) = a / b ; lets square both sides of the equation
 
 2 = (a * a) / (b * b)
 
-2 * (b * b) = (a * a)
+2 * (b * b) = (a * a) - we just multiplied both sides of the equation with (b * b), and that cancelled the lower part of the right hand side.
 
 This means that a * a is an even number - because you can write a * a as a product of two with another number!
 
