@@ -2,7 +2,7 @@
 
 ---23/06/22 17:15:30----------------------
 
-Now we are going to talk about the movie Wall-E
+Now we are going to talk about the animated movie Wall-E
 
 Here you have the song that comes after the movie:
 
