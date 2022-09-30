@@ -1966,7 +1966,6 @@ This means that the square root of two can't be written as a fraction a / b wher
 
 A very good proof is here - that's a great site for learning mathematics! Normally they like to skip over steps in mathematical proofs - they don't do that here!!! https://www.homeschoolmath.net/teaching/proof_square_root_2_irrational.php
 
-
 lets say that the square root of two can be written as a fraction a / b where a and be can't be written down as a product (can't be simplified), it can't be written as the product of two other numbers. The task is now to proof that this is not possible, then we found that the square root of two is not a rational number.
 
 square-root(2) = a / b ; lets square both sides of the equation
@@ -1996,6 +1995,7 @@ b * b = 2 * aa * aa
 Now we know that b is also an even number! 
 
 Now we found an error - if both a and b are even numbers, then they can be written as the product of two other numbers.
+At the beginning it was said that this can't be, we found a contradiction!
 
 if we found an error, then that means that two can't be written as a fraction of two natural numbers, it is irrational.
 
