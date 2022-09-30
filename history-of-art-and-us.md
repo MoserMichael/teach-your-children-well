@@ -1865,14 +1865,13 @@ In the next lesson we will learn, how Thales proofed this. (that's will be impor
 
 ----------
 
-Let's learn a bit more about this trick:
 
-The first thing that Thales found is the following:  
+Thales found is the following, as a preparation of the proof:
 
 ![](media/thales1.png) 
 
-If you cut an angle with three parallel lines A1-B1, A2-B2 A3-B3 (these three lines are parallel - they will never meet each other on the plane), 
-Thales noq says: if A1-A2 is equal to A2-A3  then B1-B2 is equal to B2-B3
+you cut an angle with three parallel lines A1-B1, A2-B2 A3-B3 (these three lines are parallel - they will never meet each other on the plane), 
+Thales now says: if A1-A2 is equal to A2-A3  then B1-B2 is equal to B2-B3
 
 Lets prove that! 
 
@@ -1890,7 +1889,7 @@ Now that's the reason by angle B1 K B2 is equal to angle B2 M B3
 
 Now we know if two triangles have a common side and two common angles with that side, then these triangles are equal, so we just proved that segment B1 B2 is equal to B2 B3
 
-Now that is used to prove the following: 
+Now this preparation is used in the following proof: 
 
 ![](media/thales3.png)
 
@@ -1918,6 +1917,8 @@ We get the same proportions!
 
 Fractions lead to the philosophers of Athens 
 --------------------------------------------
+
+This stuff became very important, let's see how:
 
 This is a painting by Raphael, it was painted some two thousand years after Thales.
 This painting is very famous, it is the first painting that is using the tool of perspective (things that are near to us are drawn bigger than things that are far away - these are drawn smaller, just like they do appear in the real world!)
@@ -1957,7 +1958,7 @@ Pythagoras made one of the first schools of philosopher - for a very long time p
 
 Now all of this world view breaks down with zero as a number - you can't divide by zero!
 There are even more problems - not every number can be written down as a ratio between two integers. The square root of two is not a rational number!
-Hippasus of Metapontum prooved that, and Pythagoras and his friends didn't like it at all. Some say that they killed Hippasus, others say that he only had to go away - but it must have been very nasty, to say the least!
+Hippasus of Metapontum proved that, and Pythagoras and his friends didn't like it at all. Some say that they killed Hippasus, others say that he only had to go away - but it must have been very nasty, to say the least!
 
 The proof that the square root of two is not a rational number 
 ---------------------------------------------------------------
