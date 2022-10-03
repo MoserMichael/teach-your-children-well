@@ -1967,7 +1967,11 @@ This means that the square root of two can't be written as a fraction a / b wher
 
 A very good proof is here - that's a great site for learning mathematics! Normally they like to skip over steps in mathematical proofs - they don't do that here!!! https://www.homeschoolmath.net/teaching/proof_square_root_2_irrational.php
 
-lets say that the square root of two can be written as a fraction a / b where a and be can't be written down as a product (can't be simplified), it can't be written as the product of two other numbers. The task is now to proof that this is not possible, then we found that the square root of two is not a rational number.
+Lets say that the square root of two can be written as a fraction a / b - where a and be can't be written down as a product of two other numbers (this means that a and b can't be simplified). The task is now to proof that this is not possible.
+If we manage to find such a contradiction, then then we found that the square root of two is not a rational number.
+
+
+We start with the hypothesis:
 
 square-root(2) = a / b ; lets square both sides of the equation
 
@@ -1982,6 +1986,10 @@ If a is not even then a * a is not even (adding a not even number to itself many
 So that means that a is an even number!
 
 So lets say that a = 2 * aa
+This means that a can be simplified (this contradicts with the problem statement)
+
+
+Now lets show that b can be simplified too!
 
 Now we know that 2 = (a * a) / (b * b)
 
@@ -1995,14 +2003,12 @@ b * b = 2 * aa * aa
 
 Now we know that b is also an even number! 
 
+that means that b can also be written as the product of two numbers, it can be simplified!
+
 Now we found an error - if both a and b are even numbers, then they can be written as the product of two other numbers.
 At the beginning it was said that this can't be, we found a contradiction!
 
-if we found an error, then that means that two can't be written as a fraction of two natural numbers, it is irrational.
-
-
-
-
+if we found an error - a contradiction, then that means that two can't be written as a fraction of two natural numbers, it is irrational.
 
 
 
