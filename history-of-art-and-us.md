@@ -24,7 +24,7 @@ The Jews were also good at critical thinking - the prophets would ask the kings 
 at 00:44 you are in a mosaic, that is a picture that is made from very little stones, they like these in ancient Rome (2500-1600 years ago)
 Rome built a big empire, and united many people - most countries in Europe say that they come from this time.
 
-at 01:00 comes a painting from China, the picture has very fine lines. The picture is drawn on paper and people in China invented paper.
+at 01:00 comes a painting from China, the picture has very fine lines. The picture is drawn on paper and people in China invented paper. They also invented minimalism - that's art that is trying to use as few tools as possible.
 
 at 1:17 we get back to Europe during the renaissance - that's between six hundred and three hundred years ago in Italy.
 That's when Europe got back to the tradition of ancient Greece and ancient Rome, and when we learned about new things, like science.
@@ -40,7 +40,7 @@ at 2:08 in a surrealist painting, where the roots of the tree come all into the 
 Surrealist means that this is not real, trees don't have roots like this.
 You draw like this if you want to show ideas, not things that exist in the real world.
 
-You see that two robots are going through a journey, as if they learn again what humans learned through their own journey, and all that through the eyes of art.
+You see that two robots are going through a journey, as if they learn again what humans learned through their own way/journey, and all that through the eyes of art.
 Art is like a kind of time machine, if you look at both the art and its time.
 And that's what we will talk about now...
 
