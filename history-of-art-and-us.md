@@ -877,7 +877,7 @@ Also sometimes there are outcast wolf - that's when the group of wolfs doesn't l
 Dolev is asking a question: How could dogs domesticate us, if we did that with other animals?
 
 The dogs were the first domesticated animals, and I think that people would not know how to do this.
-I think that has to do with one of the theories: that wolfs got near to people - to get what is left over from the people eat, and that people got near wolfs - to learn from hunting them.  The other theory also says, that the outcast wolf got nearer to us - that means it was his initiative, kind of.
+I think that has to do with one of the theories: that wolfs got near to people - to get what is left over from what the people eat, and that people got near wolfs - to learn from hunting them.  The other theory also says, that the outcast wolf got nearer to us - that means it was his initiative, kind of.
 In the end that's kind of a joke, but I am not sure. When I walk out our dog Nella, then she always knows where to go. Maybe the dogs/wolfs had a plan? Who knows, they can't talk...
 
 https://www.youtube.com/watch?v=7DwmrQr11eo&t=621s Here is a funny story - I am sending the interesting part - where they author is having a discussion with a chief from the ice age. The funny story is that the dogs were the first, and then people would domesticate other animals. However the first domesticated animal would have been very difficult, that would be something new!
