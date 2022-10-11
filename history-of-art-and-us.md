@@ -571,10 +571,10 @@ Stonhenge, in Great Britain - the earliest stones are from five thousand years a
 Why did people do all that? Scientist think that this is how we got society: once upon a time people lived in small groups, very small bands of people, or villages with up to a hundred people in it. Now you can trust everyone in a small group - you know each other well, some of the people are your relatives.
 Trust is that you can believe what they say, you don't have to think all the time that they want to cheat you.
 
-Later the groups get bigger, and everyone is doing some special kind of work: some people are got at making clothes, so they make clothes all day.
-Some people are got at herding sheep, so that's what they do all day. These people have to exchange things, they need to trade what they got!
+Later the groups get bigger, and everyone is doing some special kind of work: some people are good at making clothes, so they make clothes all day.
+Some people are good at herding sheep, so that's what they do all day. These people have to exchange things - I give you my stuff and you give you your stuff, they need to trade what they got!
 At this moment trust becomes important, there is a big problem, if you can't trust anybody. 
-Try to be afraid of everybody - now life is very hard if you do that, cooperation becomes impossible, if you do that!
+Try to be afraid of everybody - now life is very hard if you do that, cooperation becomes impossible, if you have that!
 
 Now people need some common ideas, a common religion. And they do big projects together to build these temples - in the process they learn to trust each other.
 So maybe this process of building art created our first societies! You see that art is very important...
@@ -779,7 +779,7 @@ This is how pottery is made, wikipedia tells us a lot about pottery in ancient E
 - next you need to form the pot from the wet clay, again lots of possibilities.
     - Form it by hand. If you make a pot on your own then you will most likely use this method. ![](media/hand-shaping-clay.png) 
 
-even today you have people who work like this. This picture is not from long ago, this is near the Amazon river in south America.
+Even today you have people who work like this. This picture is not from long ago, this is near the Amazon river in south America.
 
 You can do better, welcome to the potter wheel!
     - use a rotating base, like this one, this is a very early method, it was even used before the time of the Pharaos, some six thousand years ago!  ![](media/rotating-base-shaping-clay.jpg)
@@ -877,7 +877,7 @@ Also sometimes there are outcast wolf - that's when the group of wolfs doesn't l
 Dolev is asking a question: How could dogs domesticate us, if we did that with other animals?
 
 The dogs were the first domesticated animals, and I think that people would not know how to do this.
-I think that has to do with one of the theories: that wolfs got near to people - to get what is left over, and that people got near wolfs - to learn from hunting them.  The other theory also says, that the outcast wolf got nearer to us - that means it was his initiative, kind of.
+I think that has to do with one of the theories: that wolfs got near to people - to get what is left over from the people eat, and that people got near wolfs - to learn from hunting them.  The other theory also says, that the outcast wolf got nearer to us - that means it was his initiative, kind of.
 In the end that's kind of a joke, but I am not sure. When I walk out our dog Nella, then she always knows where to go. Maybe the dogs/wolfs had a plan? Who knows, they can't talk...
 
 https://www.youtube.com/watch?v=7DwmrQr11eo&t=621s Here is a funny story - I am sending the interesting part - where they author is having a discussion with a chief from the ice age. The funny story is that the dogs were the first, and then people would domesticate other animals. However the first domesticated animal would have been very difficult, that would be something new!
