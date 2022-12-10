@@ -20,7 +20,23 @@ One thing that is especially depressing: teachers seem to be upset by questions.
 
 --
 
-Another rational: me getting bored on "the internet" and being a bit disillusioned about all of it... (need a new motivation, sort of)
+Methodology:
+
+So here I am writing down my messages to my kids (these are being sent as short stories via WhatsApp).
+Let's see if this medium works...
+
+I am trying to tell interesting stories in simple English, on various topics of interest (see the other markdown files in this repository)
+
+--
+
+A song by Crosby, Stills & Nash - Teach Your Children
+
+https://www.youtube.com/watch?v=2vnYKRacKQc
+
+
+--
+
+(Another rational: me getting bored on "the internet" and being a bit disillusioned about all of it... (need a new motivation, sort of)
 
 I guess that social networks are turning into some kind of tool for social control, it's a new trick of those who are in charge:
 
@@ -35,19 +51,6 @@ It's a change of focus in the tools used for brainwashing. I think that I should
 
 One solution for this is ... to keep digging.
 
-(that's one of my objectives: to teach my growing kids, that it is easy to write up something of interest, after you search a little bit on the enormously big internet)
+(that's one of my objectives: to teach my growing kids, that it is easy to write up something of interest, after you search a little bit on the enormously big internet) )
 
---
 
-Methodology:
-
-So here I am writing down my messages to my kids (these are being sent as short stories via WhatsApp).
-Let's see if this medium works...
-
-I am trying to tell interesting stories in simple English, on various topics of interest (see the other markdown files in this repository)
-
---
-
-A song by Crosby, Stills & Nash - Teach Your Children
-
-https://www.youtube.com/watch?v=2vnYKRacKQc
