@@ -2030,6 +2030,8 @@ The other guy is Tom Scott, he is a programmer. Here he is telling us about comp
 
 Now he doesn't tell us about calendars that have to do with the movement of stars: the ancient Egyptian calendar, the Babylonian Calendar and nowadays the Persian/Iranian calendar - they set the start of the new year when a certain star appears in the sky (we talked about this before). That means a lot of additional fun.
 
+There is a clever trick for working with leap seconds. On some days they have to add an extra second to a day, to keep the calendar synchronized with the movement of the earth around the sun. That's when you would get a date like 23:59:60 - at the end of the day. Many computers can't have that, the programs will start to have bugs. The trick is to make make the computer clock a bit slower, for each hour the computer clock will be 1/24th of a second slower. By the end of the day they have spent the extra second with this delay (24 * 1/24 = 1) and all the computers are happy again!
+
 ----
 
 
