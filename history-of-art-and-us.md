@@ -2011,27 +2011,32 @@ At the beginning it was said that this can't be, we found a contradiction!
 if we found an error - a contradiction, then that means that two can't be written as a fraction of two natural numbers, it is irrational.
 
 
-
-
-
-
-
-
-
-
-
-
-
 <!--
 We forgot to tell about another system of Numbers, this system of numbers was first invented by the Sumerians (that was the culture that came before the Babylonians), the Phoenicians had a similar one, the Greeks have one  and the Jews have the same number system.
 
 The trick is to have a letter for each number from one to ten, another number for each of the numbers 10, 20, 30, ... 90, and other letters for each number in the hundreds: 100, 200, 300, 400, 500 .... 900:
 
-==>
+-->
+
+------
+
+Here you have a homework exercise: Irving Finkel is working at the British Museum, he is telling us about a board game from the Neo-Babylonian or Achemeneid empire - some 2500 years ago, or earlier. https://www.youtube.com/watch?v=WZskjLq040I&t=225s
+
+Your exercise: understand the rules and make a board for this game, then play it with your friends or brothers/sisters.
+
+The link is to the place in the video where Ivring Finkel is telling us about the rules of the game.
+
+The other guy is Tom Scott, he is a programmer. Here he is telling us about computer programs that work with time and time zones. Different cultures have different calendars, which means a lot of fun. See this video: https://www.youtube.com/watch?v=-5wpm-gesOY
+
+Now he doesn't tell us about calendars that have to do with the movement of stars: the ancient Egyptian calendar, the Babylonian Calendar and nowadays the Persian/Iranian calendar - they set the start of the new year when a certain star appears in the sky (we talked about this before). That means a lot of additional fun.
+
+----
 
 
+Back to the Arts
+================
 
-
+The Art of Egypt had some 
 
 
 
