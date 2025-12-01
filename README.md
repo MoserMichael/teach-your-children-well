@@ -9,6 +9,8 @@ That's what we got right now:
 - [something about the Bauhaus school of design](https://github.com/MoserMichael/teach-your-children-well/blob/master/bauhaus-design.md)
 - [Some stuff of interest](https://github.com/MoserMichael/teach-your-children-well/blob/master/pop-science-and-other-stuff.md)
 
+- [Internet course for beginners (pdf)](https://mosermichael.github.io/teach-your-children-well/internet-course-en-he.pdf)  (the same in [powerpoint](https://mosermichael.github.io/teach-your-children-well/internet-course-en-he.pptx)
+
 --
 
 One reason: our local schools are kind of, depressing. Also we have the summer vacations, so there is no choice: i must make an effort to keep my home front busy...
