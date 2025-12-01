@@ -1,8 +1,5 @@
 
-New project: I should focus more on my kids, instead of posting stupid stuff into social networks (or instead of coding up other useless stuff) "teach your children well" Let's try... 
-
-It is relatively easy for me to dig up something of interest on "the internet", maybe i will succeed at teaching my kids on how to do that.
-The trick is to keep digging, basically speaking.
+New project: I should focus more on my kids, so let's try... 
 
 --
 
@@ -35,24 +32,4 @@ https://www.youtube.com/watch?v=2vnYKRacKQc
 
 
 Update: Well, i am no longer sure about the song: 'Teach your children well/Their father's hell will slowly go by' - history is part of us, it is hard to understand anything without looking at where things came from...
-
---
-
-(Another rational: me getting bored on "the internet" and being a bit disillusioned about all of it... (need a new motivation, sort of)
-
-I guess that social networks are turning into some kind of tool for social control, it's a new trick of those who are in charge:
-
-Once upon a time they used to find a single narrative, one that would fit everyone.
-They would then use that narrative and  push it through via the TV screen and the newspapers, so as to push it down the throat of everyone...
-
-Nowadays things changed: they are now assuming, that society is inherently divided into multiple tribes. Now the social networking thing is trying to build allegiances among the member of each particular tribe, instead of trying to find a common narrative.
-
-Of course guess who is the gatekeeper that is to decides on what counts as "fake news" and "fake information", gotcha!
-
-It's a change of focus in the tools used for brainwashing. I think that I should drop out of all this madness...
-
-One solution for this is ... to keep digging.
-
-(that's one of my objectives: to teach my growing kids, that it is easy to write up something of interest, after you search a little bit on the enormously big internet) )
-
 
