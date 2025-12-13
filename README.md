@@ -12,7 +12,6 @@ That's what we got right now:
 - [Some stuff of interest](https://github.com/MoserMichael/teach-your-children-well/blob/master/pop-science-and-other-stuff.md)
 
 
-
 --
 
 One reason: our local schools are kind of, depressing. Also we have the summer vacations, so there is no choice: i must make an effort to keep my home front busy...
