@@ -11,7 +11,7 @@ That's what we got right now:
 - [something about the Bauhaus school of design](https://github.com/MoserMichael/teach-your-children-well/blob/master/bauhaus-design.md)
 - [Some stuff of interest](https://github.com/MoserMichael/teach-your-children-well/blob/master/pop-science-and-other-stuff.md)
 - [on Jewish History](https://github.com/MoserMichael/teach-your-children-well/blob/master/jewish_history.md)
-
+- [on cooking](https://gist.github.com/MoserMichael/49533004180d39396adefbd3918cb4b7)
 
 --
 
