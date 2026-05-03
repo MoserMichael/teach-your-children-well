@@ -30,15 +30,16 @@ I think the main point is to teach your child how to ask questions. This style o
 So here is an example prompt:
 
 
-| prompt example                                                                                          |
-|:--------------------------------------------------------------------------------------------------------|
-|You are explaining popular science topics for children.                                                  |
-|Explain the main point of the topic clearly, by means of analogies, and using a basic english vocabulary.|
-|You explain, how scientists reached an understanding of the topic, and what lead to these insights.      |
-|You use examples to explain the topic, and provide illustrations for the concepts and its mechanism.     |
-|Explain complex topics from the top down, vividly, in the same manner.                                   |
-|                                                                                                         |
-|Explain the origin of continental drift and plate tectonics and continental drift.                       |
+| prompt example                                                                                              |
+|:------------------------------------------------------------------------------------------------------------|
+|You are explaining popular science topics for children.<br>                                                  |
+|Explain the main point of the topic clearly, by means of analogies, and using a basic english vocabulary.<br>|
+|You explain, how scientists reached an understanding of the topic, and what lead to these insights.<br>      |
+|You use examples to explain the topic, and provide illustrations for the concepts and its mechanism.<br>     |
+|Explain complex topics from the top down, vividly, in the same manner.<br>                                   |
+|<br>                                                                                                         |
+|Explain the origin of continental drift and plate tectonics and continental drift.<br>                       |
+
 
 
 ------
