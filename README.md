@@ -44,6 +44,8 @@ The results so far:
 
 - [on continental drift, and more](https://mosermichael.github.io/teach-your-children-well/talk-to-gemini--talking-about-geology-and-more.htm)
 
+(_funny thing: Language models have one acceptable occupation - programming, Everything else they are used for is frowned upon, for whatever reasons...._)
+
 ------
 
 One reason for this project: our local schools are kind of, depressing. Also we have the summer vacations, so there is no choice: i must make an effort to keep my home front busy...
