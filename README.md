@@ -56,8 +56,7 @@ One thing that is especially depressing: teachers seem to get upset by questions
 
 A song by Crosby, Stills & Nash - Teach Your Children
 
-https://www.youtube.com/watch?v=2vnYKRacKQc
-
+https://www.youtube.com/watch?v=zj8FlXGPcOQ&list=RDzj8FlXGPcOQ
 
 Update: Well, i am no longer sure about the song: 'Teach your children well/Their father's hell will slowly go by' - history is part of us, it is hard to understand anything without looking at where things came from...
 
