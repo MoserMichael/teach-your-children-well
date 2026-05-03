@@ -11,31 +11,46 @@ That's what we got right now:
 - [something about the Bauhaus school of design](https://github.com/MoserMichael/teach-your-children-well/blob/master/bauhaus-design.md)
 - [Some stuff of interest](https://github.com/MoserMichael/teach-your-children-well/blob/master/pop-science-and-other-stuff.md)
 - [on Jewish History](https://github.com/MoserMichael/teach-your-children-well/blob/master/jewish_history.md)
+
+Maybe less relevant to the subject, some stuff from my gists:
+
 - [on cooking](https://gist.github.com/MoserMichael/49533004180d39396adefbd3918cb4b7)
-
-
+- [Charlie Chaplin and his movies](https://gist.github.com/MoserMichael/197a3d4fc9b62edf2acce9b0ba0bbf36)
 
 -------
 
-It's 2026, and everyone is borked by AI.
-So I am now trying to automate this by means of a prompt with google AI mode. Here is my attempt (the common approach is the prefix of the prompt, as you cant set system prompts with google AI mode)
+It's 2026, and people get kind of  b0rked by AI.
 
-I think the main point is to teach your child how to ask questions. This style of creating lessons requires from you, who is building the lessons to ask questions too.
+... so I am now trying to automate this effort by means of talking to AI chat-bots. Here is my attempt (the common approach is the prefix of the prompt, as you cant set system prompts with google AI mode)
 
 One of the strong point is that you can ask the AI to create illustrations of concepts, and that you can use these illustrations in your lesson.
 
-------
+I think the main point is to teach your child how to ask questions. This style of creating lessons requires from you, who is building the lessons to ask questions too. I think that is my main criteria for success, if I can teach the importance of asking questions.
+
+So here is an example prompt:
+
+<table borders="1">
+<tr>
+<td>
 
 You are explaining popular science topics for children.
 Explain the main point of the topic clearly, by means of analogies, and using a basic english vocabulary.
-You explain, how scientists reached an understanding of the topic, and what lead to these insights.
+You explain, how scientists reached an understanding of the topic, and what lead to these insights.s
 You use examples to explain the topic, and provide illustrations for the concepts and its mechanism.
 Explain complex topics from the top down, vividly, in the same manner.
 
 Explain the origin of continental drift and plate tectonics and continental drift.
+</td>
+</tr>
+</table>
 
 ------
 
+The results so far:
+
+- [on continental drift, and more](https://mosermichael.github.io/teach-your-children-well/talk-to-gemini--talking-about-geology-and-more.htm)
+
+------
 
 One reason for this project: our local schools are kind of, depressing. Also we have the summer vacations, so there is no choice: i must make an effort to keep my home front busy...
 
