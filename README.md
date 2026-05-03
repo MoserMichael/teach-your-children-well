@@ -44,7 +44,7 @@ The results so far:
 
 - [on continental drift, and more](https://mosermichael.github.io/teach-your-children-well/talk-to-gemini--talking-about-geology-and-more.htm)
 
-(_funny thing: Language models have one acceptable occupation - programming, Everything else they are used for is frowned upon, for whatever reasons...._)
+(_funny thing: Language models have one socially acceptable occupation - programming. Everything else they are used for is frowned upon, for whatever reasons and regarded as AI slop_)
 
 ------
 
