@@ -45,7 +45,10 @@ The results so far:
 I am using a globe to spark interest and questions about Geography, Physics, etc.
 
 - [on continental drift, and more](https://mosermichael.github.io/teach-your-children-well/talk-to-gemini--talking-about-geology-and-more.htm)
+    - Initial prompt used: "You are explaining popular science topics for children.  The main point is explained clearly, by means of analogies, and using a basic english vocabulary.  You explain, how the concept was first understood, and what lead to these insights.  You use examples to explain the concepts, and provide illustrations for the concepts and mechanism.  Explain complex topics from the top down, vividly, in the same manner.  Explain the origin of continental drift and plate tectonics and continental drift."
 - [on electricity, electro-magnetic field around the earth etc](https://mosermichael.github.io/teach-your-children-well/talk-to-gemini--explaining-electricity-and-electromagnetism.htm)
+    - Initial prompt used: "You are explaining popular science topics for children.Explain the main point of the topic clearly, by means of analogies, and using a basic English vocabulary.You explain, how scientists reached an understanding of the topic, and what lead to these insights.You use examples to explain the topic, and provide illustrations for the concepts and its mechanism.Explain complex topics from the top down, vividly, in the same manner. We want to learn about the electromagnetic field around the earth, so lets learn from the basics.Let's learn about electricity. How is electricity created? What are electrically charged atoms with an excess of electrons? How do the electrons flow throw iron wire? What is the magnetic field and how is it created in the wire by the flow of electrons?"
+
 
 (_funny thing: Language models have one socially acceptable occupation - programming. Everything else they produce is frowned upon, for whatever reasons and regarded as AI slop. I value these results, as they are the result of a dialogue - and Socrates and Plato both liked that method of teaching about things..._)
 
