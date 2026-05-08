@@ -28,8 +28,7 @@ One of the strong point is that you can ask the AI to create illustrations of co
 I think the main point is to teach your child how to ask questions. This style of creating lessons requires from you, who is building the lessons to ask questions too. I think that is my main criteria for success, if I can teach the importance of asking questions.
 
 
-Here is an example for the type of initial prompts used to create this material. I then use that as a starting point for continuing the dialog. Most often I am using the result as a tool on how to structure the lesson.
-
+Here is an example for the type of initial prompts used to create this material. I then use that as a starting point for continuing the dialogue. I am using the result as blueprint for my lesson.
 ```
 You are explaining popular science topics for children.
 Explain the main point of the topic clearly, by means of analogies, and using a basic English vocabulary.
