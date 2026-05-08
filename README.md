@@ -42,9 +42,12 @@ Explain the origin of continental drift and plate tectonics and continental drif
 
 The results so far:
 
-- [on continental drift, and more](https://mosermichael.github.io/teach-your-children-well/talk-to-gemini--talking-about-geology-and-more.htm)
+I am using a globe to spark interest and questions about Geography, Physics, etc.
 
-(_funny thing: Language models have one socially acceptable occupation - programming. Everything else they are used for is frowned upon, for whatever reasons and regarded as AI slop_)
+- [on continental drift, and more](https://mosermichael.github.io/teach-your-children-well/talk-to-gemini--talking-about-geology-and-more.htm)
+- [on electricity, electro-magnetic field around the earth etc](https://mosermichael.github.io/teach-your-children-well/talk-to-gemini--explaining-electricity-and-electromagnetism.htm)
+
+(_funny thing: Language models have one socially acceptable occupation - programming. Everything else they produce is frowned upon, for whatever reasons and regarded as AI slop. I value these results, as they are the result of a dialogue - and Socrates and Plato both liked that method of teaching about things..._)
 
 ------
 
