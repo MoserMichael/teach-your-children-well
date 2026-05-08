@@ -21,7 +21,7 @@ Maybe less relevant to the subject, some stuff from my gists:
 
 It's 2026, and people get kind of  b0rked by AI.
 
-... so I am now trying to automate this effort by means of talking to AI chat-bots. Here is my attempt (the common approach is the prefix of the prompt, as you cant set system prompts with google AI mode)
+... so I am now trying to automate this effort by means of talking to AI chat-bots. Here is my attempt. I am using a prompt prefix, as a starting point (you cant set system prompts with google AI mode)
 
 One of the strong point is that you can ask the AI to create illustrations of concepts, and that you can use these illustrations in your lesson.
 
